@@ -23,7 +23,33 @@ Sometimes I write tech articles, you can read them in English on [Medium](https:
 <code><img height="30" src="https://habrastorage.org/webt/d0/g4/wj/d0g4wjovwabpzhaetmqydzwff1o.jpeg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 
-<br>
+## Social networking
+
+<a href="https://github.com/splincode" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/splincode" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn">
+</a>
+
+<a href="https://www.youtube.com/c/splincodewd" target="_blank">
+  <img src="https://img.shields.io/badge/Youtube-eb3223?style=flat&logo=youtube&labelColor=eb3223" alt="YouTube">
+</a>
+
+<a href="https://twitter.com/splincodewd" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+
+<a href="https://medium.com/@splincode" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" alt="Medium">
+</a>
+
+<a href="https://t.me/splincode" target="_blank">
+  <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram">
+</a>
+
+## Local stats (without github groups)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=splincode&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
