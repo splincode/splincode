@@ -1,4 +1,9 @@
-### Hi there 👋
+<h2> Hi, I'm splincode! <img src="https://habrastorage.org/webt/gx/fh/jm/gxfhjmrabq3yapyhgwscweeb9bu.gif" width="50"></h2>
+
+<img align='right' src="https://habrastorage.org/webt/tn/jp/ep/tnjpepft7cptughbj_1bmrublio.gif" width="430">
+
+I am <b>Maksim Ivanov</b>.
+I am an optimistic, curious and well-focused developer. :sparkles: <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=splincode&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
