@@ -3,7 +3,7 @@
 <img align='right' src="https://habrastorage.org/webt/tn/jp/ep/tnjpepft7cptughbj_1bmrublio.gif" width="430">
 
 I am <b>Maksim Ivanov</b>.
-I am an optimistic, curious and well-focused developer. :sparkles: <br>
+I am an easy-going, curious and well-focused developer. :sparkles: <br>
 
 I have an active profile on GitHub where I participate in component development kit in [Angular-RU](https://github.com/Angular-RU) and [NGXS](http://github.com/ngxs), [NGXS Labs](https://github.com/ngxs-labs). I took part in Angular Moscow meetups and Frontend Conf.
 
