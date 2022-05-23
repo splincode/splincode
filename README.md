@@ -1,6 +1,6 @@
 <h2> Hi, I'm splincode! <img src="https://habrastorage.org/webt/gx/fh/jm/gxfhjmrabq3yapyhgwscweeb9bu.gif" width="20"></h2>
 
-<img align="right" src="https://habrastorage.org/webt/tn/jp/ep/tnjpepft7cptughbj_1bmrublio.gif" width="430">
+<img src="https://habrastorage.org/webt/tn/jp/ep/tnjpepft7cptughbj_1bmrublio.gif" width="400">
 
 I am <b>Maksim Ivanov</b>.
 I am an easy-going, curious and well-focused developer. :sparkles: <br>
