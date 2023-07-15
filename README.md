@@ -1,56 +1,116 @@
-<h2> Hi, I'm splincode! <img src="https://habrastorage.org/webt/gx/fh/jm/gxfhjmrabq3yapyhgwscweeb9bu.gif" width="20"></h2>
+<h3 align="center">Hi, I'm Maksim Ivanov!</h3>
+<p align="center"><b>Frontend-developer</b><br>JavaScript, TypeScript, Angular, CI/CD (Git, Docker)</p>
 
-<img src="https://habrastorage.org/webt/tn/jp/ep/tnjpepft7cptughbj_1bmrublio.gif" width="400">
+<h5 align="center">
+  <a href="mailto:splincodewd@yandex.ru">splincodewd@yandex.ru</a> • 
+  <a href="https://t.me/splincode">Telegram</a> •
+  <a href="https://twitter.com/splincodewd">Twitter</a> •
+  <a href="https://habr.com/ru/users/splincodewd/">Habr</a> •
+  <a href="https://medium.com/@splincode">Medium</a> •
+  <a href="https://www.youtube.com/c/splincodewd">YouTube</a>
+</h5>
 
-I am <b>Maksim Ivanov</b>.
-I am an easy-going, curious and well-focused developer. :sparkles: <br>
 
-I have an active profile on GitHub where I participate in component development kit in [Angular-RU](https://github.com/Angular-RU) and [NGXS](http://github.com/ngxs), [NGXS Labs](https://github.com/ngxs-labs). I took part in Angular Moscow meetups and Frontend Conf.
+<h3>Work Experience</h3>
 
-I am fond of designing [UI/UX](https://www.figma.com/@splincode), developing [UI-kit components](https://github.com/Angular-RU/angular-ru-sdk), building and improving scrum processes. I get inspired by [Frederic Laloux’s](https://www.amazon.com/Reinventing-Organizations-Creating-Inspired-Consciousness-ebook/dp/B00ICS9VI4/ref=sr_1_1?crid=5O4IFOXEEQF3&dchild=1&keywords=frederic+laloux&qid=1630832688&s=digital-text&sprefix=frederick+lal%2Cdigital-text%2C263&sr=1-1) and [Daniel Pink’s](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B004P1JDJO/ref=sr_1_1?crid=27CS48Y73O9GJ&dchild=1&keywords=daniel+pink&qid=1630832731&s=digital-text&sprefix=danial+pink%2Cdigital-text%2C261&sr=1-1) ideas. I like when the project uses strict code linting rules. I am good at writing tests and improving the code base coverage.
 
-Sometimes I write technical articles in English, they are available at [Medium](https://medium.com/@splincode) or [Habr](https://habr.com/ru/users/splincodewd/posts/) sites.
+<table width="100%">
+  <tr>
+    <td width="200px">
+      <p>
+        <b>Nov 2018 - now</b> <br>
+        <a href="https://tinkoff-group.com/">Tinkoff Group</a>
+      </p>
+    </td>
+    <td width="700px">
+       <p><b>Senior Frontend-developer</b></p>
+       <p>
+         • I am working in the <a href="https://github.com/tinkoff/taiga-ui">Taiga UI</a> team since 2021 on open source UI Library.<br>
+         <br>
+         Key technologies: TypeScript, Angular. <br>
+         Team ~ 7 people <br>
+         <br>
+         <b>2018 - 2021</b>: <br>
+         • I led a design and development team working on UX/UI for anti-fraud system; <br>
+         • Improved scrum processes (meetings, retrospectives); <br>
+         • Conducted one-on-one meetings with team members; <br>
+         • Mentoring junior/middle developers; <br>
+         • Write code on TypeScript for SPA on Angular; <br>
+         • Designing custom schematics/builders for Nx;  <br>
+         • Create custom Figma components;  <br>
+         • Collaborate with QA team to define test cases: e2e test for Cypress;  <br>
+         • Maintain, update and improve existing legacy ui-platform; <br>
+         • Perform code reviews; <br>
+         • Manage CI/CD pipelines for Jenkins CI and Gitlab.  <br>
+          <br>
+          Team ~ 7 people <br>
+          Key technologies: TypeScript, Angular, NGXS, Material, Jest, ESLint, Prettier, Cypress, Docker, Nginx.
+       </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        <b>Nov 2017 - Oct 2018</b> <br>
+        <a href="https://www.cinimex.ru/">Cinimex</a>
+      </p>
+    </td>
+    <td>
+      <p><b>Middle Frontend-developer</b></p>
+      <p>
+        • Developed user interfaces for outsourced projects with Angular and NGXS, NGRX, Akita; <br>
+        • Writing unit tests (Karma, Jest) and e2e tests (Protractor); <br>
+        • Maintaining mobile hybrid application on Ionic 3; <br>
+        • Developed mock services on Node.js (Express.js); <br>
+        • Designing and organizing the architecture of a web application on Node.js (Nest.js); <br>
+        • Successfully mentored interns who have significantly strengthened our team;  <br>
+        • Organized student internships.  <br>
+         <br>
+        Team ~ 10 people.
+         <br>
+        Key technologies: TypeScript, Angular, KarmaJS, PrimeNG, React, Redux Form, Mobx, Vue, Vuex, Ionic, Protractor, Nightwatch.js;
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        <b>Jun 2016 - Nov 2017</b> <br>
+        <a href="http://www.avkcom.ru/">AVK-Communications</a>
+      </p>
+    </td>
+    <td>
+      <p><b>Junior Frontend-developer</b></p>
+      <p>
+        • Developed UX/UI for enterprise portal;<br>
+        • Participated in development of module verifying electronic signatures (ES) on web pages using the cryptographic information protection tool "CryptoPro CSP";<br>
+        • Developed test cases for Protractor;<br>
+        • Perform load testing (Apache Benchmark, Siege);<br>
+        • Configured TeamCity. <br>
+        <br>
+        Team ~ 3 people.
+        <br>
+        Key technologies: TypeScript, Webpack, Gulp, Angular Universal, Material UI;
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        <b>Aug 2014 - May 2016</b> <br>
+        Freelance
+      </p>
+    </td>
+    <td>
+      <p><b>Junior PHP-developer</b></p>
+      <p>
+        • Developed news portal on WordPress CMS.<br>
+        <br>
+        Key technologies: jQuery, PHP, MySQL, WordPress CMS, Bootstrap, Semantic-UI.
+      </p>
+    </td>
+  </tr>
+</table>
 
-## Languages and Tools
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://habrastorage.org/webt/d0/g4/wj/d0g4wjovwabpzhaetmqydzwff1o.jpeg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 
-## Social networking
-
-<a href="https://github.com/splincode" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/splincode" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn">
-</a>
-
-<a href="https://www.youtube.com/c/splincodewd" target="_blank">
-  <img src="https://img.shields.io/badge/Youtube-eb3223?style=flat&logo=youtube&labelColor=eb3223" alt="YouTube">
-</a>
-
-<a href="https://twitter.com/splincodewd" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-
-<a href="https://medium.com/@splincode" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" alt="Medium">
-</a>
-
-<a href="https://t.me/splincode" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram">
-</a>
-
-## Local stats (without github groups)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=splincode&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
