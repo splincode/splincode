@@ -114,3 +114,33 @@
 
 
 
+<h3>Education / Additional Education</h3>
+
+
+<table width="100%">
+  <tr>
+    <td width="200px">
+      <p>
+        <b>Sep 2014 - Jul 2018</b> <br>
+        <a href="https://tinkoff-group.com/">Moscow State Technological University "Stankin", Moscow</a>
+      </p>
+    </td>
+    <td width="700px">
+       <p>Information technology and systems, Applied Informatics
+       </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        <b>Jan 2022 - Aug 2022</b> <br>
+        Yandex Practicum
+      </p>
+    </td>
+    <td>
+      <p>Education course, Java</p>
+    </td>
+  </tr>
+</table>
+
+
