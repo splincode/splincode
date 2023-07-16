@@ -16,7 +16,7 @@
 
 <table width="100%">
   <tr>
-    <td width="200px">
+    <td width="250px">
       <p>
         <b>Nov 2018 - now</b> <br>
         <a href="https://tinkoff-group.com/">Tinkoff Group</a>
@@ -119,26 +119,82 @@
 
 <table width="100%">
   <tr>
-    <td width="200px">
+    <td width="250px">
       <p>
         <b>Sep 2014 - Jul 2018</b> <br>
-        <a href="https://tinkoff-group.com/">Moscow State Technological University "Stankin", Moscow</a>
+        <a href="https://stankin.ru/">MSTU "Stankin", Moscow</a>
       </p>
     </td>
     <td width="700px">
-       <p>Information technology and systems, Applied Informatics
-       </p>
+       <p>Information technology and systems, Applied Informatics</p>
     </td>
   </tr>
   <tr>
     <td>
       <p>
         <b>Jan 2022 - Aug 2022</b> <br>
-        Yandex Practicum
+        <a href="https://practicum.yandex.ru/">Yandex Practicum</a>
       </p>
     </td>
     <td>
       <p>Education course, Java</p>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <p>
+        <b>Dec 2020 - Jun 2021</b> <br>
+        <a href="https://practicum.yandex.ru/">Yandex Practicum</a>
+      </p>
+    </td>
+    <td>
+      <p>Education course, UX/UI Designer (figma)</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        <b>Aug 2018</b> <br>
+        <a href="https://www.udemy.com/">Udemy</a>
+      </p>
+    </td>
+    <td>
+      <p>The Complete Angular Course, Beginner to Advanced</p>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <p>
+        <b>Jul - Sep 2017</b> <br>
+        <a href="https://www.freecodecamp.org/">FreeCodeCamp</a>
+      </p>
+    </td>
+    <td>
+      <p>JavaScript, Algorithms and Data Structures</p>
+    </td>
+  </tr>
+  </tr>
+    <tr>
+    <td>
+      <p>
+        <b>Jan - Jun 2016</b> <br>
+        <a href="https://safeboard.kaspersky.ru/">Kaspersky Lab, Internship</a>
+      </p>
+    </td>
+    <td>
+      <p>C++ and security issues</p>
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        <b>Jan - Jun 2015</b> <br>
+        <a href="https://safeboard.kaspersky.ru/">Codecademy</a>
+      </p>
+    </td>
+    <td>
+      <p>Frontend Stack, Bootstap, jQuery, Angular</p>
     </td>
   </tr>
 </table>
