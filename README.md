@@ -141,6 +141,17 @@
       </p>
     </td>
     <td width="700px">
+      <p>Education course, Java</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        <b>Dec 2020 - Jun 2021</b> <br>
+        <a href="https://practicum.yandex.ru/">Yandex Practicum</a>
+      </p>
+    </td>
+    <td>
       <p>Education course, UX/UI Designer (figma)</p>
     </td>
   </tr>
