@@ -112,9 +112,7 @@
   </tr>
 </table>
 
-
-
-<h3>Education / Additional Education</h3>
+<h3>Education</h3>
 
 
 <table width="100%">
@@ -129,25 +127,20 @@
        <p>Information technology and systems, Applied Informatics</p>
     </td>
   </tr>
+</table>
+
+<h3>Additional Education</h3>
+
+
+<table width="100%">
   <tr>
-    <td>
-      <p>
-        <b>Jan 2022 - Aug 2022</b> <br>
-        <a href="https://practicum.yandex.ru/">Yandex Practicum</a>
-      </p>
-    </td>
-    <td>
-      <p>Education course, Java</p>
-    </td>
-  </tr>
-    <tr>
-    <td>
+    <td width="250px">
       <p>
         <b>Dec 2020 - Jun 2021</b> <br>
         <a href="https://practicum.yandex.ru/">Yandex Practicum</a>
       </p>
     </td>
-    <td>
+    <td width="700px">
       <p>Education course, UX/UI Designer (figma)</p>
     </td>
   </tr>
