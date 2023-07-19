@@ -25,13 +25,14 @@
     <td width="700px">
        <p><b>Senior Frontend-developer</b></p>
        <p>
-         • I am working in the <a href="https://github.com/tinkoff/taiga-ui">Taiga UI</a> team since 2021 on open source UI Library.<br>
-         <br>
+         <b>2021 - now</b>: <br>
+         I am working in the <a href="https://github.com/tinkoff/taiga-ui">Taiga UI</a> team since 2021 on open source UI Library, where: <br>
+         • Manage CI/CD pipelines for Gitlab; <br><br>
          Key technologies: TypeScript, Angular. <br>
          Team ~ 4 people <br>
          <br>
          <b>2018 - 2021</b>: <br>
-         • I led a design and development team working on UX/UI for anti-fraud system; <br>
+         I led a design and development team working on UX/UI for anti-fraud system, where: <br>
          • Improved scrum processes (meetings, retrospectives); <br>
          • Conducted one-on-one meetings with team members; <br>
          • Mentoring junior/middle developers; <br>
@@ -41,7 +42,7 @@
          • Collaborate with QA team to define test cases: e2e test for Cypress;  <br>
          • Maintain, update and improve existing legacy ui-platform; <br>
          • Perform code reviews; <br>
-         • Manage CI/CD pipelines for Jenkins CI and Gitlab.  <br>
+         • Manage CI/CD pipelines for Jenkins CI.  <br>
           <br>
           Team ~ 7 people <br>
           Key technologies: TypeScript, Angular, NGXS, Material, Jest, ESLint, Prettier, Cypress, Docker, Nginx.
