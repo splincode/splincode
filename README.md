@@ -28,7 +28,7 @@
          • I am working in the <a href="https://github.com/tinkoff/taiga-ui">Taiga UI</a> team since 2021 on open source UI Library.<br>
          <br>
          Key technologies: TypeScript, Angular. <br>
-         Team ~ 7 people <br>
+         Team ~ 4 people <br>
          <br>
          <b>2018 - 2021</b>: <br>
          • I led a design and development team working on UX/UI for anti-fraud system; <br>
