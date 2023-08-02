@@ -27,7 +27,7 @@
        <p>
          <b>2021 - now</b>: <br>
          I am working in the <a href="https://github.com/tinkoff/taiga-ui">Taiga UI</a> team since 2021 on open source UI Library, where: <br>
-         • Manage CI/CD pipelines for Gitlab; <br><br>
+         • Manage CI/CD pipelines for Gitlab/Github; <br><br>
          Key technologies: TypeScript, Angular. <br>
          Team ~ 4 people <br>
          <br>
