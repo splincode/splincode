@@ -19,7 +19,7 @@
     <td width="250px">
       <p>
         <b>Nov 2018 - now</b> <br>
-        <a href="https://tinkoff-group.com/">Tinkoff Group</a>
+        <a href="https://tinkoff-group.com/">TCS Group</a>
       </p>
     </td>
     <td width="700px">
