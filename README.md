@@ -10,11 +10,6 @@
   <a href="https://www.youtube.com/c/splincodewd">YouTube</a>
 </h5>
 
-<h5 align="center">
-
-  [![committers.top badge](https://user-badge.committers.top/russia/splincode.svg)](https://user-badge.committers.top/russia/splincode)
-
-</h5>
 
 <h3>Work Experience</h3>
 
@@ -208,5 +203,19 @@
     </td>
   </tr>
 </table>
+
+<details>
+  <summary>Badges</summary>
+ 
+  <h5 align="center">
+  
+    [![committers.top badge](https://user-badge.committers.top/russia/splincode.svg)](https://user-badge.committers.top/russia/splincode)
+  
+  </h5>
+
+</details>
+
+
+
 
 
