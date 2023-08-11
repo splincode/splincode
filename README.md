@@ -206,12 +206,10 @@
 
 <details>
   <summary>Badges</summary>
- 
-  <h5 align="center">
-  
-    [![committers.top badge](https://user-badge.committers.top/russia/splincode.svg)](https://user-badge.committers.top/russia/splincode)
-  
-  </h5>
+
+  <a href="https://user-badge.committers.top/russia/splincode">
+    <img src="https://user-badge.committers.top/russia/splincode.svg" />
+  </a>
 
 </details>
 
