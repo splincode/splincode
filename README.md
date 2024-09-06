@@ -11,10 +11,3 @@ My name is Maxim Ivanov. I'm currently working on the open source project <a hre
 I love writing code in Angular, and I like it when the project uses strict code linting rules, writes tests and improves the code base coverage.
 </div> 
 <br>
-
-
-<!-- Social Media Banners -->
-
-<a href="https://habr.com/ru/users/splincodewd/">![Habr](https://img.shields.io/badge/Habr-000000?style=plastic&logo=aboutme&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/splincode/">![LinkedIn: splincode](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<a href="https://twitter.com/splincodewd">![Twitter: splincode](https://img.shields.io/twitter/follow/splincode?logo=twitter&style=plastic)</a>
