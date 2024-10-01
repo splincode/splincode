@@ -9,8 +9,8 @@
 ### T(inkoff)-Bank · Full-time
 С̶т̶а̶р̶ы̶й̶ Старший frontend-разработчик
 
-· Проект Taiga-UI (Август 2021 - now)
-· Антифрод-мониторинг в процессинговом департаменте (Ноябрь 2018 - 2021)
+· Проект Taiga-UI (Август 2021 - now) <br>
+· Антифрод-мониторинг в процессинговом департаменте (Ноябрь 2018 - 2021)  <br>
 · Key technologies: TypeScript, Angular, NGXS, Material, Jest, ESLint, Prettier, Cypress, Docker, Nginx.
 
 ### Cinimex · Full-time
