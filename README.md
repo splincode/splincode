@@ -7,3 +7,23 @@
 В свободное время стараюсь ходить на выставки различных художников. Вечерами люблю смотреть корейские сериалы, а по утрам бегать.
 
 
+### Tinkoff Bank · Full-time
+Senior frontend-developer
+
+As frontend developer (2021 - now):
+Taiga-UI
+
+As frontend developer (2018 - 2021):
+Key technologies: TypeScript, Angular, NGXS, Material, Jest, ESLint, Prettier, Cypress, Docker, Nginx.
+
+### Cinimex · Full-time
+Middle frontend-developer
+Nov 2017 - Nov 2018
+
+### AVK-Communications · Full-time
+Junior frontend-developer
+
+### Freelance.com · Full-time
+PHP, WordPress CMS, Joomla CMS
+
+
