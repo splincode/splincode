@@ -8,20 +8,19 @@
 
 ### T(inkoff)-Bank · Full-time
 С̶т̶а̶р̶ы̶й̶ Старший frontend-разработчик
-
 · Проект Taiga-UI (Август 2021 - now) <br>
 · Антифрод-мониторинг в процессинговом департаменте (Ноябрь 2018 - 2021)  <br>
 · Key technologies: TypeScript, Angular, NGXS, Material, Jest, ESLint, Prettier, Cypress, Docker, Nginx.
 
-### Cinimex · Full-time <br>
+### Cinimex · Full-time
 Frontend-разработчик <br>
 Ноябрь 2017 - Ноябрь 2018
 
-### AVK-Communications · Full-time <br>
+### AVK-Communications · Full-time
 Младший frontend-разработчик <br>
 Июнь 2016 - Ноябрь 2017 
 
-### Freelance.com · Full-time <br>
+### Freelance.com · Full-time
 PHP, WordPress CMS, Joomla CMS <br>
 Май 2013 - Август 2015
 
