@@ -6,23 +6,22 @@
 На данный момент работаю удаленно в команде одного из проектов<a href="https://www.tbank.ru/" target="_blank">желтого банка</a>. 
 В свободное время стараюсь ходить на выставки различных художников. Вечерами люблю смотреть корейские сериалы, а по утрам бегать.
 
-### Tinkoff Bank · Full-time
-Senior frontend-developer
+### T(inkoff)-Bank · Full-time
+С̶т̶а̶р̶ы̶й̶ Старший frontend-разработчик
 
-As frontend developer (2021 - now):
-Taiga-UI
-
-As frontend developer (2018 - 2021):
-Key technologies: TypeScript, Angular, NGXS, Material, Jest, ESLint, Prettier, Cypress, Docker, Nginx.
+· Проект Taiga-UI (Август 2021 - now)
+· Антифрод-мониторинг в процессинговом департаменте (Ноябрь 2018 - 2021)
+· Key technologies: TypeScript, Angular, NGXS, Material, Jest, ESLint, Prettier, Cypress, Docker, Nginx.
 
 ### Cinimex · Full-time
-Middle frontend-developer
-Nov 2017 - Nov 2018
+Frontend-разработчик
+Ноябрь 2017 - Ноябрь 2018
 
 ### AVK-Communications · Full-time
-Junior frontend-developer
+Младший frontend-разработчик
+Июнь 2016 - Ноябрь 2017 
 
 ### Freelance.com · Full-time
 PHP, WordPress CMS, Joomla CMS
-
+Май 2013 - Август 2015
 
