@@ -20,7 +20,7 @@ Frontend-разработчик <br>
 Младший frontend-разработчик <br>
 Июнь 2016 - Ноябрь 2017 
 
-### Freelance.com · Full-time
+### Freelance.com · Part-time
 PHP, WordPress CMS, Joomla CMS <br>
 Май 2013 - Август 2015
 
