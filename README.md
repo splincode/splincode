@@ -7,7 +7,7 @@
 В свободное время стараюсь ходить на выставки различных художников. Вечерами люблю смотреть корейские сериалы, а по утрам бегать.
 
 ### T(inkoff)-Bank · Full-time
-С̶т̶а̶р̶ы̶й̶ Старший frontend-разработчик <br>
+Frontend-разработчик <br>
 · Проект Taiga-UI (Август 2021 - now) <br>
 · Антифрод-мониторинг в процессинговом департаменте (Ноябрь 2018 - 2021)  <br>
 · Key technologies: TypeScript, Angular, NGXS, Material, Jest, ESLint, Prettier, Cypress, Docker, Nginx.
