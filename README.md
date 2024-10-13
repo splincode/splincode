@@ -21,12 +21,16 @@ Frontend-разработчик <br>
 Июнь 2016 - Ноябрь 2017 
 
 ### Freelance.com · Part-time
-PHP, WordPress CMS, Joomla CMS <br>
-Май 2013 - Август 2015
+Работа на фрилансе как веб-мастер <br>
+Май 2012 - Август 2015
 
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/html-5.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/css-3.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/php.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/mysql.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/joomla.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/wordpress.svg" align="center" /></code>
+
 
 ### О себе
 
