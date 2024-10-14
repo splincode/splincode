@@ -13,7 +13,8 @@ Frontend-разработчик <br>
 
 ### Cinimex · Full-time
 Frontend-разработчик <br>
-Ноябрь 2017 - Ноябрь 2018
+ · Ноябрь 2017 - Ноябрь 2018 <br>
+ · Проекты внутренних порталов на аутсорсинг у ПАО Росбанк и ЗАО Газпромбанк, 
 
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
@@ -22,14 +23,15 @@ Frontend-разработчик <br>
 
 ### AVK-Communications · Full-time
 Младший frontend-разработчик <br>
-Июнь 2016 - Ноябрь 2017 
+Июнь 2016 - Ноябрь 2017
 
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 
 ### Freelance.com · Part-time
 Работа на фрилансе как веб-мастер <br>
-Май 2012 - Август 2015
+ · Май 2012 - Август 2015
+ · Проекты на аутсорсинге у ПАО Вымпелко (Билайн)
 
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/html-5.svg" align="center" /></code>
