@@ -31,7 +31,7 @@ Frontend-разработчик <br>
 ### Cinimex · Full-time
 Frontend-разработчик <br>
  · Ноябрь 2017 - Ноябрь 2018: <br>
- · Проекты внутренних порталов на аутсорсинге у ПАО Росбанк и ЗАО Газпромбанк
+ · Проекты внутренних порталов <br> на аутсорсинге у ПАО Росбанк и ЗАО Газпромбанк
 
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" align="center" /></code>
