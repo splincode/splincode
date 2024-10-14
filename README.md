@@ -15,18 +15,15 @@ Frontend-разработчик <br>
 Frontend-разработчик <br>
 Ноябрь 2017 - Ноябрь 2018
 
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://v2.angular.io/resources/images/logos/angular2/angular.svg" align="center" /></code>
+
 ### AVK-Communications · Full-time
 Младший frontend-разработчик <br>
 Июнь 2016 - Ноябрь 2017 
 
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/css-3.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jquery.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/php.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/mysql.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/joomla.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/wordpress.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 
 ### Freelance.com · Part-time
 Работа на фрилансе как веб-мастер <br>
