@@ -17,7 +17,7 @@ Frontend-разработчик <br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
 
 · Ноябрь 2018 - 2021:  <br>
-· Разработка внутренней АРМ системы для фрод-мониторинга в процессинговом департаменте <br>
+· Разработка внутренней системы, автоматизированное рабочее место для фрод-мониторинга в процессинговом департаменте <br>
 · Разработка внешней платежной формы 3-D Secure <br>
 
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
