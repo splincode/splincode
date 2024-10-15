@@ -7,7 +7,7 @@
 
 <hr>
 
-### T(inkoff)-Bank <a href="https://www.tbank.ru/"><code>⤯</code></a> · Full-time
+### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 **Frontend-разработчик** <br>
 · Август 2021 - now: <br>
 · Проект [Taiga-UI](https://taiga-ui.dev/) в департаменте базовых технологий <br>
@@ -28,7 +28,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/cypress-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
 
-### Cinimex <a href="https://cinimex.ru/"><code>⤯</code></a> · Full-time
+### Cinimex <a href="https://cinimex.ru/" target="_blank"><code>⤯</code></a> · Full-time
 **Frontend-разработчик** <br>
  · Ноябрь 2017 - Ноябрь 2018: <br>
  · Проекты внутренних порталов <br> на аутсорсинге у ПАО Росбанк и ЗАО Газпромбанк
@@ -40,7 +40,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/karma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
 
-### AVK-Communications <a href="http://www.atlant-inform.ru/"><code>⤯</code></a> · Full-time
+### AVK-Communications <a href="http://www.atlant-inform.ru/" target="_blank"><code>⤯</code></a> · Full-time
 **Junior frontend-разработчик** <br>
  · Июнь 2016 - Ноябрь 2017: <br>
  · Проекты на аутсорсинге у ПАО Вымпелком (Билайн)
@@ -49,7 +49,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 
-### Freelance.com <a href="https://freelance.ru/"><code>⤯</code></a> · Part-time
+### Freelance <a href="https://freelance.ru/" target="_blank"><code>⤯</code></a> · Part-time
 **Работа на фрилансе как веб-мастер** <br>
  · Май 2012 - Август 2015:
 
