@@ -8,7 +8,7 @@
 <hr>
 
 ### T(inkoff)-Bank · Full-time
-Frontend-разработчик <br>
+**Frontend-разработчик** <br>
 · Август 2021 - now: <br>
 · Проект [Taiga-UI](https://taiga-ui.dev/) в департаменте базовых технологий <br>
 
@@ -29,7 +29,7 @@ Frontend-разработчик <br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
 
 ### Cinimex · Full-time
-Frontend-разработчик <br>
+**Frontend-разработчик** <br>
  · Ноябрь 2017 - Ноябрь 2018: <br>
  · Проекты внутренних порталов <br> на аутсорсинге у ПАО Росбанк и ЗАО Газпромбанк
 
@@ -41,7 +41,7 @@ Frontend-разработчик <br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
 
 ### AVK-Communications · Full-time
-Младший frontend-разработчик <br>
+**Junior frontend-разработчик** <br>
  · Июнь 2016 - Ноябрь 2017: <br>
  · Проекты на аутсорсинге у ПАО Вымпелком (Билайн)
 
@@ -50,7 +50,7 @@ Frontend-разработчик <br>
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 
 ### Freelance.com · Part-time
-Работа на фрилансе как веб-мастер <br>
+**Работа на фрилансе как веб-мастер** <br>
  · Май 2012 - Август 2015:
 
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></code>
