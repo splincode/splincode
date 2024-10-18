@@ -4,8 +4,6 @@
 
 Всем привет, меня зовут Максим Иванов. На данный момент работаю удаленно в команде одного из проектов <a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>. 
 
-<hr>
-
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 **Frontend-разработчик** <br>
 · Август 2021 - now: <br>
