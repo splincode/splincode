@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/south-korea.jpg" width="350" align="right">
 
-Всем привет, меня зовут Максим Иванов. На данный момент работаю удаленно в команде одного из проектов <a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>. 
+Всем привет, меня зовут Максим Иванов. На данный момент работаю 🏠 удаленно в команде одного из проектов <a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>. 
 
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 **Frontend-разработчик** <br>
