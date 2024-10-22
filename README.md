@@ -14,7 +14,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
 
 <sup>☑ В основном занимаюсь написанием unit/e2e-тестов, medium-багфиксами или делаю small-improvement для документации
-проект [Taiga-UI](https://taiga-ui.dev/) в департаменте базовых технологий. Иногда выполняю функции FrontOps'а для
+проекта [Taiga-UI](https://taiga-ui.dev/) в департаменте базовых технологий. Иногда выполняю функции FrontOps'а для
 улучшения CI/CD и DX процессов.</sup>
 
 Ноябрь 2018 - 2021 ➪
