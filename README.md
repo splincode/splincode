@@ -1,6 +1,6 @@
 # Hello world 👋
 
-<img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/south-korea.jpg" width="350" align="right">
+<img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/south-korea.jpg" width="300" align="right">
 
 Всем привет, меня зовут Максим Иванов. На данный момент работаю 🏠 удаленно в команде одного из проектов <a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>. 
 
