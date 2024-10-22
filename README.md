@@ -6,17 +6,15 @@
 
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 **Frontend-разработчик** <br>
-· Август 2021 - now: <br>
-· Проект [Taiga-UI](https://taiga-ui.dev/) в департаменте базовых технологий <br>
-
+Август 2021 - now  ➪
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
 
-· Ноябрь 2018 - 2021:  <br>
-· Разработка внутренней системы, автоматизированное рабочее место для фрод-мониторинга в процессинговом департаменте <br>
-· Разработка внешней платежной формы 3-D Secure <br>
+<sup>☑ Проект [Taiga-UI](https://taiga-ui.dev/) в департаменте базовых технологий, где я выполняю иногда функции FrontOps'а для улучшения CI/CD и DX процессов. Но в основном занимаюсь написанием unit/e2e-тестов, medium-багфиксами или делаю small-improvement для документации.</sup>
 
+Ноябрь 2018 - 2021 ➪
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://v9.material.angular.io/assets/img/angular-material-logo.svg" align="center" /></code>
@@ -26,44 +24,57 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
 
+<sup>☑ Lead frontend-команды из 5 человек;</sup> <br>
+<sup>☑ Разработка системы фрод-мониторинга в процессинговом департаменте;</sup> <br>
+<sup>☑ Разработка платежной форма 3-D Secure для мобильного банка;</sup> <br>
+<sup>☑ Пару раз проводил собеседования в общем потоке компании;</sup> <br>
+<sup>☑ Выступил на Angular [meetup №13](https://meetup.tbank.ru/event/angular-meetup-13/) со вступительным докладом.</sup> <br>
+
 ### Cinimex <a href="https://cinimex.ru/" target="_blank"><code>⤯</code></a> · Full-time
 **Frontend-разработчик** <br>
- · Ноябрь 2017 - Ноябрь 2018: <br>
- · Проекты внутренних порталов <br> на аутсорсинге у ПАО Росбанк и ЗАО Газпромбанк
-
+Ноябрь 2017 - Ноябрь 2018 ➪
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jira.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/confluence.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/reactivex.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/materializecss.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/karma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
 
+<sup>☑ Проект на аутсорсинге в ПАО Росбанк, разработка календаря отпусков</sup> <br>
+<sup>☑ Проект на аутсорсинге в ЗАО Газпромбанк, связанный с ипотечным кредитованием</sup>
+
 ### AVK-Communications <a href="http://www.atlant-inform.ru/" target="_blank"><code>⤯</code></a> · Full-time
 **Junior frontend-разработчик** <br>
- · Июнь 2016 - Ноябрь 2017: <br>
- · Проекты на аутсорсинге у ПАО Вымпелком (Билайн)
-
+Июнь 2016 - Ноябрь 2017 ➪
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/teamcity.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/youtrack.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 
-### Freelance <a href="https://freelance.ru/" target="_blank"><code>⤯</code></a> · Part-time
-**Работа на фрилансе как веб-мастер** <br>
- · Май 2012 - Август 2015:
+<sup>☑ Поддержка legacy-кода в проектах на Angular.js;</sup><br>
+<sup>☑ Проекты на аутсорсинге у ПАО Вымпелком (Билайн), разработка виджетов для Web BPMN движка.</sup>
 
+### Freelance <a href="https://freelance.ru/" target="_blank"><code>⤯</code></a> · Part-time
+**Web-мастер (верстка, php-ламер)** <br>
+Май 2012 - Август 2015 ➪
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/html-5.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/css-3.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jquery.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/php.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/mysql.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/joomla.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/wordpress.svg" align="center" /></code>
 
-<hr>
+<sup>☑ Верстка страничек по photoshop-макетам;</sup> <br>
+<sup>☑ Поддержка плагинов на PHP в проектах Joomla, Wordpress.</sup> <br>
 
 ### О себе
 
@@ -71,4 +82,4 @@
 
 ### Образование
 
-В 2012 году поступил СПбГЭТУ «ЛЭТИ», но через год понял, что электротехника это не мое, отчислился. В 2014 года поступил в МГТУ «СТАНКИН» на факультет информационных технологий и систем управления, закончил в 2018 году бакалавром. Последние годы получаю новые знания отечественных площадках, например, Яндекс.Практикум.
+В 2012 году поступил СПбГЭТУ «ЛЭТИ», но через год понял, что электротехника это не мое, отчислился. В 2014 года поступил в МГТУ «СТАНКИН» на факультет информационных технологий и систем управления, закончил в 2018 году бакалавром. Последние годы получаю новые знания на отечественных площадках, например, Яндекс.Практикум.
