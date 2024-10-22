@@ -13,9 +13,9 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
 
-<sup>☑ Проект [Taiga-UI](https://taiga-ui.dev/) в департаменте базовых технологий, где я выполняю иногда функции
-FrontOps'а для улучшения CI/CD и DX процессов. Но в основном занимаюсь написанием unit/e2e-тестов, medium-багфиксами или
-делаю small-improvement для документации.</sup>
+<sup>☑ В основном занимаюсь написанием unit/e2e-тестов, medium-багфиксами или делаю small-improvement для документации
+проект [Taiga-UI](https://taiga-ui.dev/) в департаменте базовых технологий. Иногда выполняю функции FrontOps'а для
+улучшения CI/CD и DX процессов.</sup>
 
 Ноябрь 2018 - 2021 ➪
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
