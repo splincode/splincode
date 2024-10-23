@@ -32,7 +32,9 @@
 <sup>☑ Lead frontend-команды из 5 человек;</sup> <br> <sup>☑ Разработка системы фрод-мониторинга в процессинговом
 департаменте;</sup> <br> <sup>☑ Разработка платежной форма 3-D Secure для мобильного банка;</sup> <br> <sup>☑ Пару раз
 проводил собеседования в общем потоке компании;</sup> <br> <sup>☑ Выступил на Angular
-[meetup №13](https://meetup.tbank.ru/event/angular-meetup-13/) со вступительным докладом.</sup> <br>
+[meetup №13](https://meetup.tbank.ru/event/angular-meetup-13/) со вступительным докладом;</sup> <br> <br> <sup>☑ С 2018
+по 2020 год принимал активное участие в разработке NGXS, в качестве
+[внешнего контрибьютора](https://github.com/ngxs/store/graphs/contributors).</sup>
 
 ### Cinimex <a href="https://cinimex.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
@@ -58,6 +60,8 @@
 МГТУ Станкин;</sup> <br> <sup>☑ Организовал первый в компании
 [публичный митап](https://www.youtube.com/watch?v=daP3OAjb1Hc&ab_channel=Cinimex), где выступил также в качестве
 докладчика.</sup>
+
+https://github.com/ngxs/store/graphs/contributors
 
 ### AVK-Communications <a href="http://www.atlant-inform.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
