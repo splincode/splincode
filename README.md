@@ -60,8 +60,6 @@
 [публичный митап](https://www.youtube.com/watch?v=daP3OAjb1Hc&ab_channel=Cinimex), где выступил также в качестве
 докладчика.</sup>
 
-https://github.com/ngxs/store/graphs/contributors
-
 ### AVK-Communications <a href="http://www.atlant-inform.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
 **Junior frontend-разработчик** <br> Июнь 2016 - Ноябрь 2017 ➪
