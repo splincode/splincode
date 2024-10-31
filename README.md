@@ -31,9 +31,11 @@
 
 <sup>☑ Lead frontend-команды из 5 человек;</sup> <br> <sup>☑ Разработка системы фрод-мониторинга в процессинговом
 департаменте;</sup> <br> <sup>☑ Разработка платежной форма 3-D Secure для мобильного банка;</sup> <br> <sup>☑ Пару раз
-проводил собеседования в общем потоке компании;</sup> <br> <sup>☑ Выступил на Angular
-[meetup №13](https://meetup.tbank.ru/event/angular-meetup-13/) со вступительным докладом;</sup> <br><sup>☑ С 2018 по
-2020 год принимал [активное участие](https://github.com/ngxs/store/graphs/contributors) в разработке NGXS.</sup>
+проводил собеседования в общем потоке компании;</sup> <br> <sup>☑ Выступил на
+[Angular Minks](https://www.youtube.com/watch?v=BtVHm0FJIRA&ab_channel=AngularMinsk) в 2020;</sup> <br><sup>☑ Выступил
+на [ngRuAir подкасте](https://m.youtube.com/watch?v=0OT8O4gj6ak) в 2019;</sup><br> <sup>☑ Выступил на
+[Tinkoff Angular Meetup №13](https://meetup.tbank.ru/event/angular-meetup-13/) в 2019;</sup> <br><sup>☑ С 2018 по 2020
+год принимал [активное участие](https://github.com/ngxs/store/graphs/contributors) в разработке NGXS.</sup>
 
 ### Cinimex <a href="https://cinimex.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
@@ -51,7 +53,7 @@
 <sup>☑ Проект на аутсорсинге в ПАО Росбанк, разработка календаря отпусков;</sup> <br> <sup>☑ Проект на аутсорсинге в
 ЗАО Газпромбанк, связанный с ипотечным кредитованием;</sup><br><sup>☑ Выступил на
 [митапе](https://www.google.com/search?q=angular+%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC+%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2+change+detection&rlz=1C5GCEM_enRU1116RU1116&oq=angular+%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC+%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2+change+detection&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEINjI0MWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8)
-в Тинькофф-банке;</sup><br><sup>☑ Выступил на
+в Тинькофф-банке в Спб офисе;</sup><br><sup>☑ Выступил на
 [FrontendConf](https://www.youtube.com/watch?v=7646rW8qdcQ&ab_channel=FrontendChannel) в Москве
 (Сколково);</sup><br><sup>☑ Выступил на
 [Веб-стандартах](https://www.youtube.com/watch?v=sxN5hmb2hdU&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
