@@ -20,14 +20,14 @@
 
 Ноябрь 2018 - 2021 ➪
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/lerna.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://v9.material.angular.io/assets/img/angular-material-logo.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/lerna.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://user-images.githubusercontent.com/1283734/83267345-6c14e180-a207-11ea-95fb-eebcf1b1c3b3.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jest.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/cypress-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
 
 <sup>☑ Lead frontend-команды из 5 человек;</sup> <br> <sup>☑ Разработка системы фрод-мониторинга в процессинговом
 департаменте;</sup> <br> <sup>☑ Разработка платежной форма 3-D Secure для мобильного банка;</sup> <br> <sup>☑ Пару раз
