@@ -8,12 +8,14 @@
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
 **Frontend-разработчик** <br> Август 2021 - now ➪
+<span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nx.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
+</span>
 
 <sup>☑ В основном занимаюсь написанием unit/e2e-тестов, medium-багфиксами или делаю small-improvement для документации
 проекта [Taiga-UI](https://taiga-ui.dev/) в департаменте базовых технологий. Иногда выполняю функции FrontOps'а для
