@@ -9,7 +9,6 @@
 
 **Frontend-разработчик** <br> Август 2021 - now ➪
 <span title="Инструменты, с которыми начал работать">
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nx.svg" align="center" /></code>
@@ -22,7 +21,7 @@
 улучшения CI/CD и DX процессов.</sup>
 
 Ноябрь 2018 - 2021 ➪
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
+<span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
@@ -31,6 +30,7 @@
 <code><img alt="" height="17px" src="https://user-images.githubusercontent.com/1283734/83267345-6c14e180-a207-11ea-95fb-eebcf1b1c3b3.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jest.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/cypress-icon.svg" align="center" /></code>
+</span>
 
 <sup>☑ Lead frontend-команды из 5 человек;</sup> <br> <sup>☑ Разработка системы фрод-мониторинга в процессинговом
 департаменте;</sup> <br> <sup>☑ Разработка платежной форма 3-D Secure для мобильного банка;</sup> <br> <sup>☑ Пару раз
@@ -43,7 +43,7 @@
 ### Cinimex <a href="https://cinimex.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
 **Frontend-разработчик** <br> Ноябрь 2017 - Ноябрь 2018 ➪
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
+<span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jenkins.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bitbucket.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jira.svg" align="center" /></code>
@@ -54,6 +54,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/materializecss.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/karma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
+</span>
 
 <sup>☑ Проект на аутсорсинге в ПАО Росбанк, разработка календаря отпусков;</sup> <br> <sup>☑ Проект на аутсорсинге в
 ЗАО Газпромбанк, связанный с ипотечным кредитованием;</sup><br><sup>☑ Выступил на
@@ -70,12 +71,14 @@
 ### AVK-Communications <a href="http://www.atlant-inform.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
 **Junior frontend-разработчик** <br> Июнь 2016 - Ноябрь 2017 ➪
+<span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/teamcity.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.worldvectorlogo.com/logos/upsource-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/youtrack.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
+</span>
 
 <sup>☑ Поддержка legacy-кода в проектах на Angular.js;</sup><br> <sup>☑ Проекты на аутсорсинге у ПАО Вымпелком
 (Билайн), разработка виджетов для Web BPMN движка.</sup>
@@ -83,6 +86,7 @@
 ### Freelance <a href="https://freelance.ru/" target="_blank"><code>⤯</code></a> · Part-time
 
 **Веб-мастер (верстальщик, php-ламер)** <br> Май 2012 - Август 2015 ➪
+<span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/html-5.svg" align="center" /></code>
@@ -94,6 +98,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/mysql.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/joomla.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/wordpress.svg" align="center" /></code>
+</span>
 
 <sup>☑ Верстка страничек по photoshop-макетам;</sup> <br> <sup>☑ Поддержка плагинов на PHP в проектах Joomla,
 Wordpress.</sup> <br>
