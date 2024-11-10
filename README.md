@@ -7,12 +7,13 @@
 
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
-**Frontend-разработчик** <br> Август 2021 - now ➪
+**Frontend-разработчик** <br><sup><b>Август 2021 - now</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nx.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/less.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
 </span>
 
@@ -20,11 +21,12 @@
 проекта [Taiga-UI](https://taiga-ui.dev/) в департаменте базовых технологий. Иногда выполняю функции FrontOps'а для
 улучшения Github CI/CD и DX-процессов в кодовой базе.</sup>
 
-Ноябрь 2018 - 2021 ➪
+<sup><b>Ноябрь 2018 - 2021</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sass.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://v9.material.angular.io/assets/img/angular-material-logo.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/lerna.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://user-images.githubusercontent.com/1283734/83267345-6c14e180-a207-11ea-95fb-eebcf1b1c3b3.png" align="center" /></code>
@@ -42,7 +44,8 @@
 
 ### Cinimex <a href="https://cinimex.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
-**Frontend-разработчик** <br> Ноябрь 2017 - Ноябрь 2018 ➪
+**Frontend-разработчик** <br> 
+<sup><b>Ноябрь 2017 - Ноябрь 2018</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jenkins.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bitbucket.svg" align="center" /></code>
@@ -51,6 +54,8 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/reactivex.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webpack.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/stylus.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/materializecss.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/karma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
@@ -70,7 +75,8 @@
 
 ### AVK-Communications <a href="http://www.atlant-inform.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
-**Junior frontend-разработчик** <br> Июнь 2016 - Ноябрь 2017 ➪
+**Junior frontend-разработчик** <br> 
+<sup><b>Июнь 2016 - Ноябрь 2017</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/teamcity.svg" align="center" /></code>
@@ -85,7 +91,8 @@
 
 ### Freelance <a href="https://freelance.ru/" target="_blank"><code>⤯</code></a> · Part-time
 
-**Веб-мастер (верстальщик, php-ламер)** <br> Май 2012 - Август 2015 ➪
+**Веб-мастер (верстальщик, php-ламер)** <br> 
+<sup><b>Май 2012 - Август 2015</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" align="center" /></code>
