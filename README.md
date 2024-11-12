@@ -91,7 +91,7 @@
 
 ### Freelance <a href="https://freelance.ru/" target="_blank"><code>⤯</code></a> · Part-time
 
-**Веб-мастер (верстальщик, php-ламер)** <br> 
+**Веб-мастер (верстальщик, php-handyman)** <br> 
 <sup><b>Май 2012 - Август 2015</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></code>
