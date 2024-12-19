@@ -1,11 +1,18 @@
 # Hello world 👋
 
-## 💬 Frontend developer | 10:00 - 19:00
+<h3>
+  
+  Frontend developer | 10:00 - 19:00
+</h3>
+
+
+
+
 
 <img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/south-korea4.jpg" width="300" align="right">
 
 Всем привет, меня зовут Максим Иванов. IT дало мне свободу сидеть дома и работать 😂 24/7, поэтому в данный момент работаю 🏠 удаленно в команде одного из проектов
-<a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>.
+<a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a> 
 
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
@@ -120,6 +127,8 @@ Wordpress.</sup> <br>
 Яндекс.Практикум.
 
 ### О себе
+
+<img src="https://makerworld.bblmw.com/makerworld/model/USe5e9ea92254818/design/2024-11-20_04da945d496e2.jpg?x-oss-process=image/resize,w_1920/format,webp" width="30px" align="left">
 
 Интроверт, избегаю излишнего внимания и не переношу агрессию. Тихий человек в нашем шумном мире.
 Имею навыки межличностного общения, но не очень коммуникабельный и активный темперамент.
