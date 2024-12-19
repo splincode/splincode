@@ -121,7 +121,7 @@ Wordpress.</sup> <br>
 
 ### О себе
 
-<img src="https://makerworld.bblmw.com/makerworld/model/USe5e9ea92254818/design/2024-11-20_04da945d496e2.jpg?x-oss-process=image/resize,w_1920/format,webp" width="30px" align="left">
+<img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/guy.png" width="30px" align="left">
 
 Интроверт, избегаю излишнего внимания и не переношу агрессию. Тихий человек в нашем шумном мире.
 Имею навыки межличностного общения, но не очень коммуникабельный и активный темперамент.
