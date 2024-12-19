@@ -1,13 +1,6 @@
 # Hello world 👋
 
-<h3>
-  
-  Frontend developer | 10:00 - 19:00
-</h3>
-
-
-
-
+### Frontend developer | 10:00 - 19:00
 
 <img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/south-korea4.jpg" width="300" align="right">
 
