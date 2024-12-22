@@ -121,9 +121,7 @@ Wordpress.</sup> <br>
 управления, закончил в 2018 году бакалавром. Последние годы получаю новые знания на отечественных площадках, например,
 Яндекс.Практикум или hexlet.
 
-### О себе
-
-<img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/guy.png" width="30px" align="left">
+### <img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/guy.png" height="84px" align="right"> О себе
 
 Интроверт, избегаю излишнего внимания и не переношу агрессию. Тихий человек в нашем шумном мире.
 Имею навыки межличностного общения, но не очень коммуникабельный и активный темперамент.
