@@ -20,7 +20,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docusaurus.svg" align="center" /></code>
 </span>
 
-<sup>☑ Принимал участие в запуске [дизайн-гайдлайнов](https://design.tbank.ru/) Т-Банка.</sup><br>
+<sup>☑ Принимал участие в запуске [дизайн-гайдлайнов](https://design.tbank.ru/) Т-Банка;</sup><br>
 <sup>☑ В основном занимаюсь написанием unit/e2e-тестов, medium-багфиксами или делаю small-improvement для документации
 проекта [Taiga-UI](https://taiga-ui.dev/) в департаменте базовых технологий. Иногда выполняю функции FrontOps'а для
 улучшения Github CI/CD и DX-процессов в кодовой базе.</sup>
