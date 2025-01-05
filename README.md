@@ -9,7 +9,17 @@
 
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
-**Frontend-разработчик** <br><sup><b>Август 2021 - now</b></sup> <br>
+**Frontend-разработчик** <br><sup><b>November 2023 - now</b></sup> <br>
+
+<sup><b>Ноябрь 2024 - now</b></sup> <br>
+<span title="Инструменты, с которыми начал работать">
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/react.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docusaurus.svg" align="center" /></code>
+</span>
+
+<sup>☑ Принимал участие в запуске [дизайн-гайдлайнов](https://design.tbank.ru/) Т-Банка;</sup><br>
+
+<sup><b>Август 2021 - now</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
@@ -17,10 +27,8 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/less.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docusaurus.svg" align="center" /></code>
 </span>
 
-<sup>☑ Принимал участие в запуске [дизайн-гайдлайнов](https://design.tbank.ru/) Т-Банка;</sup><br>
 <sup>☑ В основном занимаюсь написанием unit/e2e-тестов, medium-багфиксами или делаю small-improvement для документации
 проекта [Taiga-UI](https://taiga-ui.dev/) в департаменте базовых технологий. Иногда выполняю функции FrontOps'а для
 улучшения Github CI/CD и DX-процессов в кодовой базе.</sup>
