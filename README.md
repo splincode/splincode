@@ -18,11 +18,10 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/less.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/react.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docusaurus.svg" align="center" /></code>
 </span>
 
-<sup>☑ Написание small react компонентов для [проекта дизайн-гайдлайнов](https://design.tbank.ru/) Т-Банка;</sup><br>
+<sup>☑ Принимал участие в запуске [проекта дизайн-гайдлайнов](https://design.tbank.ru/) Т-Банка;</sup><br>
 <sup>☑ Написание юнит-тестов для таких раннеров как Karma, Jest для Taiga UI;</sup><br>
 <sup>☑ Написание e2e-тестов для таких раннеров как Cypress, Playwright для Taiga UI;</sup><br>
 <sup>☑ Доработка или мелкие улучшения для документации проекта [Taiga-UI](https://taiga-ui.dev/);</sup><br>
