@@ -121,7 +121,7 @@ Wordpress.</sup> <br>
 
 <sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-react)</b> • 2025 • Курс «JS React»;</sup><br>
 <sup>✓ <b>[Yandex practicum](https://practicum.yandex.ru/profile/java-developer/)</b> • 2023 • Курс «Java-разработчик»;</sup><br>
-<sup>✓ <b>[Yandex practicum](https://practicum.yandex.ru/interface-designer/)</b> • 2021 • Курс «Дизайнер интерфейсов»;</sup><br>
+<sup>✓ <b>[Yandex practicum](https://practicum.yandex.ru/interface-designer/)</b> • 2021 • Курс «Дизайнер интерфейсов» (figma);</sup><br>
 <sup>✓ <b>[Udemy](https://www.udemy.com/course/the-complete-angular-master-class/)</b> • 2018 • Курс «Complete Angular Course, Beginner to Advanced»;</sup><br>
 <sup>✓ <b>[FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)</b> • 2017 • Курс «JavaScript Algorithms and Data Structures»;</sup><br>
 <sup>✓ <b>[Kaspersky Lab, Internship](https://www.kaspersky.com/)</b> • 2016 • Вечернее обучение по C++;</sup><br>
