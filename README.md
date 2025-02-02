@@ -1,6 +1,6 @@
 # Hello world 👋
 
-### Middle+ Frontend developer | 09:00 - 18:00
+### Simple Frontend developer | 09:00 - 18:00
 
 <img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/south-korea4.jpg" width="300" align="right">
 
