@@ -76,7 +76,7 @@
 
 <sup>☑ Проект на аутсорсинге в ПАО Росбанк, разработка календаря отпусков;</sup> <br> <sup>☑ Проект на аутсорсинге в
 ЗАО Газпромбанк, связанный с ипотечным кредитованием;</sup><br><sup>☑ Выступил на
-[митапе](https://www.google.com/search?q=angular+%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC+%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2+change+detection&rlz=1C5GCEM_enRU1116RU1116&oq=angular+%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC+%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2+change+detection&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEINjI0MWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8)
+[митапе](https://www.youtube.com/watch?v=2cV4i-g6Oxc&ab_channel=Angular-%D0%BC%D0%B8%D1%82%D0%B0%D0%BF%D1%8B%D0%B8%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
 в Тинькофф-банке в Спб офисе;</sup><br><sup>☑ Выступил на
 [FrontendConf](https://www.youtube.com/watch?v=7646rW8qdcQ&ab_channel=FrontendChannel) в Москве
 (Сколково);</sup><br><sup>☑ Выступил на
