@@ -1,7 +1,8 @@
 # Hello world 👋
 
-### Simple Frontend developer | 09:00 - 18:00
+<img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/south-korea4.jpg" width="35%" align="right">
 
+### Simple Frontend developer | 09:00 - 18:00
 
 Всем привет, меня зовут Максим Иванов и в данный момент <br> работаю удаленно 🏠 в команде одного из проектов
 <a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>.
@@ -14,8 +15,6 @@
 <a target="_blank" href="https://github.com/splincode/study"><img src="https://img.shields.io/badge/%D0%98%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%F0%9F%8C%8E-orange" /></a>
 <a target="_blank" href="https://github.com/splincode/codework"><img src="https://img.shields.io/badge/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%BA%D0%B8-%E2%9A%A1-red" /></a>
 <a target="_blank" href="https://github.com/splincode/films"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BA%D0%B8%D0%BD%D0%BE-%F0%9F%8D%BF-violet" /></a>
-
-<img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/south-korea4.jpg" width="35%" align="right">
 
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
