@@ -36,6 +36,7 @@
 <sup>☑ Написание юнит-тестов для таких раннеров как Karma, Jest для Taiga UI;</sup><br>
 <sup>☑ Написание e2e-тестов для таких раннеров как Cypress, Playwright для Taiga UI;</sup><br>
 <sup>☑ Доработка или мелкие улучшения для документации проекта [Taiga-UI](https://taiga-ui.dev/);</sup><br>
+<sup>☑ Ментейнинг [WYSIWYG-редактора для проектов на Angular](https://github.com/taiga-family/editor);</sup><br>
 <sup>☑ FrontOps улучшения [Github CI/CD проекта](https://github.com/taiga-family/ci) и [DX-процессов](https://github.com/taiga-family/configurations) в кодовой базе Taiga UI;</sup><br>
 <sup>☑ Исправление [medium-багов](https://github.com/taiga-family/taiga-ui/issues?q=is%3Aissue%20state%3Aclosed%20assignee%3Asplincode) в Taiga UI.</sup>
 
