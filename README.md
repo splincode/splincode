@@ -108,7 +108,9 @@
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 </span>
 
-<sup>☑ Поддержка legacy-кода в проектах на Angular.js;</sup><br> <sup>☑ Проекты на аутсорсинге у ПАО Вымпелком
+<sup>☑ Поддержка legacy-кода в проектах на Angular.js;</sup><br>
+<sup>☑ Написание [КриптоПро ЭЦП плагина](https://github.com/splincode/cryptopro-browser-plugin) на Angular;</sup><br>
+<sup>☑ Проекты на аутсорсинге у ПАО Вымпелком
 (Билайн), разработка виджетов для Web BPMN движка.</sup>
 
 ### Freelance <a href="https://freelance.ru/" target="_blank"><code>⤯</code></a> · Part-time
