@@ -56,8 +56,7 @@
 </span>
 
 <sup>☑ Попробовал себя в роли лида frontend команды из 5 человек (junior/middle);</sup> <br> <sup>☑ Разработка системы фрод-мониторинга в процессинговом
-департаменте;</sup> <br> <sup>☑ Разработка платежной форма 3-D Secure для мобильного банка;</sup> <br> <sup>☑ Пару раз
-проводил собеседования в общем потоке компании;</sup> <br> <sup>☑ Выступил на
+департаменте;</sup> <br> <sup>☑ Разработка платежной форма 3-D Secure для мобильного банка;</sup> <br> <sup>☑ Провел 10 раз собеседования в общем потоке компании;</sup> <br> <sup>☑ Выступил на
 [Angular Minks](https://www.youtube.com/watch?v=BtVHm0FJIRA&ab_channel=AngularMinsk) в 2020;</sup> <br><sup>☑ Выступил
 на [ngRuAir подкасте](https://m.youtube.com/watch?v=0OT8O4gj6ak) в 2019;</sup><br> <sup>☑ Выступил на
 [Tinkoff Angular Meetup №13](https://meetup.tbank.ru/event/angular-meetup-13/) в 2019;</sup> <br><sup>☑ С 2018 по 2020
