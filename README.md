@@ -18,6 +18,7 @@
 
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
+**Frontend-разработчик** <br> 
 <sup><b>Август 2021 - now, департамент базовых технологий</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
@@ -32,14 +33,14 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/react.svg" align="center" /></code>
 </span>
 
-<sup>☑ Принимал участие в запуске [проекта дизайн-гайдлайнов](https://design.tbank.ru/) Т-Банка;</sup><br>
-<sup>☑ Написание юнит-тестов для таких раннеров как Karma, Jest для Taiga UI;</sup><br>
-<sup>☑ Написание e2e-тестов для таких раннеров как Cypress, Playwright для Taiga UI;</sup><br>
-<sup>☑ Доработка или мелкие улучшения для документации проекта [Taiga-UI](https://taiga-ui.dev/);</sup><br>
-<sup>☑ Ментейнинг [WYSIWYG-редактора](https://github.com/taiga-family/editor) для проектов на базе Angular;</sup><br>
-<sup>☑ FrontOps улучшения [Github CI/CD проекта](https://github.com/taiga-family/ci) и [DX-процессов](https://github.com/taiga-family/configurations) в кодовой базе Taiga UI;</sup><br>
-<sup>☑ Исправление [medium-багов](https://github.com/taiga-family/taiga-ui/issues?q=is%3Aissue%20state%3Aclosed%20assignee%3Asplincode) в Taiga UI.</sup>
+<sup>☑ Принимал участие в запуске [проекта дизайн-гайдлайнов](https://design.tbank.ru/) Т-Банка в 2024;</sup><br>
+<sup>☑ Занимался написанием юнит-тестов (Karma, Jest) и e2e-тестов (Cypress, Playwright);</sup><br>
+<sup>☑ Выполнял мелкие доработки и улучшения документации на портале [Taiga-UI](https://taiga-ui.dev/);</sup><br>
+<sup>☑ Занимался поддержкой [WYSIWYG-редактора](https://github.com/taiga-family/editor) на базе компонентво Taiga UI;</sup><br>
+<sup>☑ Проводил FrontOps улучшения [Github CI/CD](https://github.com/taiga-family/ci) и [DX-процессов](https://github.com/taiga-family/configurations) в кодовой базе Taiga UI;</sup><br>
+<sup>☑ Большую часть работы занимался [багфиксами](https://github.com/taiga-family/taiga-ui/issues?q=is%3Aissue%20state%3Aclosed%20assignee%3Asplincode) в Taiga UI.</sup>
 
+**Senior frontend-разработчик** <br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab.svg" align="center" /></code>
@@ -55,8 +56,8 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/cypress-icon.svg" align="center" /></code>
 </span>
 
-<sup>☑ Попробовал себя в роли лида frontend команды из 5 человек (junior/middle);</sup> <br> <sup>☑ Разработка системы фрод-мониторинга в процессинговом
-департаменте;</sup> <br> <sup>☑ Разработка платежной форма 3-D Secure для мобильного банка;</sup> <br> <sup>☑ Провел 10 собеседований в общем потоке компании;</sup> <br> <sup>☑ Выступил на
+<sup>☑ Попробовал себя в роли лида frontend команды из 5 человек (junior/middle);</sup> <br> <sup>☑ Принимал участие в разработке системы фрод-мониторинга в процессинговом
+департаменте;</sup> <br> <sup>☑ Принимал участие в разработке платежной форма 3-D Secure для мобильного банка (с подтверждением через пуш уведомления, а не смс);</sup> <br> <sup>☑ Провел 10 собеседований в общем потоке компании;</sup> <br> <sup>☑ Выступил на
 [Angular Minks](https://www.youtube.com/watch?v=BtVHm0FJIRA&ab_channel=AngularMinsk) в 2020;</sup> <br><sup>☑ Выступил
 на [ngRuAir подкасте](https://m.youtube.com/watch?v=0OT8O4gj6ak) в 2019;</sup><br> <sup>☑ Выступил на
 [Tinkoff Angular Meetup №13](https://meetup.tbank.ru/event/angular-meetup-13/) в 2019;</sup> <br><sup>☑ С 2018 по 2020
@@ -64,7 +65,7 @@
 
 ### Cinimex <a href="https://cinimex.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
-**Frontend-разработчик** <br> 
+**Middle frontend-разработчик** <br>
 <sup><b>Ноябрь 2017 - Ноябрь 2018</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jenkins.svg" align="center" /></code>
@@ -82,7 +83,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
 </span>
 
-<sup>☑ Проект на аутсорсинге в ПАО Росбанк, разработка календаря отпусков;</sup> <br> <sup>☑ Проект на аутсорсинге в
+<sup>☑ Занимался проектом на аутсорсинге в ПАО Росбанк, где разрабатывали календарь для отпусков сотрудников банка;</sup> <br> <sup>☑ Также принял участие в проекте на аутсорсинге в
 ЗАО Газпромбанк, связанный с ипотечным кредитованием;</sup><br><sup>☑ Выступил на
 [митапе](https://www.youtube.com/watch?v=2cV4i-g6Oxc&ab_channel=Angular-%D0%BC%D0%B8%D1%82%D0%B0%D0%BF%D1%8B%D0%B8%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
 в Тинькофф-банке в Спб офисе;</sup><br><sup>☑ Выступил на
@@ -107,10 +108,10 @@
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 </span>
 
-<sup>☑ Поддержка legacy-кода в проектах на Angular.js;</sup><br>
-<sup>☑ Написание [КриптоПро ЭЦП плагина](https://github.com/splincode/cryptopro-browser-plugin) на Angular;</sup><br>
-<sup>☑ Проекты на аутсорсинге у ПАО Вымпелком
-(Билайн), разработка виджетов для Web BPMN движка.</sup>
+<sup>☑ Занимался поддержкой legacy-кода в проектах на Angular.JS;</sup><br>
+<sup>☑ Занимался написанием [КриптоПро ЭЦП плагина](https://github.com/splincode/cryptopro-browser-plugin) на Angular 2.0;</sup><br>
+<sup>☑ Принимал участие в проектах на аутсорсинге ПАО Вымпелкома
+(Билайн), где разрабатывали виджеты для их собственного BPMN движка под Web UI.</sup>
 
 ### Freelance <a href="https://freelance.ru/" target="_blank"><code>⤯</code></a> · Part-time
 
