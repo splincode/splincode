@@ -151,6 +151,7 @@ Wordpress.</sup> <br>
 
 ### <img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/guy.png" height="84px" align="right"> Факты обо мне
 
+》Рожденный в XX веке ✨ <br>
 》Смотрю 🇰🇷🇨🇳 [дорамы](https://github.com/splincode/films?tab=readme-ov-file#-%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D1%80%D0%B5%D1%8F) <br>
 》Посетил 🇲🇪🇮🇹🇹🇷🇦🇪🇷🇸🇺🇿🇬🇪🇰🇷🇦🇲 и 16 городов 🇷🇺 <br>
 》Мечта: посетить 🇺🇸🇯🇵🇨🇳🇹🇭🇻🇳🇰🇵 <br>
@@ -159,4 +160,4 @@ Wordpress.</sup> <br>
 》Посетил для себя множество [кафе](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) ☕, 
 [музеев 🏛️🏺, галерей 🖼️ и парков 🏞️](https://yandex.ru/maps/?bookmarks%5BpublicId%5D=NQTkY8-_&ll=34.998999%2C52.614783&mode=bookmarks&utm_campaign=bookmarks&utm_source=share&z=4) <br>
 》Нравится гулять 10км+, подкасты о космосе и КПТ в психологии <br>
-》Уже к 20+ годам достиг того, чего большинство достигают к 70: <br>плохого зрения, больных суставов, провалов в памяти 🤣 <br>
+》Достиг того, чего большинство достигают обычно к 70: <br>плохого зрения, больных суставов, провалов в памяти 🤣 <br>
