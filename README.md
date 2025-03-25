@@ -38,7 +38,7 @@
 <sup>☑ Выполнял мелкие доработки и улучшения документации на портале [Taiga-UI](https://taiga-ui.dev/);</sup><br>
 <sup>☑ Занимался поддержкой [WYSIWYG-редактора](https://github.com/taiga-family/editor) на базе компонентво Taiga UI;</sup><br>
 <sup>☑ Проводил FrontOps улучшения [Github CI/CD](https://github.com/taiga-family/ci) и [DX-процессов](https://github.com/taiga-family/configurations) в кодовой базе Taiga UI;</sup><br>
-<sup>☑ Большую часть работы занимался [багфиксами](https://github.com/taiga-family/taiga-ui/issues?q=is%3Aissue%20state%3Aclosed%20assignee%3Asplincode) в Taiga UI.</sup>
+<sup>☑ Большую часть времени занимался [багфиксами и разработкой незначительных компонентов](https://github.com/taiga-family/taiga-ui/issues?q=is%3Aissue%20state%3Aclosed%20assignee%3Asplincode).</sup>
 
 **Senior frontend-разработчик** <br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
