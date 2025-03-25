@@ -137,7 +137,9 @@ Wordpress.</sup> <br>
 
 ### Образование
 
+<sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-react-hooks)</b> • 2025 • Курс «JS React Hooks»;</sup><br>
 <sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-react)</b> • 2025 • Курс «JS React»;</sup><br>
+<sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-frontend-architecture/</b> • 2025 • Курс «Архитектура фронтенда»;</sup><br>
 <sup>✓ <b>[Yandex practicum](https://practicum.yandex.ru/profile/java-developer/)</b> • 2023 • Курс «Java-разработчик»;</sup><br>
 <sup>✓ <b>[Yandex practicum](https://practicum.yandex.ru/interface-designer/)</b> • 2021 • Курс «Дизайнер интерфейсов» (figma);</sup><br>
 <sup>✓ <b>[Udemy](https://www.udemy.com/course/the-complete-angular-master-class/)</b> • 2018 • Курс «Complete Angular Course, Beginner to Advanced»;</sup><br>
