@@ -74,6 +74,8 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/confluence.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/postman-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?fit=300%2C300&ssl=1" align="center" /></code>
 <code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/reactivex.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webpack.svg" align="center" /></code>
@@ -156,12 +158,12 @@ Wordpress.</sup> <br>
 》Родился в XX веке н.э. ✨ <br>
 》Интровертный флегматик <br>
 》Люблю смотреть 🇰🇷🇨🇳 [дорамы](https://github.com/splincode/films?tab=readme-ov-file#-%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D1%80%D0%B5%D1%8F) <br>
-》Посетил 🇲🇪🇮🇹🇹🇷🇦🇪🇷🇸🇺🇿🇬🇪🇰🇷🇦🇲 и 16 городов 🇷🇺 <br>
 》Мечта: посетить 🇺🇸🇯🇵🇨🇳🇹🇭🇻🇳🇰🇵 <br>
 》Сверхмечта: попасть в рай 😂 <br>
 》Проживаю жизнь как судьбу 🤔 <br>
 》Большую ее часть 📍 прожил на [чемоданах](https://yandex.ru/maps?bookmarks%5BpublicId%5D=56Umi3nZ&utm_source=share&utm_campaign=bookmarks) 🧳<br>
-》Открыл для себя множество [кафе](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) ☕, 
-[музеев 🏛️🏺, галерей 🖼️ и парков 🏞️](https://yandex.ru/maps/?bookmarks%5BpublicId%5D=NQTkY8-_&ll=34.998999%2C52.614783&mode=bookmarks&utm_campaign=bookmarks&utm_source=share&z=4) <br>
-》Нравится много гулять пешком, слушать подкасты о космосе, читать книги <br>
-》Достиг того, чего большинство достигают обычно к 70: <br>плохого зрения, больных суставов, провалов в памяти 🤣 <br>
+》Посетил 🇲🇪🇮🇹🇹🇷🇦🇪🇷🇸🇺🇿🇬🇪🇰🇷🇦🇲 и 16 городов 🇷🇺 <br>
+》Нравится много гулять пешком, слушать подкасты о космосе, читать иногда [книги](https://github.com/splincode/books) <br>
+》Открыл для себя множество [кафе](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) ☕, а еще
+[музеи 🏛️🏺, выставки, парки и театры 🎭](https://yandex.ru/maps/?bookmarks%5BpublicId%5D=NQTkY8-_&ll=34.998999%2C52.614783&mode=bookmarks&utm_campaign=bookmarks&utm_source=share&z=4) <br>
+》Достиг того, чего большинство достигают обычно к 70: плохого зрения, больных суставов, провалов в памяти 🤣 <br>
