@@ -4,7 +4,7 @@
 
 ### Simple Frontend developer | 09:00 - 18:00
 
-Всем привет, меня зовут Максим Иванов и в данный момент <br> работаю удаленно 🏠 в команде одного из проектов
+Всем привет, меня зовут Максим Иванов! <br> Работаю удаленно 🏠 в команде одного из проектов
 <a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>.
 
 <a target="_blank" href="https://github.com/splincode/articles"><img src="https://img.shields.io/badge/%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8-109-yellowgreen" /></a>
@@ -40,7 +40,6 @@
 <sup>☑ Проводил FrontOps улучшения [Github CI/CD](https://github.com/taiga-family/ci) и [DX-процессов](https://github.com/taiga-family/configurations) в кодовой базе Taiga UI;</sup><br>
 <sup>☑ Большую часть времени занимался [багфиксами и разработкой незначительных компонентов](https://github.com/taiga-family/taiga-ui/issues?q=is%3Aissue%20state%3Aclosed%20assignee%3Asplincode).</sup>
 
-**Senior frontend-разработчик** <br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab.svg" align="center" /></code>
