@@ -56,12 +56,18 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/cypress-icon.svg" align="center" /></code>
 </span>
 
-<sup>☑ Попробовал себя в роли лида frontend команды из 5 человек (junior/middle);</sup> <br> <sup>☑ Принимал участие в разработке системы фрод-мониторинга в процессинговом
-департаменте;</sup> <br> <sup>☑ Принимал участие в разработке платежной форма 3-D Secure для мобильного банка (с подтверждением через пуш уведомления, а не смс);</sup> <br> <sup>☑ Провел 10 собеседований в общем потоке компании;</sup> <br> <sup>☑ Выступил на
-[Angular Minks](https://www.youtube.com/watch?v=BtVHm0FJIRA&ab_channel=AngularMinsk) в 2020;</sup> <br><sup>☑ Выступил
-на [ngRuAir подкасте](https://m.youtube.com/watch?v=0OT8O4gj6ak) в 2019;</sup><br> <sup>☑ Выступил на
-[Tinkoff Angular Meetup №13](https://meetup.tbank.ru/event/angular-meetup-13/) в 2019;</sup> <br><sup>☑ С 2018 по 2020
-год принимал [активное участие](https://github.com/ngxs/store/graphs/contributors) в разработке NGXS.</sup>
+<sup>☑ Попробовал себя в роли лида frontend команды из 5 человек (junior/middle);</sup><br>
+<sup>☑ Принимал участие в разработке системы фрод-мониторинга в процессинговом
+департаменте;</sup><br>
+<sup>☑ Принимал участие в разработке платежной форма 3-D Secure для мобильного банка (с подтверждением через пуш уведомления, а не смс);</sup> <br> <sup>☑ Провел 10 собеседований в общем потоке компании;</sup><br>
+<sup>☑ С 2018 по 2020
+год принимал [активное участие](https://github.com/ngxs/store/graphs/contributors) в разработке NGXS:</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Реализовал [NGXS CLI](https://www.ngxs.io/plugins/cli)</sup><br>
+<sup>☑ С 2019 по 2020
+выступил на нескольких митапах:</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ [ngRuAir подкаст](https://m.youtube.com/watch?v=0OT8O4gj6ak) в 2019</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ [Tinkoff Angular Meetup №13](https://meetup.tbank.ru/event/angular-meetup-13/) в 2019</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ [Angular Minks](https://www.youtube.com/watch?v=BtVHm0FJIRA&ab_channel=AngularMinsk) в 2020</sup>
 
 ### Cinimex <a href="https://cinimex.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
