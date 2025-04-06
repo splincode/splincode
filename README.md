@@ -173,7 +173,7 @@ Wordpress.</sup> <br>
 》Мечта: посетить 🇺🇸🇯🇵🇨🇳🇹🇭🇻🇳🇰🇵 <br>
 》Сверхмечта: попасть в рай 😂 <br>
 》Проживаю жизнь как судьбу 🤔 <br>
-》Большую ее часть 📍 прожил на [чемоданах](https://yandex.ru/maps?bookmarks%5BpublicId%5D=56Umi3nZ&utm_source=share&utm_campaign=bookmarks) 🧳<br>
+》Большую ее часть прожил на [чемоданах](https://yandex.ru/maps?bookmarks%5BpublicId%5D=56Umi3nZ&utm_source=share&utm_campaign=bookmarks) 🧳<br>
 》Посетил 🇲🇪🇮🇹🇹🇷🇦🇪🇷🇸🇺🇿🇬🇪🇰🇷🇦🇲 и 16 городов 🇷🇺 <br>
 》Нравится много гулять пешком, слушать подкасты о космосе, читать иногда [книги](https://github.com/splincode/books) <br>
 》Открыл для себя множество [кафе](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) ☕, а еще
