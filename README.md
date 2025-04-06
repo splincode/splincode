@@ -171,8 +171,7 @@ Wordpress.</sup> <br>
 》Интровертный флегматик <br>
 》Люблю смотреть 🇰🇷🇨🇳 [дорамы](https://github.com/splincode/films?tab=readme-ov-file#-%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D1%80%D0%B5%D1%8F) <br>
 》Мечта: посетить 🇺🇸🇯🇵🇨🇳🇹🇭🇻🇳🇰🇵 <br>
-》Сверхмечта: попасть в рай 😂 <br>
-》Проживаю жизнь как судьбу 🤔 <br>
+》Проживаю жизнь как судьбу 🧘 <br>
 》Большую ее часть прожил на [чемоданах](https://yandex.ru/maps?bookmarks%5BpublicId%5D=56Umi3nZ&utm_source=share&utm_campaign=bookmarks) 🧳<br>
 》Посетил 🇲🇪🇮🇹🇹🇷🇦🇪🇷🇸🇺🇿🇬🇪🇰🇷🇦🇲 и 16 городов 🇷🇺 <br>
 》Нравится много гулять пешком, слушать подкасты о космосе, читать иногда [книги](https://github.com/splincode/books) <br>
