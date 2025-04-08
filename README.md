@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" /></a>
 <a target="_blank" href="https://obrazavr.ru/uchenik/splincode/"><img src="https://img.shields.io/badge/education-purple.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" /></a>
 
-
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
 **Frontend-разработчик** <br> 
@@ -68,9 +67,11 @@
 департаменте;</sup><br>
 <sup>☑ Принимал участие в разработке платежной форма 3-D Secure для мобильного банка (с подтверждением через пуш уведомления, а не смс);</sup> <br> <sup>☑ Провел 10 собеседований в общем потоке компании;</sup><br>
 <sup>☑ С 2018 по 2020
-год принимал [активное участие](https://github.com/ngxs/store/graphs/contributors) в разработке NGXS:</sup><br>
+год принимал активное участие в разработке NGXS:</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Занимался [багфиксами и оптимизацией](https://github.com/ngxs/store/graphs/contributors) работы NGXS</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Вел публикации в [официальном блоге NGXS](https://medium.com/ngxs) на Medium</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Организатор NGXS Labs community на [Github](https://github.com/ngxs-labs) и [Medium](https://medium.com/ngxs-stories)</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Реализовал [NGXS HMR Plugin](https://github.com/ngxs/store/tree/master/packages/hmr-plugin)</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Реализовал [NGXS CLI](https://www.ngxs.io/plugins/cli)</sup><br>
 <sup>☑ С 2019 по 2020 выступил на нескольких митапах:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ [ngRuAir подкаст](https://m.youtube.com/watch?v=0OT8O4gj6ak) в 2019</sup><br>
