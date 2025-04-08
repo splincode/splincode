@@ -69,6 +69,8 @@
 <sup>☑ Принимал участие в разработке платежной форма 3-D Secure для мобильного банка (с подтверждением через пуш уведомления, а не смс);</sup> <br> <sup>☑ Провел 10 собеседований в общем потоке компании;</sup><br>
 <sup>☑ С 2018 по 2020
 год принимал [активное участие](https://github.com/ngxs/store/graphs/contributors) в разработке NGXS:</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Вел публикации в [официальном блоге NGXS](https://medium.com/ngxs) на Medium</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Организатор NGXS Labs community на [Github](https://github.com/ngxs-labs) и [Medium](https://medium.com/ngxs-stories)</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Реализовал [NGXS CLI](https://www.ngxs.io/plugins/cli)</sup><br>
 <sup>☑ С 2019 по 2020 выступил на нескольких митапах:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ [ngRuAir подкаст](https://m.youtube.com/watch?v=0OT8O4gj6ak) в 2019</sup><br>
