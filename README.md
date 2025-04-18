@@ -101,17 +101,25 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
 </span>
 
-<sup>☑ Занимался проектом на аутсорсинге в ПАО Росбанк, где разрабатывали календарь для отпусков сотрудников банка;</sup> <br> <sup>☑ Также принял участие в проекте на аутсорсинге в
-ЗАО Газпромбанк, связанный с ипотечным кредитованием;</sup><br><sup>☑ Выступил на
-[митапе](https://www.youtube.com/watch?v=2cV4i-g6Oxc&ab_channel=Angular-%D0%BC%D0%B8%D1%82%D0%B0%D0%BF%D1%8B%D0%B8%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
-в Тинькофф-банке в Спб офисе;</sup><br><sup>☑ Выступил на
-[FrontendConf](https://www.youtube.com/watch?v=7646rW8qdcQ&ab_channel=FrontendChannel) в Москве
-(Сколково);</sup><br><sup>☑ Выступил на
-[Веб-стандартах](https://www.youtube.com/watch?v=sxN5hmb2hdU&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
-в университете ИТМО в Санкт-Петербурге;</sup> <br> <sup>☑ Инициировал и привлекал стажеров в компанию из университета
-МГТУ Станкин;</sup> <br> <sup>☑ Организовал первый в компании
+<sup>☑ Занимался проектом на аутсорсинге в ПАО Росбанк, где разрабатывали календарь для отпусков сотрудников банка;</sup><br>
+<sup>☑ Также принял участие в проекте на аутсорсинге в
+ЗАО Газпромбанк, связанный с ипотечным кредитованием;</sup><br>
+<sup>☑ Инициировал и привлекал стажеров в компанию из университета
+МГТУ Станкин;</sup><br>
+<sup>☑ В 2018 выступил на нескольких конференциях:</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Организовал первый в компании
 [публичный митап](https://www.youtube.com/watch?v=daP3OAjb1Hc&ab_channel=Cinimex), где выступил также в качестве
-докладчика.</sup>
+докладчика;</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Выступил на
+[Веб-стандартах](https://www.youtube.com/watch?v=sxN5hmb2hdU&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
+в университете ИТМО в Санкт-Петербурге;</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Выступил на
+[митапе](https://www.youtube.com/watch?v=2cV4i-g6Oxc&ab_channel=Angular-%D0%BC%D0%B8%D1%82%D0%B0%D0%BF%D1%8B%D0%B8%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+в Тинькофф-банке в Спб офисе</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Выступил на
+[FrontendConf](https://www.youtube.com/watch?v=7646rW8qdcQ&ab_channel=FrontendChannel) в Москве
+(Сколково)</sup>
+
 
 ### AVK-Communications <a href="http://www.atlant-inform.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
