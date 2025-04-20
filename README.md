@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/south-korea4.jpg" width="35%" align="right">
 
-### Simple Frontend developer | 09:00 - 18:00
+### Simple Web Developer | 09:00 - 18:00
 
 Всем привет, меня зовут Максим Иванов! <br> Работаю удаленно 🏠 в команде одного из проектов
 <a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>. <br />
@@ -22,7 +22,7 @@
 
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
-**Frontend-разработчик** <br> 
+**HTML/CSS верстальщик в UI KIT** <br> 
 <sup><b>Август 2021 - now, департамент базовых технологий</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
@@ -37,13 +37,15 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/react.svg" align="center" /></code>
 </span>
 
-<sup>☑ Принимал участие в запуске [проекта дизайн-гайдлайнов](https://design.tbank.ru/) Т-Банка в 2024;</sup><br>
-<sup>☑ Занимался написанием юнит-тестов (Karma, Jest) и e2e-тестов (Cypress, Playwright);</sup><br>
-<sup>☑ Выполнял мелкие доработки и улучшения документации на портале [Taiga-UI](https://taiga-ui.dev/);</sup><br>
+<sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/) в 2024-2025;</sup><br>
 <sup>☑ Занимался поддержкой [WYSIWYG-редактора](https://github.com/taiga-family/editor) на базе компонентво Taiga UI;</sup><br>
-<sup>☑ Проводил FrontOps улучшения [Github CI/CD](https://github.com/taiga-family/ci) и [DX-процессов](https://github.com/taiga-family/configurations) в кодовой базе Taiga UI;</sup><br>
-<sup>☑ Большую часть времени занимался [багфиксами и разработкой незначительных компонентов](https://github.com/taiga-family/taiga-ui/issues?q=is%3Aissue%20state%3Aclosed%20assignee%3Asplincode).</sup>
+<sup>☑ В 2021 ушел в команду разработки банковского UI KIT(а), где:</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Занимался написанием юнит-тестов (Karma, Jest) и e2e-тестов (Cypress, Playwright)</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Выполнял мелкие доработки и улучшения документации на портале [Taiga-UI](https://taiga-ui.dev/)</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Проводил FrontOps улучшения [Github CI/CD](https://github.com/taiga-family/ci) и [DX-процессов](https://github.com/taiga-family/configurations) в кодовой базе Taiga UI</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Большую часть времени занимался [багфиксами и разработкой незначительных компонентов](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode)</sup>
 
+**Senior/Lead Frontend-разработчик** <br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab.svg" align="center" /></code>
@@ -109,10 +111,10 @@
 <sup>☑ В 2018 выступил на нескольких конференциях:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Организовал первый в компании
 [публичный митап](https://www.youtube.com/watch?v=daP3OAjb1Hc&ab_channel=Cinimex), где выступил также в качестве
-докладчика;</sup><br>
+докладчика</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Выступил на
 [Веб-стандартах](https://www.youtube.com/watch?v=sxN5hmb2hdU&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
-в университете ИТМО в Санкт-Петербурге;</sup><br>
+в университете ИТМО в Санкт-Петербурге</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Выступил на
 [митапе](https://www.youtube.com/watch?v=2cV4i-g6Oxc&ab_channel=Angular-%D0%BC%D0%B8%D1%82%D0%B0%D0%BF%D1%8B%D0%B8%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
 в Тинькофф-банке в Спб офисе</sup><br>
@@ -137,7 +139,7 @@
 <sup>☑ Занимался поддержкой legacy-кода в проектах на Angular.JS;</sup><br>
 <sup>☑ Занимался написанием [КриптоПро ЭЦП плагина](https://github.com/splincode/cryptopro-browser-plugin) на Angular 2.0;</sup><br>
 <sup>☑ Принимал участие в проектах на аутсорсинге ПАО Вымпелкома
-(Билайн), где разрабатывали виджеты для их собственного BPMN движка под Web UI.</sup>
+(Билайн), <br>где разрабатывали виджеты для их собственного BPMN движка под Web UI.</sup>
 
 ### Freelance <a href="https://freelance.ru/" target="_blank"><code>⤯</code></a> · Part-time
 
@@ -181,7 +183,7 @@ Wordpress.</sup> <br>
 
 》Родился в XX веке н.э. ✨ <br>
 》Интровертный флегматик <br>
-》Люблю смотреть 🇰🇷🇨🇳 [дорамы](https://github.com/splincode/films?tab=readme-ov-file#-%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D1%80%D0%B5%D1%8F) <br>
+》Люблю смотреть 🇰🇷 [дорамы](https://github.com/splincode/films?tab=readme-ov-file#-%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D1%80%D0%B5%D1%8F) <br>
 》Мечта: посетить 🇺🇸🇯🇵🇨🇳🇹🇭🇻🇳🇰🇵 <br>
 》Проживаю жизнь как судьбу 🧘 <br>
 》Большую ее часть прожил на [чемоданах](https://yandex.ru/maps?bookmarks%5BpublicId%5D=56Umi3nZ&utm_source=share&utm_campaign=bookmarks) 🧳<br>
