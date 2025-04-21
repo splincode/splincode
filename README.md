@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/south-korea4.jpg" width="35%" align="right">
 
-### Simple Web Developer | 09:00 - 18:00
+### Simple HTML-developer | 09:00 - 18:00
 
 Всем привет, меня зовут Максим Иванов! <br> Работаю удаленно 🏠 в команде одного из проектов
 <a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>. <br />
