@@ -42,7 +42,7 @@
 <sup>☑ В 2021 ушел в команду разработки банковского UI KIT(а), где:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Занимался написанием юнит-тестов (Karma, Jest) и e2e-тестов (Cypress, Playwright)</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Выполнял мелкие доработки и улучшения документации на портале [Taiga-UI](https://taiga-ui.dev/)</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Проводил FrontOps улучшения [Github CI/CD](https://github.com/taiga-family/ci) и [DX-процессов](https://github.com/taiga-family/configurations) в кодовой базе Taiga UI</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Проводил FrontOps улучшения [Github CI/CD](https://github.com/taiga-family/ci) и [DX-процессов](https://github.com/taiga-family/toolkit) в кодовой базе Taiga UI</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Большую часть времени занимался [багфиксами и разработкой незначительных компонентов](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode)</sup>
 
 **Senior/Lead Frontend-разработчик** <br> 
