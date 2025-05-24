@@ -197,7 +197,7 @@ Wordpress.</sup> <br>
 [точки на google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/HRTm7DY4beqcF54k8) 
 </sup><br>
 》Открыл для себя множество кафе ☕ и ресторанов👨‍🍳<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
-[Точки на янлекс карте <img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) / 
+[Точки на яндекс карте <img src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) / 
 [точки на google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/YLevUwyUPDKV3n5aA) 
 </sup><br>
 
