@@ -79,7 +79,7 @@
 <sup>☑ С 2019 по 2020 выступил на нескольких митапах:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ [ngRuAir подкаст](https://m.youtube.com/watch?v=0OT8O4gj6ak) в 2019</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ [Tinkoff Angular Meetup №13](https://meetup.tbank.ru/event/angular-meetup-13/) в 2019</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ [Angular Minks](https://www.youtube.com/watch?v=BtVHm0FJIRA&ab_channel=AngularMinsk) в 2020</sup>
+<sup>&nbsp;&nbsp;&nbsp;◦ [Angular Minsk](https://www.youtube.com/watch?v=BtVHm0FJIRA&ab_channel=AngularMinsk) в 2020</sup>
 
 ### Cinimex <a href="https://cinimex.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
