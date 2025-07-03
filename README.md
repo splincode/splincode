@@ -43,7 +43,7 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ Разработкой и поддержкой автоматизированных юнит (Karma, Jest) и e2e (Cypress, Playwright) тестов</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Улучшением и доработкой документации на официальном портале [Taiga-UI](https://taiga-ui.dev/)</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Оптимизацией FrontOps-процессов, включая улучшения [Github CI/CD](https://github.com/taiga-family/ci) и повышение [качества разработки](https://github.com/taiga-family/toolkit) в проекте Taiga UI</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Решением багов и созданием новых, небольших [компонентов библиотеки](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode)</sup>
+<sup>&nbsp;&nbsp;&nbsp;◦ Решением багов, созданием новых и небольших [компонентов библиотеки](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode)</sup>
 
 **Senior/Lead Frontend-разработчик** <br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
