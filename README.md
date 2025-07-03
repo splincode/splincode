@@ -134,6 +134,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/youtrack.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bash-icon.svg" align="center" /></code>
 </span>
 
 <sup>☑ Занимался поддержкой legacy-кода в проектах на Angular.JS;</sup><br>
