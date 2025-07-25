@@ -164,6 +164,7 @@ Wordpress.</sup> <br>
 
 ### Образование
 
+<sup>✓ <b>[FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)</b> • 2025 • Курс «Responsive Web Design»;</sup><br>
 <sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-react-hooks)</b> • 2025 • Курс «JS React Hooks»;</sup><br>
 <sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-react)</b> • 2025 • Курс «JS React»;</sup><br>
 <sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-frontend-architecture)</b> • 2025 • Курс «Архитектура фронтенда»;</sup><br>
