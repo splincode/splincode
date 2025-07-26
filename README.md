@@ -157,6 +157,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/joomla.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Druplicon.vector.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/wordpress.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/pug.svg" align="center" /></code>
 </span>
 
 <sup>☑ Верстка страничек по photoshop-макетам;</sup> <br> <sup>☑ Поддержка плагинов на PHP в проектах Joomla,
