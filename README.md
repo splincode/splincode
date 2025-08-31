@@ -190,17 +190,17 @@ Wordpress.</sup> <br>
 》Посетил 🇲🇪🇮🇹🇹🇷🇦🇪🇷🇸🇺🇿🇬🇪🇰🇷🇦🇲🇺🇸 и 16 городов 🇷🇺 <br>
 》Достиг того, чего большинство достигают обычно к 70: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;плохого зрения, больных суставов, провалов в памяти 🤣 <br>
-》Устраивает: Жизнь. Без амбиций. Без саморекламы. Без гонки 🌿<br>
-》Нравится: много ходить пешком, подкасты о 🪐 [космосе](https://github.com/splincode/study?tab=readme-ov-file#-%D0%BD%D0%B0%D1%83%D0%BA%D0%B0-%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F-%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0-%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5), иногда [читать](https://github.com/splincode/books) 📚 <br>
-》Обожаю музеи 🏛️🏺, картинные выставки, парки, театры 🎭 и прочие локации<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
-[Точки на яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps/?bookmarks%5BpublicId%5D=NQTkY8-_&ll=34.998999%2C52.614783&mode=bookmarks&utm_campaign=bookmarks&utm_source=share&z=4) / 
-[точки на google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/HRTm7DY4beqcF54k8) 
-</sup><br>
-》Открыл для себя множество кафе ☕ и ресторанов👨‍🍳<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
-[Точки на яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) / 
-[точки на google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/YLevUwyUPDKV3n5aA) 
-</sup><br>
 》Проживаю судьбу [самозванца](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D1%81%D0%B0%D0%BC%D0%BE%D0%B7%D0%B2%D0%B0%D0%BD%D1%86%D0%B0) в IT 🙈 <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Имею страх и нерешительность во всем, с преобладающим слабым [типом нервной системы](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D1%8B_%D0%B2%D1%8B%D1%81%D1%88%D0%B5%D0%B9_%D0%BD%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8) </sup><br>
 》Инфантильный кодер 👨‍💻 <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Я еще многого не знаю • Учусь методом тыка • Делаю простые вещи</sup> <br>
+》А что мне нраааавится 🌈 <br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Много гулять • Слушать подкасты о 🪐 [космосе](https://github.com/splincode/study?tab=readme-ov-file#-%D0%BD%D0%B0%D1%83%D0%BA%D0%B0-%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F-%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0-%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5) • Иногда [читать разношерстные книги](https://github.com/splincode/books) 📚</sup><br>
+》Устраивает жизнь 🌿<br> 
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Без амбиций • Без саморекламы • Без гонки</sup> <br>
+》Обожаю музеи 🏛️🏺, картинные выставки, парки, театры 🎭 и тд.<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
+Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps/?bookmarks%5BpublicId%5D=NQTkY8-_&ll=34.998999%2C52.614783&mode=bookmarks&utm_campaign=bookmarks&utm_source=share&z=4) • точки на [google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/HRTm7DY4beqcF54k8) 
+</sup><br>
+》Открыл для себя множество кафе ☕ и ресторанов👨‍🍳<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
+Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) • точки на [google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/YLevUwyUPDKV3n5aA) 
+</sup><br>
