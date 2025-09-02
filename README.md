@@ -186,10 +186,10 @@ Wordpress.</sup> <br>
 》Равнодушный ‭«простак» 😑 <br>
 》Интровертный флегматик 🥱 <br>
 》Люблю смотреть 🇰🇷🇨🇳 [дорамы](https://github.com/splincode/films?tab=readme-ov-file#-%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D1%80%D0%B5%D1%8F)</sup> <br>
-》Мой адрес — «в пути», а мой дом — [чемодан](https://yandex.ru/maps?bookmarks%5BpublicId%5D=56Umi3nZ&utm_source=share&utm_campaign=bookmarks) 🧳<br>
 》Посетил 🇲🇪🇮🇹🇹🇷🇦🇪🇷🇸🇺🇿🇬🇪🇰🇷🇦🇲🇺🇸 и 16 городов 🇷🇺 <br>
-》Достиг того, чего большинство достигают обычно к 70: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;плохого зрения, больных суставов, провалов в памяти 🤣 <br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;Мой адрес — «в пути», а мой дом — [чемодан](https://yandex.ru/maps?bookmarks%5BpublicId%5D=56Umi3nZ&utm_source=share&utm_campaign=bookmarks) 🧳</sup> <br>
+》Достиг того, чего обычно достигают к 70 🤣 <br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;Плохого зрения • Больных суставов • Провалов в памяти</sup> <br>
 》Проживаю судьбу [самозванца](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D1%81%D0%B0%D0%BC%D0%BE%D0%B7%D0%B2%D0%B0%D0%BD%D1%86%D0%B0) в IT 🙈 <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Имею страх и нерешительность во всем, с преобладающим слабым [типом нервной системы](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D1%8B_%D0%B2%D1%8B%D1%81%D1%88%D0%B5%D0%B9_%D0%BD%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8) </sup><br>
 》Инфантильный кодер 👨‍💻 <br>
