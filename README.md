@@ -42,7 +42,7 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ Оптимизацией FrontOps-процессов, включая улучшения [Github CI/CD](https://github.com/taiga-family/ci) и повышение [качества разработки](https://github.com/taiga-family/toolkit) в проекте Taiga UI</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Решением багов, созданием новых и небольших [компонентов библиотеки](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode)</sup>
 
-**Senior/Lead Frontend-разработчик** <br> 
+**Senior Frontend-разработчик** <br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab-icon.svg" align="center" /></code>
