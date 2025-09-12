@@ -36,6 +36,7 @@
 
 <sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/) в 2024-2025;</sup><br>
 <sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://github.com/taiga-family/editor) на основе компонентов Taiga UI;</sup><br>
+<sup>☑ Занимался созданием и поддержкой [пакета](https://www.npmjs.com/package/@taiga-ui/design-tokens?activeTab=code) дизайн токенов для веб-платформы;</sup><br>
 <sup>☑ В 2021 ушел в команду разработки банковского UI KIT(а), где занимался:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Разработкой и поддержкой автоматизированных юнит (karma, jest) и e2e (cypress, playwright) тестов</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Улучшением и доработкой документации на официальном портале [Taiga-UI](https://taiga-ui.dev/)</sup><br>
