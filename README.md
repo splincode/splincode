@@ -24,7 +24,6 @@
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nx.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/renovatebot.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nx.svg" align="center" /></code>
