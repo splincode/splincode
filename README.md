@@ -181,7 +181,7 @@ Wordpress.</sup> <br>
 управления, закончил со степенью бакалавра (синий диплом);</sup><br>
 <sup>✓ <b>[СПбГЭТУ «ЛЭТИ»](https://etu.ru/)</b> • 2012-2014<br> Поступил на факультет радиотехники и телекоммуникаций на специалитет, но через 2 года понял, что электротехника это не мое и
 отчислился.</sup><br>
-<sup>✓ <b>[МБОУ СШ №4 г. Онеги](https://yandex.ru/maps/org/srednyaya_shkola_4_imeni_dvazhdy_geroya_sovetskogo_soyuza_aleksandra_osipovicha_shabalina/1055849916/?ll=38.123427%2C63.907323&z=14.79)</b> • 2000-2012 • 1-11 класс</sup>
+<sup>✓ <b>[МБОУ СШ №4 г. Онеги](https://yandex.ru/maps/org/srednyaya_shkola_4_imeni_dvazhdy_geroya_sovetskogo_soyuza_aleksandra_osipovicha_shabalina/1055849916/?ll=38.123427%2C63.907323&z=14.79)</b> • 2001-2012 • 1-11 класс</sup>
 
 ### <img src="https://raw.githubusercontent.com/splincode/splincode/main/assets/guy.png" height="84px" align="right"> Факты обо мне
 
