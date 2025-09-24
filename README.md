@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/splincode/splincode/main/assets/south-korea4.jpg" width="35%" align="right">
 
-### Simple HTML-developer | 09:00 - 18:00
+### I'm awkward html/css developer | 09:00 - 18:00
 
 Всем привет, меня зовут Максим Иванов! <br> Работаю в команде одного из проектов
 <a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>. 
@@ -22,7 +22,6 @@
 **HTML/CSS верстальщик в UI KIT** <br> 
 <sup><b>Август 2021 - now, департамент базовых технологий</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
-
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
