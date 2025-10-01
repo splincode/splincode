@@ -19,7 +19,7 @@
 
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
-**HTML/CSS верстальщик в UI KIT** <br> 
+**HTML/CSS верстальщик в UI kit** <br> 
 <sup><b>Август 2021 - now, департамент базовых технологий</b></sup> <br>
 <span title="Инструменты, с которыми начал работать">
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
