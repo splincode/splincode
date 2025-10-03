@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/splincode/splincode/main/assets/south-korea4.jpg" width="35%" align="right">
 
-### I'm awkward html/css developer | 09:00 - 18:00
+### Copy & Paste by 09:00 - 18:00
 
 Всем привет, меня зовут Максим Иванов! <br> Работаю в команде одного из проектов
 <a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>. 
@@ -190,6 +190,8 @@ Wordpress.</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Свидетель и продукт уникальной эпохи</sup><br>
 》Счастье — не в достижении, а в бытии 🌿<br> 
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Устраивает жизнь без амбиций, саморекламы и гонки</sup> <br>
+》Истинный миллениал или сказочный ... 🤡 <br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Готов работать и с температурой и с переломами</sup><br>
 》Достиг того, чего обычно достигают к 70 🤩 <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Плохого зрения • Больных суставов • Провалов в памяти</sup> <br>
 》Посетил 🇲🇪🇮🇹🇹🇷🇦🇪🇷🇸🇺🇿🇬🇪🇰🇷🇦🇲🇺🇸 и <span title="Онега, Архангельск, Северодвинск, Жуковский, Москва, Санкт-Петербург, Сестрорецк, Троицк, Вологда, Ярославль, Выборг, Нижний Новгород, Ростов Великий, Великий Новгород, Псков, Владимир, Суздаль, Кострома, Самара, Смоленск, Брянск, Калининград, Зеленоградск, Светлогорск, Янтарный, Балтийск">26 городов 🇷🇺</span><br>
@@ -197,7 +199,7 @@ Wordpress.</sup> <br>
 》Открыл для себя множество кафе ☕ и ресторанов👨‍🍳<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
 Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) • точки на [google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/YLevUwyUPDKV3n5aA) 
 </sup><br>
-》Обожаю музеи 🏛️🏺 / картинные выставки / парки / театры 🎭<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
+》Обожаю музеи 🏛️🏺 • картинные выставки • парки • театры 🎭<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
 Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps/?bookmarks%5BpublicId%5D=NQTkY8-_&ll=34.998999%2C52.614783&mode=bookmarks&utm_campaign=bookmarks&utm_source=share&z=4) • точки на [google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/HRTm7DY4beqcF54k8) 
 </sup><br>
 》Интровертный флегматик, которому нравится 🌈 <br>
