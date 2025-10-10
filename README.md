@@ -188,7 +188,10 @@ Wordpress.</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;но через 2 года понял, что электротехника это не мое и
 отчислился.</sup><br>
 </sup>
-<sup>✓ <b>[МБОУ СШ №4 г. Онеги](https://yandex.ru/maps/org/srednyaya_shkola_4_imeni_dvazhdy_geroya_sovetskogo_soyuza_aleksandra_osipovicha_shabalina/1055849916/?ll=38.123427%2C63.907323&z=14.79)</b> • 2001-2012 • 1-11 класс</sup>
+<sup>✓ <b>[МБОУ СШ №4 г. Онеги](https://yandex.ru/maps/org/srednyaya_shkola_4_imeni_dvazhdy_geroya_sovetskogo_soyuza_aleksandra_osipovicha_shabalina/1055849916/?ll=38.123427%2C63.907323&z=14.79)</b> • 2001-2012 • 1-11 класс<br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;В школе изучали Turbo Pascal, Basic, HTML, CSS;</sub><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Создал первый сайт школы в 2010, для онлайн расписания уроков.</sup><br>
+</sup>
 
 ### <img src="https://raw.githubusercontent.com/splincode/splincode/main/assets/guy.png" height="84px" align="right"> Факты обо мне
 
