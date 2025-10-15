@@ -143,7 +143,7 @@
 
 **Веб-мастер (верстальщик, php-handyman)** <br> 
 <sup><b>Май 2012 - Август 2015</b></sup> <br>
-<span title="Инструменты, с которыми начал работать">
+<sup><sup>Инструменты, с которыми работал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-dreamweaver.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" align="center" /></code>
@@ -158,7 +158,6 @@
 <code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Druplicon.vector.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/wordpress.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/pug.svg" align="center" /></code>
-</span>
 
 <sup>☑ Верстка страничек по photoshop-макетам;</sup> <br> <sup>☑ Поддержка плагинов на PHP в проектах Joomla,
 Wordpress.</sup> <br>
