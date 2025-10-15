@@ -21,7 +21,7 @@
 
 **HTML/CSS верстальщик в UI Kit** <br> 
 <sup><b>Август 2021 - now, департамент базовых технологий</b></sup> <br>
-<span title="Инструменты, с которыми начал работать">
+<sup><sup>Инструменты, с которыми работал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
@@ -34,7 +34,6 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/vitejs.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/react.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/deepseek-color.png" align="center" /></code>
-</span>
 
 <sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/) в 2024-2025;</sup><br>
 <sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://github.com/taiga-family/editor) на основе компонентов Taiga UI;</sup><br>
@@ -47,7 +46,7 @@
 
 **Middle+ Frontend-разработчик** <br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
-<span title="Инструменты, с которыми начал работать">
+<sup><sup>Инструменты, с которыми работал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/insomnia.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
@@ -59,7 +58,6 @@
 <code><img alt="" height="17px" src="https://user-images.githubusercontent.com/1283734/83267345-6c14e180-a207-11ea-95fb-eebcf1b1c3b3.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jest.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/cypress-icon.svg" align="center" /></code>
-</span>
 
 <sup>☑ Попробовал себя в роли тимлида команды из пяти Frontend-разработчиков:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Релизный цикл с двухнедельными спринтами</sup><br>
@@ -85,7 +83,7 @@
 
 **Middle frontend-разработчик** <br>
 <sup><b>Ноябрь 2017 - Ноябрь 2018</b></sup> <br>
-<span title="Инструменты, с которыми начал работать">
+<sup><sup>Инструменты, с которыми работал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jenkins.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bitbucket.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jira.svg" align="center" /></code>
@@ -102,7 +100,6 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/materializecss.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/karma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
-</span>
 
 <sup>☑ Занимался проектом на аутсорсинге в ПАО Росбанк, где разрабатывали календарь для отпусков сотрудников банка;</sup><br>
 <sup>☑ Также принял участие в проекте на аутсорсинге в
@@ -128,7 +125,7 @@
 
 **Junior frontend-разработчик** <br> 
 <sup><b>Июнь 2016 - Ноябрь 2017</b></sup> <br>
-<span title="Инструменты, с которыми начал работать">
+<sup><sup>Инструменты, с которыми работал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/teamcity.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.worldvectorlogo.com/logos/upsource-icon.svg" align="center" /></code>
@@ -136,7 +133,6 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bash-icon.svg" align="center" /></code>
-</span>
 
 <sup>☑ Занимался поддержкой legacy-кода в проектах на Angular.JS;</sup><br>
 <sup>☑ Занимался написанием [КриптоПро ЭЦП плагина](https://github.com/splincode/cryptopro-browser-plugin) на Angular 2.0;</sup><br>
