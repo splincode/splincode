@@ -210,7 +210,7 @@ Wordpress.</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Плохого зрения • Больных суставов • Провалов в памяти</sup> <br>
 》🤡 Истинный миллениал или сказочный ...<br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Могу выходить на работу с температурой и переломами</sup><br>
-》Открыл для себя множество кафе ☕<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
+》☕ Открыл для себя множество кафе<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
 Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) • точки на [google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/YLevUwyUPDKV3n5aA) 
 </sup><br>
 》🏛️ Обожаю музеи • выставки • театры<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
