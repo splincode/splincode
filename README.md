@@ -209,11 +209,11 @@ Wordpress.</sup> <br>
 》☕ Открыл для себя множество кафе<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
 Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) • точки на [google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/YLevUwyUPDKV3n5aA) 
 </sup><br>
-》🏛️ Обожаю музеи • выставки • театры<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
-Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps/?bookmarks%5BpublicId%5D=NQTkY8-_&ll=34.998999%2C52.614783&mode=bookmarks&utm_campaign=bookmarks&utm_source=share&z=4) • точки на [google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/HRTm7DY4beqcF54k8) 
-</sup><br>
+》🏛️ Обожаю музеи • выставки • театры<br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Вечный зритель и поклонник музейных залов,</sub><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;театральных подмостков и выставочных пространств</sup><br>
 》✈️ Мой адрес — «в пути», а мой дом — [чемодан](https://yandex.ru/maps?bookmarks%5BpublicId%5D=56Umi3nZ&utm_source=share&utm_campaign=bookmarks)<br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ниже список стран, городов и поселков, которые посетил</sub><br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Уголки мира, где мне удалось побывать:</sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=NQTkY8-_&utm_source=share&utm_campaign=bookmarks) • точки [на google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/RbQWWbmkrtyAbbab9)</sup>
 <br>
 <hr />
