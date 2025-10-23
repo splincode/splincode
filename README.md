@@ -35,9 +35,9 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/react.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/deepseek-color.png" align="center" /></code>
 
-<sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/) в 2024-2025;</sup><br>
-<sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://github.com/taiga-family/editor) на основе компонентов Taiga UI;</sup><br>
-<sup>☑ Занимался созданием и поддержкой [пакета](https://www.npmjs.com/package/@taiga-ui/design-tokens?activeTab=code) дизайн токенов для веб-платформы;</sup><br>
+<sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/) в 2024-2025</sup><br>
+<sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://github.com/taiga-family/editor) на основе компонентов Taiga UI</sup><br>
+<sup>☑ Занимался созданием и поддержкой [пакета](https://www.npmjs.com/package/@taiga-ui/design-tokens?activeTab=code) дизайн токенов для веб-платформы</sup><br>
 <sup>☑ В 2021 ушел в команду разработки банковского UI KIT(а), где занимался:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Разработкой и поддержкой автоматизированных юнит (karma, jest) и e2e (cypress, playwright) тестов</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Улучшением и доработкой документации на официальном портале [Taiga-UI](https://taiga-ui.dev/)</sup><br>
@@ -64,11 +64,10 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ Аналитика производительности команды</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Стабильные ретроспективы</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Проводил one-to-one</sup><br>
-<sup>☑ Принимал участие в разработке системы фрод-мониторинга в процессинговом
-департаменте;</sup><br>
-<sup>☑ Принимал участие в разработке платежной формы 3-D Secure для мобильного банка (с подтверждением через пуш уведомления, а не смс);</sup> <br> <sup>☑ Провел 10 собеседований в общем потоке компании;</sup><br>
-<sup>☑ С 2018 по 2020
-год принимал активное участие в разработке NGXS:</sup><br>
+<sup>☑ Принимал участие в разработке системы фрод-мониторинга в процессинговом департаменте</sup><br>
+<sup>☑ Принимал участие в разработке платежной формы 3-D Secure для мобильного банка (с подтверждением через пуш уведомления, а не смс)</sup><br>
+<sup>☑ Провел 10 собеседований в общем потоке компании</sup><br>
+<sup>☑ С 2018 по 2020 год принимал активное участие в разработке NGXS:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Занимался [багфиксами и оптимизацией](https://github.com/ngxs/store/pulls?q=is%3Apr+is%3Aclosed+author%3Asplincode) работы NGXS</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Вел публикации в [официальном блоге NGXS](https://medium.com/ngxs) на Medium</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Организатор NGXS Labs community на [Github](https://github.com/ngxs-labs) и [Medium](https://medium.com/ngxs-stories)</sup><br>
@@ -101,11 +100,9 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/karma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
 
-<sup>☑ Занимался проектом на аутсорсинге в ПАО Росбанк, где разрабатывали календарь для отпусков сотрудников банка;</sup><br>
-<sup>☑ Также принял участие в проекте на аутсорсинге в
-ЗАО Газпромбанк, связанный с ипотечным кредитованием;</sup><br>
-<sup>☑ Инициировал и привлекал стажеров в компанию из университета
-МГТУ Станкин;</sup><br>
+<sup>☑ Занимался проектом на аутсорсинге в ПАО Росбанк, где разрабатывали календарь для отпусков сотрудников банка</sup><br>
+<sup>☑ Также принял участие в проекте на аутсорсинге в ЗАО Газпромбанк, связанный с ипотечным кредитованием</sup><br>
+<sup>☑ Инициировал и привлекал стажеров в компанию из университета МГТУ Станкин</sup><br>
 <sup>☑ В 2018 выступил на нескольких конференциях:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Организовал первый в компании
 [публичный митап](https://www.youtube.com/watch?v=daP3OAjb1Hc&ab_channel=Cinimex), где выступил также в качестве
@@ -134,10 +131,9 @@
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bash-icon.svg" align="center" /></code>
 
-<sup>☑ Занимался поддержкой legacy-кода в проектах на Angular.JS;</sup><br>
-<sup>☑ Занимался написанием [КриптоПро ЭЦП плагина](https://github.com/splincode/cryptopro-browser-plugin) на Angular 2.0;</sup><br>
-<sup>☑ Принимал участие в проектах на аутсорсинге ПАО Вымпелкома
-(Билайн), <br>где разрабатывали виджеты для их собственного BPMN движка под Web UI.</sup>
+<sup>☑ Занимался поддержкой legacy-кода в проектах на Angular.JS</sup><br>
+<sup>☑ Занимался написанием [КриптоПро ЭЦП плагина](https://github.com/splincode/cryptopro-browser-plugin) на Angular 2.0</sup><br>
+<sup>☑ Принимал участие в проектах на аутсорсинге ПАО Вымпелкома (Билайн), <br>где разрабатывали виджеты для их собственного BPMN движка под Web UI.</sup>
 
 ### Freelance <a href="https://freelance.ru/" target="_blank"><code>⤯</code></a> · Part-time
 
@@ -164,16 +160,16 @@ Wordpress.</sup> <br>
 
 ### Образование
 
-<sup>✓ <b>[FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)</b> • 2025 • Курс «Responsive Web Design»;</sup><br>
-<sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-react-hooks)</b> • 2025 • Курс «JS React Hooks»;</sup><br>
-<sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-react)</b> • 2025 • Курс «JS React»;</sup><br>
-<sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-frontend-architecture)</b> • 2025 • Курс «Архитектура фронтенда»;</sup><br>
-<sup>✓ <b>[Yandex practicum](https://practicum.yandex.ru/profile/java-developer/)</b> • 2023 • Курс «Java-разработчик»;</sup><br>
-<sup>✓ <b>[Yandex practicum](https://practicum.yandex.ru/interface-designer/)</b> • 2021 • Курс «Дизайнер интерфейсов» (figma);</sup><br>
-<sup>✓ <b>[Udemy](https://www.udemy.com/course/the-complete-angular-master-class/)</b> • 2018 • Курс «Complete Angular Course, Beginner to Advanced»;</sup><br>
-<sup>✓ <b>[FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)</b> • 2017 • Курс «JavaScript Algorithms and Data Structures»;</sup><br>
-<sup>✓ <b>[Kaspersky Lab, Internship](https://www.kaspersky.com/)</b> • 2016 • Вечернее обучение по C++;</sup><br>
-<sup>✓ <b>[Codecademy](https://www.codecademy.com/learn/learn-bootstrap)</b> • 2015 • Learn Bootstrap курс;</sup><br>
+<sup>✓ <b>[FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)</b> • 2025 • Курс «Responsive Web Design»</sup><br>
+<sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-react-hooks)</b> • 2025 • Курс «JS React Hooks»</sup><br>
+<sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-react)</b> • 2025 • Курс «JS React»</sup><br>
+<sup>✓ <b>[Hexlet](https://ru.hexlet.io/courses/js-frontend-architecture)</b> • 2025 • Курс «Архитектура фронтенда»</sup><br>
+<sup>✓ <b>[Yandex practicum](https://practicum.yandex.ru/profile/java-developer/)</b> • 2023 • Курс «Java-разработчик»</sup><br>
+<sup>✓ <b>[Yandex practicum](https://practicum.yandex.ru/interface-designer/)</b> • 2021 • Курс «Дизайнер интерфейсов» (figma)</sup><br>
+<sup>✓ <b>[Udemy](https://www.udemy.com/course/the-complete-angular-master-class/)</b> • 2018 • Курс «Complete Angular Course, Beginner to Advanced»</sup><br>
+<sup>✓ <b>[FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)</b> • 2017 • Курс «JavaScript Algorithms and Data Structures»</sup><br>
+<sup>✓ <b>[Kaspersky Lab, Internship](https://www.kaspersky.com/)</b> • 2016 • Вечернее обучение по C++</sup><br>
+<sup>✓ <b>[Codecademy](https://www.codecademy.com/learn/learn-bootstrap)</b> • 2015 • Learn Bootstrap курс</sup><br>
 <sup>✓ <b>[МГТУ «СТАНКИН»](https://stankin.ru/)</b> • 2014-2018 • Прикладная информатика<br> 
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Поступил на факультет информационных технологий и систем
 управления, </sub><br>
