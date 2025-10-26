@@ -91,7 +91,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/postman-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nightwatch.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code><br>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?fit=300%2C300&ssl=1" align="center" /></code>
 <code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/reactivex.svg" align="center" /></code>
