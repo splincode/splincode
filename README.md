@@ -128,8 +128,9 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/teamcity.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.worldvectorlogo.com/logos/upsource-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/youtrack.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nginx.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nodejs-icon.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bash-icon.svg" align="center" /></code>
 
@@ -151,6 +152,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/css-3.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jquery.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/mootools.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/php.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/mysql.svg" align="center" /></code>
