@@ -21,7 +21,7 @@
 
 **HTML/CSS верстальщик в UI Kit** <br> 
 <sup><b>Август 2021 - now, департамент базовых технологий</b></sup> <br>
-<sup><sup>Инструменты, с которыми работал в этот период ⤵</sup></sup><br>
+<sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
@@ -46,7 +46,7 @@
 
 **Middle+ Frontend-разработчик** <br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
-<sup><sup>Инструменты, с которыми работал в этот период ⤵</sup></sup><br>
+<sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code title="zoom"><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/zoom-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/insomnia.svg" align="center" /></code>
@@ -83,7 +83,7 @@
 
 **Middle frontend-разработчик** <br>
 <sup><b>Ноябрь 2017 - Ноябрь 2018</b></sup> <br>
-<sup><sup>Инструменты, с которыми работал в этот период ⤵</sup></sup><br>
+<sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jenkins.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bitbucket.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jira.svg" align="center" /></code>
@@ -123,7 +123,7 @@
 
 **Junior frontend-разработчик** <br> 
 <sup><b>Июнь 2016 - Ноябрь 2017</b></sup> <br>
-<sup><sup>Инструменты, с которыми работал в этот период ⤵</sup></sup><br>
+<sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/teamcity.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.worldvectorlogo.com/logos/upsource-icon.svg" align="center" /></code>
@@ -142,7 +142,7 @@
 
 **Веб-мастер (верстальщик, php-handyman)** <br> 
 <sup><b>Май 2012 - Август 2015</b></sup> <br>
-<sup><sup>Инструменты, с которыми работал в этот период ⤵</sup></sup><br>
+<sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/skype.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png" align="center" /></code>
@@ -150,7 +150,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/html-5.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/css-3.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code><br>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jquery.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/mootools.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" align="center" /></code>
