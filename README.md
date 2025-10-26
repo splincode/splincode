@@ -154,7 +154,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jquery.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/mootools.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/php.svg" align="center" /></code><br>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/php.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/mysql.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/apache.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/joomla.svg" align="center" /></code>
