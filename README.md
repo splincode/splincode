@@ -47,6 +47,7 @@
 **Middle+ Frontend-разработчик** <br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал в этот период ⤵</sup></sup><br>
+<code title="zoom"><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/zoom-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/insomnia.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
@@ -140,8 +141,10 @@
 **Веб-мастер (верстальщик, php-handyman)** <br> 
 <sup><b>Май 2012 - Август 2015</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал в этот период ⤵</sup></sup><br>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-dreamweaver.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/skype.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png" align="center" /></code>
+<code title="Dreamweaver"><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-dreamweaver.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/html-5.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/css-3.svg" align="center" /></code>
@@ -155,8 +158,8 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/wordpress.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/pug.svg" align="center" /></code>
 
-<sup>☑ Верстка страничек по photoshop-макетам;</sup> <br> <sup>☑ Поддержка плагинов на PHP в проектах Joomla,
-Wordpress.</sup> <br>
+<sup>☑ Верстка страничек по photoshop-макетам</sup><br>
+<sup>☑ Поддержка плагинов на PHP для Joomla, Wordpress, Drupal на заказах с фриланс сайтов.</sup> <br>
 
 ### Образование
 
@@ -182,7 +185,7 @@ Wordpress.</sup> <br>
 </sup>
 <sup>✓ <b>[МБОУ СШ №4 г. Онеги](https://yandex.ru/maps/org/srednyaya_shkola_4_imeni_dvazhdy_geroya_sovetskogo_soyuza_aleksandra_osipovicha_shabalina/1055849916/?ll=38.123427%2C63.907323&z=14.79)</b> • 2001-2012 • 1-11 класс<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;В школе изучали Turbo Pascal, Basic, HTML, CSS;</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Создал первый сайт школы в 2010, для онлайн расписания уроков.</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Создал первый сайт школы в 2010 для онлайн расписания уроков.</sup><br>
 </sup>
 
 ### <img src="https://raw.githubusercontent.com/splincode/splincode/main/assets/guy.png" height="84px" align="right"> Факты обо мне
