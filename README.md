@@ -71,7 +71,7 @@
 <sup>☑ С 2018 по 2020 год принимал активное участие в разработке NGXS:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Занимался [багфиксами и оптимизацией](https://github.com/ngxs/store/pulls?q=is%3Apr+is%3Aclosed+author%3Asplincode) работы NGXS</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Вел публикации в [официальном блоге NGXS](https://medium.com/ngxs) на Medium</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Организатор NGXS Labs community на [Github](https://github.com/ngxs-labs) и [Medium](https://medium.com/ngxs-stories)</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Организатор NGXS Labs community на [Github](https://github.com/ngxs-labs) и [Medium](https://medium.com/ngxs-stories)</sup>
 <sup>&nbsp;&nbsp;&nbsp;◦ Реализовал [NGXS HMR Plugin](https://github.com/ngxs/store/tree/master/packages/hmr-plugin)</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Реализовал [NGXS CLI](https://www.ngxs.io/plugins/cli)</sup><br>
 <sup>☑ С 2019 по 2020 выступил на нескольких митапах:</sup><br>
