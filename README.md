@@ -92,6 +92,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/confluence.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/postman-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nightwatch.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/prettier.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?fit=300%2C300&ssl=1" align="center" /></code>
@@ -148,6 +149,7 @@
 <sup><b>Май 2012 - Август 2015</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/skype.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cygwin_logo.svg/1920px-Cygwin_logo.svg.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png" align="center" /></code>
 <code title="Dreamweaver"><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-dreamweaver.svg" align="center" /></code>
