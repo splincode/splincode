@@ -136,6 +136,7 @@
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nginx.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nodejs-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/bootstrap.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bash-icon.svg" align="center" /></code>
 
