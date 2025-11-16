@@ -86,6 +86,8 @@
 **Middle frontend-разработчик** <br>
 <sup><b>Ноябрь 2017 - Ноябрь 2018</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/apple.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/safari.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jenkins.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bitbucket.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jira.svg" align="center" /></code>
@@ -129,6 +131,9 @@
 **Junior frontend-разработчик** <br> 
 <sup><b>Июнь 2016 - Ноябрь 2017</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/ubuntu.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/chrome.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/firefox.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/teamcity.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.worldvectorlogo.com/logos/upsource-icon.svg" align="center" /></code>
@@ -149,7 +154,9 @@
 **Веб-мастер (верстальщик, php-handyman)** <br> 
 <sup><b>Май 2012 - Август 2015</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/microsoft-windows-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/skype.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/opera.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cygwin_logo.svg/1920px-Cygwin_logo.svg.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png" align="center" /></code>
