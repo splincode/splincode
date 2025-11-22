@@ -232,7 +232,7 @@
 </sup><br>
 》🏛️ Обожаю музеи • выставки • театры<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Вечный зритель и поклонник музейных залов,</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;театральных подмостков и выставочных пространств</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[театральных подмостков](https://github.com/splincode/theaters/blob/main/README.md) и выставочных пространств</sup><br>
 》✈️ Мой адрес — «в пути», а мой дом — [чемодан](https://yandex.ru/maps?bookmarks%5BpublicId%5D=56Umi3nZ&utm_source=share&utm_campaign=bookmarks)<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Уголки мира, где мне удалось побывать:</sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=NQTkY8-_&utm_source=share&utm_campaign=bookmarks) • точки [на google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/RbQWWbmkrtyAbbab9)</sup>
