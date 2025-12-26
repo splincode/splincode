@@ -254,4 +254,4 @@
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇰🇷 Сеул • Ульсан • Пусан</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇦🇲 Ереван</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇺🇸 Лос-Анджелес • Хоторн • Анахайм • Лонг-Бич • Санта-Моника • Беверли-Хиллз • Инглвуд • Чикаго • Нью-Йорк</sup> <br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;🇨🇳 Пекин • Сиань</sup> <br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;🇨🇳 Пекин • Сиань • Линьту́н</sup> <br>
