@@ -37,6 +37,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/deepseek-color.png" align="center" /></code>
 <code><img alt="" width="17" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" align="center" /></code>
+<code><img alt="" width="17" height="17px" src="https://cdn.svglogos.dev/logos/claude-icon.svg" align="center" /></code>
 
 <sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/) в 2024-2025</sup><br>
 <sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://github.com/taiga-family/editor) на основе компонентов Taiga UI</sup><br>
