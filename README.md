@@ -260,7 +260,7 @@
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇷🇸 Белград</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇺🇿 Ташкент<sup>x2</sup> • Самарканд • Бухара • Чарвак<sup>x2</sup> • Чимган • Чиноркент</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇬🇪 Тбилиси</sup> <br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;🇰🇷 Сеул<sup>x2</sup> • Ульсан • Пусан • Сувон</sup> <br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;🇰🇷 Сеул<sup>x2</sup> • Ульсан • Пусан • Квачхон • Сувон</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇦🇲 Ереван</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇺🇸 Лос-Анджелес • Хоторн • Анахайм • Лонг-Бич • Санта-Моника • Беверли-Хиллз • Инглвуд • Чикаго • Нью-Йорк</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇨🇳 Пекин • Сиань • Линьту́н • Шанхай • Чжуцзяцзяо • Гуанчжоу</sup> <br>
