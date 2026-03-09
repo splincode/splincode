@@ -211,11 +211,11 @@
 
 ### <img src="https://raw.githubusercontent.com/splincode/splincode/main/assets/guy.png" height="84px" align="right"> Факты обо мне
 
+》⛩️ Следую пути<br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Внутри обрел себя, поэтому</sub><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ни о чем не забочусь вовне</sup><br>
 》🧘‍♂️ Less is more<br> 
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Полезен своей бесполезностью</sup> <br>
-》⛩️ Следую пути<br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Внутри обрел себя,</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;поэтому ни о чем не забочусь вовне</sup><br>
 》✨ Родился в <mark>XX веке</mark> н.э.<br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Свидетель и продукт уникальной эпохи</sup><br>
 》👨‍💻 Стабильный «середнячок»<br>
@@ -224,10 +224,10 @@
 》🕰️ Вечно-мидл разработчик<br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Исполнительный, но не сообразительный</sup><br>
 》🍔 Готов работать за еду<br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Если нет компенсации обедов, даже не зовите 🤣</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Если нет компенсации обедов — не зовите</sup><br>
 》🌈 Интровертный флегматик<br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Слушаю подкасты о 🪐 [космосе](https://github.com/splincode/study?tab=readme-ov-file#-%D0%BD%D0%B0%D1%83%D0%BA%D0%B0-%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F-%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0-%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5)</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Читаю](https://github.com/splincode/books) книги 📚 • Смотрю 🇰🇷🇨🇳 [дорамы](https://github.com/splincode/films?tab=readme-ov-file#-%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D1%80%D0%B5%D1%8F)</sup><br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Слушаю подкасты о 🪐 [космосе](https://github.com/splincode/study?tab=readme-ov-file#-%D0%BD%D0%B0%D1%83%D0%BA%D0%B0-%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F-%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0-%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5) и науке</sub><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Иногда [читаю](https://github.com/splincode/books) книги 📚 • Смотрю 🇰🇷🇨🇳 [дорамы](https://github.com/splincode/films?tab=readme-ov-file#-%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D1%80%D0%B5%D1%8F)</sup><br>
 》🙈 Проживаю судьбу [самозванца](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D1%81%D0%B0%D0%BC%D0%BE%D0%B7%D0%B2%D0%B0%D0%BD%D1%86%D0%B0) в IT<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Имею страх и нерешительность во всем, </sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;с преобладающим слабым [типом нервной системы](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D1%8B_%D0%B2%D1%8B%D1%81%D1%88%D0%B5%D0%B9_%D0%BD%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8)</sup><br>
@@ -242,7 +242,7 @@
 </sup><br>
 》🏛️ Обожаю музеи • выставки • театры<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Вечный зритель и поклонник музейных залов,</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[театральных подмостков](https://github.com/splincode/theaters/blob/main/README.md) и выставочных пространств</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[театральных подмостков](https://github.com/splincode/study?tab=readme-ov-file#%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B) и выставочных пространств</sup><br>
 》✈️ Мой адрес — «в пути», а мой дом — [чемодан](https://yandex.ru/maps?bookmarks%5BpublicId%5D=56Umi3nZ&utm_source=share&utm_campaign=bookmarks)<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Мой дом там, где ходят мои ноги:</sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=NQTkY8-_&utm_source=share&utm_campaign=bookmarks) • точки [на google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/RbQWWbmkrtyAbbab9)</sup>
