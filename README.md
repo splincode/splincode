@@ -48,7 +48,9 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ Разработкой и поддержкой автоматизированных юнит (karma, jest) и e2e (cypress, playwright) тестов</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Улучшением и доработкой документации на официальном портале [Taiga-UI](https://taiga-ui.dev/)</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Оптимизацией FrontOps-процессов, включая улучшения [Github CI/CD](https://github.com/taiga-family/ci) и повышение [качества разработки](https://github.com/taiga-family/toolkit) в проекте Taiga UI</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Решением багов, созданием новых и небольших [компонентов библиотеки](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode)</sup>
+<sup>&nbsp;&nbsp;&nbsp;◦ Решением багов, созданием новых и небольших [компонентов библиотеки](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode)</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Помогал с поддержкой [Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+)</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ В свободное время вносил изменения в [Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+)</sup>
 
 **Middle+ angular-разработчик** <br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
