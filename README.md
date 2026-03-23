@@ -49,6 +49,7 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ Оптимизацией FrontOps-процессов, включая улучшения [Github CI/CD](https://github.com/taiga-family/ci) и повышение [качества разработки](https://github.com/taiga-family/toolkit) в проекте Taiga UI</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Решением багов, созданием новых и небольших [компонентов библиотеки](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode)</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ В свободное время вносил незначительные изменения в [Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+)</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Закрыл пару багов в [stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+) </sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Иногда помогал поддерживать [Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+)</sup>
 
 
