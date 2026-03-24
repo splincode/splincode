@@ -19,7 +19,7 @@
 
 ### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
-**HTML/CSS верстальщик в UI Kit** <br> 
+**HTML/CSS верстальщик в UI Kit** <sup>14-грейд по компании</sup><br> 
 <sup><b>Август 2021 - now, департамент базовых технологий</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
@@ -53,7 +53,7 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ Закрыл пару багов в [stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+) </sup>
 
 
-**Middle+ angular-разработчик** <br> 
+**Middle+ angular-разработчик** <sup>13-грейд по компании</sup><br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code title="zoom"><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/zoom-icon.svg" align="center" /></code>
