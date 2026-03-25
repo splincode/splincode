@@ -17,41 +17,50 @@
 <a target="_blank" href="https://github.com/splincode/codework"><img src="https://img.shields.io/badge/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%BA%D0%B8-%E2%9A%A1-red" /></a>
 <a target="_blank" href="https://github.com/splincode/films"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BA%D0%B8%D0%BD%D0%BE-%F0%9F%8D%BF-violet" /></a>
 
-### T(inkoff)-Bank <a href="https://www.tbank.ru/" target="_blank"><code>⤯</code></a> · Full-time
+### Taiga Family <a href="https://github.com/taiga-family/taiga-ui" target="_blank"><code>⤯</code></a> · Full-time
 
-**HTML/CSS верстальщик в UI Kit** <sup>14-грейд по компании</sup><br> 
-<sup><b>Август 2021 - now, департамент базовых технологий</b></sup> <br>
+**HTML/CSS верстальщик в UI kit**</sup><br> 
+<sup><b>Август 2023 - now, open source software team</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/react.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docusaurus.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/esbuild.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/vitejs.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/deepseek-color.png" align="center" /></code>
+<code><img alt="" width="17" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" align="center" /></code>
+<code><img alt="" width="17" height="17px" src="https://cdn.svglogos.dev/logos/claude-icon.svg" align="center" /></code>
+
+<sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://github.com/taiga-family/editor) на основе компонентов Taiga UI</sup><br>
+<sup>☑ Занимался созданием и поддержкой [пакета](https://www.npmjs.com/package/@taiga-ui/design-tokens?activeTab=code) дизайн токенов для веб-платформы</sup><br>
+<sup>☑ Погрузился в создание опенсорсного UI Kit(а), где занимался:</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Поддержкой юнит karma, jest и e2e cypress, playwright тестов</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Улучшением и доработкой документации на официальном портале [Taiga-UI](https://taiga-ui.dev/)</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Оптимизацией FrontOps-процессов, улучшениями [Github CI/CD](https://github.com/taiga-family/ci)</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Разрабатывал eslint, prettier [плагины](https://github.com/taiga-family/toolkit) для повышения DX</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Созданием новых и небольших [компонентов библиотеки](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode), решение багов</sup><br>
+<sup>☑ В свободное время вносил изменения в опенсорс проекты: [Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+), [Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+), [stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+)</sup>
+
+### T(inkoff)-Bank <a href="https://github.com/Tinkoff" target="_blank"><code>⤯</code></a> · Full-time
+
+**Middle+ angular-разработчик** <sup>14-грейд по компании</sup><br> 
+<sup><b>Август 2021 - 2023, департамент базовых технологий</b></sup> <br>
+<sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
+<code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/notion-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/renovatebot.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nx.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/less.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docusaurus.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/esbuild.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/vitejs.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/react.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/deepseek-color.png" align="center" /></code>
-<code><img alt="" width="17" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" align="center" /></code>
-<code><img alt="" width="17" height="17px" src="https://cdn.svglogos.dev/logos/claude-icon.svg" align="center" /></code>
 
-<sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/) в 2024-2025</sup><br>
-<sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://github.com/taiga-family/editor) на основе компонентов Taiga UI</sup><br>
-<sup>☑ Занимался созданием и поддержкой [пакета](https://www.npmjs.com/package/@taiga-ui/design-tokens?activeTab=code) дизайн токенов для веб-платформы</sup><br>
-<sup>☑ В 2021 ушел в команду разработки банковского UI Kit(а), где занимался:</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Разработкой и поддержкой автоматизированных юнит (karma, jest) и e2e (cypress, playwright) тестов</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Улучшением и доработкой документации на официальном портале [Taiga-UI](https://taiga-ui.dev/)</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Оптимизацией FrontOps-процессов, включая улучшения [Github CI/CD](https://github.com/taiga-family/ci) и повышение [качества разработки](https://github.com/taiga-family/toolkit) в проекте Taiga UI</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Решением багов, созданием новых и небольших [компонентов библиотеки](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode)</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ В свободное время вносил незначительные изменения в [Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+)</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Иногда помогал поддерживать [Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+)</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Закрыл пару багов в [stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+) </sup>
-
+<sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/)</sup><br>
+<sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://www.npmjs.com/package/@tinkoff/tui-editor) под Angular</sup><br>
+<sup>☑ Помогал с решением багов в [ng-dompurify](https://github.com/Tinkoff/ng-dompurify) и [ng-event-plugins](https://github.com/Tinkoff/ng-event-plugins)</sup><br>
+<sup>☑ Учавствовал в поддержке проприетарной библиотеки компонентов под Angular</sup>
 
 **Middle+ angular-разработчик** <sup>13-грейд по компании</sup><br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
@@ -70,7 +79,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/cypress-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nvm.svg" align="center" /></code>
 
-<sup>☑ Попробовал себя в роли тимлида команды из пяти Frontend-разработчиков:</sup><br>
+<sup>☑ Попробовал себя в роли тeхлида команды из пяти frontend-разработчиков:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Релизный цикл с двухнедельными спринтами</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Аналитика производительности команды</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Стабильные ретроспективы</sup><br>
