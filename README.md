@@ -19,7 +19,7 @@
 
 ### Taiga Family <a href="https://github.com/taiga-family" target="_blank"><code>⤯</code></a> · Full-time
 
-**HTML/CSS верстальщик в UI kit**</sup><br> 
+**HTML/CSS верстальщик в UI kit**</sup><sup>14-грейд по компании</sup><br> 
 <sup><b>Август 2023 - now, open source software team</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
