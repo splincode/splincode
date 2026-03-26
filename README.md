@@ -17,7 +17,7 @@
 <a target="_blank" href="https://github.com/splincode/codework"><img src="https://img.shields.io/badge/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%BA%D0%B8-%E2%9A%A1-red" /></a>
 <a target="_blank" href="https://github.com/splincode/films"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BA%D0%B8%D0%BD%D0%BE-%F0%9F%8D%BF-violet" /></a>
 
-### Taiga Family <a href="https://github.com/taiga-family/taiga-ui" target="_blank"><code>⤯</code></a> · Full-time
+### Taiga Family <a href="https://github.com/taiga-family" target="_blank"><code>⤯</code></a> · Full-time
 
 **HTML/CSS верстальщик в UI kit**</sup><br> 
 <sup><b>Август 2023 - now, open source software team</b></sup> <br>
@@ -47,7 +47,6 @@
 **Middle+ angular-разработчик** <sup>14-грейд по компании</sup><br> 
 <sup><b>Август 2021 - 2023, департамент базовых технологий</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
-<code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
