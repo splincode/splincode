@@ -21,7 +21,6 @@
 
 **HTML/CSS верстальщик в UI kit** <sup>14-грейд</sup><br> 
 <sup><b>Август 2023 - now, open source software team</b></sup> <br>
-<sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/react.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docusaurus.svg" align="center" /></code>
@@ -31,6 +30,7 @@
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/deepseek-color.png" align="center" /></code>
 <code><img alt="" width="17" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" align="center" /></code>
 <code><img alt="" width="17" height="17px" src="https://cdn.svglogos.dev/logos/claude-icon.svg" align="center" /></code>
+<br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
 
 <sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://github.com/taiga-family/editor) на основе компонентов Taiga UI</sup><br>
 <sup>☑ Занимался созданием и поддержкой [пакета](https://www.npmjs.com/package/@taiga-ui/design-tokens?activeTab=code) дизайн токенов для веб-платформы</sup><br>
@@ -46,7 +46,6 @@
 
 **Middle+ angular-разработчик** <sup>14-грейд</sup><br> 
 <sup><b>Август 2021 - 2023, департамент базовых технологий</b></sup> <br>
-<sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
@@ -55,6 +54,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nx.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/less.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
+<br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
 
 <sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/)</sup><br>
 <sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://www.npmjs.com/package/@tinkoff/tui-editor) под Angular</sup><br>
@@ -63,7 +63,6 @@
 
 **Middle angular-разработчик** <sup>13-грейд</sup><br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
-<sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code title="zoom"><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/zoom-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/insomnia.svg" align="center" /></code>
@@ -77,6 +76,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jest.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/cypress-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nvm.svg" align="center" /></code>
+<br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
 
 <sup>☑ Попробовал себя в роли тeхлида команды из пяти frontend-разработчиков:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Релизный цикл с двухнедельными спринтами</sup><br>
@@ -101,7 +101,6 @@
 
 **Middle angular-разработчик** <br>
 <sup><b>Ноябрь 2017 - Ноябрь 2018</b></sup> <br>
-<sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/apple.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/safari.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jenkins.svg" align="center" /></code>
@@ -123,6 +122,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/materializecss.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/karma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
+<br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
 
 <sup>☑ Занимался проектом на аутсорсинге в ПАО Росбанк, где разрабатывали календарь для отпусков сотрудников банка</sup><br>
 <sup>☑ Также принял участие в проекте на аутсорсинге в ЗАО Газпромбанк, связанный с ипотечным кредитованием</sup><br>
@@ -146,7 +146,6 @@
 
 **Junior angular-разработчик** <br> 
 <sup><b>Июнь 2016 - Ноябрь 2017</b></sup> <br>
-<sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/ubuntu.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/chrome.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/firefox.svg" align="center" /></code>
@@ -160,6 +159,7 @@
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/bootstrap.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bash-icon.svg" align="center" /></code>
+<br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
 
 <sup>☑ Занимался поддержкой legacy-кода в проектах на Angular.JS</sup><br>
 <sup>☑ Занимался написанием [КриптоПро ЭЦП плагина](https://github.com/splincode/cryptopro-browser-plugin) на Angular 2.0</sup><br>
@@ -169,7 +169,6 @@
 
 **Веб-мастер (верстальщик, php-handyman)** <br> 
 <sup><b>Май 2012 - Август 2015</b></sup> <br>
-<sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/microsoft-windows-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/skype.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/opera.svg" align="center" /></code>
@@ -191,6 +190,7 @@
 <code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Druplicon.vector.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/wordpress.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/pug.svg" align="center" /></code>
+<br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
 
 <sup>☑ Верстка страничек по photoshop-макетам</sup><br>
 <sup>☑ Поддержка плагинов на PHP для Joomla, Wordpress, Drupal на заказах с фриланс сайтов.</sup> <br>
