@@ -61,7 +61,7 @@
 <sup>☑ Помогал с решением багов в [ng-dompurify](https://github.com/Tinkoff/ng-dompurify) и [ng-event-plugins](https://github.com/Tinkoff/ng-event-plugins)</sup><br>
 <sup>☑ Учавствовал в поддержке проприетарной библиотеки компонентов под Angular</sup>
 
-**Middle+ angular-разработчик** <sup>13-грейд</sup><br> 
+**Middle angular-разработчик** <sup>13-грейд</sup><br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code title="zoom"><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/zoom-icon.svg" align="center" /></code>
