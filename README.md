@@ -19,7 +19,7 @@
 
 ### Taiga Family <a href="https://github.com/taiga-family" target="_blank"><code>⤯</code></a> · Full-time
 
-**HTML/CSS верстальщик в UI kit** <sup>14-грейд по компании</sup><br> 
+**HTML/CSS верстальщик в UI kit** <sup>14-грейд</sup><br> 
 <sup><b>Август 2023 - now, open source software team</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
@@ -44,7 +44,7 @@
 
 ### T(inkoff)-Bank <a href="https://github.com/Tinkoff" target="_blank"><code>⤯</code></a> · Full-time
 
-**Middle+ angular-разработчик** <sup>14-грейд по компании</sup><br> 
+**Middle+ angular-разработчик** <sup>14-грейд</sup><br> 
 <sup><b>Август 2021 - 2023, департамент базовых технологий</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
@@ -61,7 +61,7 @@
 <sup>☑ Помогал с решением багов в [ng-dompurify](https://github.com/Tinkoff/ng-dompurify) и [ng-event-plugins](https://github.com/Tinkoff/ng-event-plugins)</sup><br>
 <sup>☑ Учавствовал в поддержке проприетарной библиотеки компонентов под Angular</sup>
 
-**Middle+ angular-разработчик** <sup>13-грейд по компании</sup><br> 
+**Middle+ angular-разработчик** <sup>13-грейд</sup><br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
 <sup><sup>Инструменты, с которыми работал или пробовал в этот период ⤵</sup></sup><br>
 <code title="zoom"><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/zoom-icon.svg" align="center" /></code>
