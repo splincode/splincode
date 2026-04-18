@@ -229,9 +229,11 @@
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Внутри обрел себя, поэтому</sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ни о чем не забочусь вовне</sup><br>
 》🧘‍♂️ Less is more<br> 
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Полезен своей бесполезностью</sup> <br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Полезен своей бесполезностью, где моя</sub><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;главная польза — не мешать миру работать</sup><br>
 》✨ Родился в <mark>XX веке</mark> н.э.<br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Свидетель и продукт уникальной эпохи</sup><br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Свидетель и продукт уникальной эпохи, где</sub><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;кассеты, форумы и надежда еще были офлайн</sup><br>
 》👨‍💻 Стабильный «середнячок»<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Человек, который кодит, закрывает задачи, </sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;получает среднюю зарплату и не парится</sup><br>
