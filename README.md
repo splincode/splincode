@@ -236,7 +236,8 @@
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Человек, который кодит, закрывает задачи, </sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;получает среднюю зарплату и не парится</sup><br>
 》🕰️ Вечно-мидл разработчик<br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Исполнительный, но не сообразительный</sup><br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Исполнительный, но не сообразительный, </sub><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;хоть и остаюсь средне-полезным кодером</sup><br>
 》🍔 Готов работать за еду<br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Если нет компенсации обедов — не зовите</sup><br>
 》🌈 Интровертный флегматик<br>
