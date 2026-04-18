@@ -251,13 +251,14 @@
 》🤩 Достиг того, чего обычно достигают к 70<br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;Плохого зрения • Больных суставов • Провалов в памяти</sup> <br>
 》🤡 Истинный миллениал или сказочный ...<br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Могу выходить на работу с температурой и переломами</sup><br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Могу выходить на работу с температурой,</sub><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;переломами и без лишних вопросов к жизни</sup><br>
 》☕ Открыл для себя множество кафе<br><sup>&nbsp;&nbsp;&nbsp;&nbsp;
 Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) • точки на [google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/YLevUwyUPDKV3n5aA) 
 </sup><br>
 》🏛️ Обожаю музеи • выставки • театры<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Вечный зритель и поклонник музейных залов,</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[театральных подмостков](https://github.com/splincode/study?tab=readme-ov-file#%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B) и выставочных пространств</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[театральных подмостков](https://github.com/splincode/study?tab=readme-ov-file#-%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B-%D0%B8-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82%D1%8B) и выставочных пространств</sup><br>
 》✈️ Мой адрес — «в пути», а мой дом — [чемодан](https://yandex.ru/maps?bookmarks%5BpublicId%5D=56Umi3nZ&utm_source=share&utm_campaign=bookmarks)<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Мой дом там, где ходят мои ноги:</sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=NQTkY8-_&utm_source=share&utm_campaign=bookmarks) • точки [на google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/RbQWWbmkrtyAbbab9)</sup>
