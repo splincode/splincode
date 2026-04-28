@@ -251,7 +251,7 @@
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;но давно переведен в [фоновый](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D1%8B_%D0%B2%D1%8B%D1%81%D1%88%D0%B5%D0%B9_%D0%BD%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8) режим</sup><br>
 》🌿 Счастье — не в достижении, а в бытии<br> 
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Устраивает жизнь без амбиций, саморекламы</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;и гонки за титулом молодец года</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;и гонки за титулом "молодец года"</sup><br>
 》🤩 Достиг того, чего обычно достигают к 70<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Плохого зрения, больных суставов</sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;и память, которая любит жанр исчезновение</sup><br>
