@@ -10,7 +10,7 @@
 <code>Be kind; everyone is on their own journey</code>
 <br /><br />
 <a target="_blank" href="https://github.com/splincode/articles"><img src="https://img.shields.io/badge/%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8-117-yellowgreen" /></a>
-<a target="_blank" href="https://github.com/splincode/books"><img src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-50-yellow" /></a>
+<a target="_blank" href="https://github.com/splincode/books"><img src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-51-yellow" /></a>
 <a target="_blank" href="https://github.com/splincode/meetups"><img src="https://img.shields.io/badge/%D0%92%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%BC%D0%B8%D1%82%D0%B0%D0%BF%D0%B0%D1%85-14-blue" /></a>
 <br />
 <a target="_blank" href="https://github.com/splincode/study"><img src="https://img.shields.io/badge/%D0%98%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%F0%9F%8C%8E-orange" /></a>
@@ -28,8 +28,9 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/vitejs.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/deepseek-color.png" align="center" /></code>
-<code><img alt="" width="17" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" align="center" /></code>
-<code><img alt="" width="17" height="17px" src="https://cdn.svglogos.dev/logos/claude-icon.svg" align="center" /></code>
+<code><img alt="" width="17px" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" align="center" /></code>
+<code><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/claude-icon.svg" align="center" /></code>
+<code><img alt="" width="35px" height="17px" src="https://cdn.svglogos.dev/logos/google-gemini.svg" /></code>
 <br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
 
 <sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://github.com/taiga-family/editor) на основе компонентов Taiga UI</sup><br>
