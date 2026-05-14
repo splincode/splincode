@@ -109,6 +109,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bitbucket.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jira.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/confluence.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/swagger.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/postman-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nightwatch.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/prettier.svg" align="center" /></code>
