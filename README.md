@@ -41,7 +41,7 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ Оптимизацией FrontOps-процессов, улучшениями [Github CI/CD](https://github.com/taiga-family/ci)</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Написанием гайдов, скиллов для AI (codex, claude)</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Разработкой eslint/prettier/stylelint [плагинов](https://github.com/taiga-family/toolkit) для повышения DX</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Созданием новых и небольших [компонентов библиотеки](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode), решение багов</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Созданием новых и небольших [компонентов библиотеки](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode), но чаще решением багов</sup><br>
 <sup>☑ В свободное время вносил изменения в опенсорс проекты: [Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+), [Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+), [stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+)</sup>
 
 ### T(inkoff)-Bank <a href="https://github.com/Tinkoff" target="_blank"><code>⤯</code></a> · Full-time
