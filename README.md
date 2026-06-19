@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/splincode/splincode/main/assets/south-korea4.jpg" width="35%" align="right">
 
-### Copy & Paste by 09:00 - 18:00
-
 Всем привет, меня зовут Максим Иванов! <br> Работаю в команде одного из проектов
 <a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>. 
 <br />
