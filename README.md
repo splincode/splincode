@@ -15,13 +15,21 @@
 <a target="_blank" href="https://github.com/splincode/codework"><img src="https://img.shields.io/badge/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%BA%D0%B8-%E2%9A%A1-red" /></a>
 <a target="_blank" href="https://github.com/splincode/films"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BA%D0%B8%D0%BD%D0%BE-%F0%9F%8D%BF-violet" /></a>
 
-### Taiga Family <a href="https://github.com/taiga-family" target="_blank"><code>⤯</code></a> · Full-time
+### T(inkoff)-Bank <a href="https://github.com/Tinkoff" target="_blank"><code>⤯</code></a> · Full-time
 
-**HTML/CSS верстальщик в UI Kit** <sup>14-грейд</sup><br> 
-<sup><b>Август 2023 - now, open source software team</b></sup> <br>
+**Middle+ angular-разработчик**<br> 
+<sup><b>Август 2021 - Июнь 2026, департамент базовых технологий</b></sup><br>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/notion-icon.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/renovatebot.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nx.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/less.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/react.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docusaurus.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docusaurus.svg" align="center" /></code><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/esbuild.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/vitest.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" align="center" /></code>
@@ -31,37 +39,21 @@
 <code><img alt="" width="35px" height="17px" src="https://cdn.svglogos.dev/logos/google-gemini.svg" /></code>
 <br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
 
-<sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://github.com/taiga-family/editor) на основе компонентов Taiga UI</sup><br>
-<sup>☑ Занимался созданием и поддержкой [пакета](https://www.npmjs.com/package/@taiga-ui/design-tokens?activeTab=code) дизайн токенов для веб-платформы</sup><br>
-<sup>☑ Погрузился в создание опенсорсного UI Kit(а), где занимался:</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Поддержкой юнит karma, jest и e2e cypress, playwright тестов</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Улучшением и доработкой документации на официальном портале [Taiga-UI](https://taiga-ui.dev/)</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Оптимизацией FrontOps-процессов, улучшениями [Github CI/CD](https://github.com/taiga-family/ci)</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Написанием гайдов, скиллов для AI (codex, claude)</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Разработкой eslint/prettier/stylelint [плагинов](https://github.com/taiga-family/toolkit) для повышения DX</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Созданием новых и небольших [компонентов библиотеки](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode), но чаще решением багов</sup><br>
-<sup>☑ В свободное время вносил изменения в опенсорс проекты: [Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+), [Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+), [stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+)</sup>
-
-### T(inkoff)-Bank <a href="https://github.com/Tinkoff" target="_blank"><code>⤯</code></a> · Full-time
-
-**Middle+ angular-разработчик** <sup>14-грейд</sup><br> 
-<sup><b>Август 2021 - 2023, департамент базовых технологий</b></sup> <br>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/notion-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/renovatebot.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nx.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/less.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
-<br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
-
 <sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/)</sup><br>
-<sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://www.npmjs.com/package/@tinkoff/tui-editor) под Angular</sup><br>
 <sup>☑ Помогал с решением багов в [ng-dompurify](https://github.com/Tinkoff/ng-dompurify) и [ng-event-plugins](https://github.com/Tinkoff/ng-event-plugins)</sup><br>
 <sup>☑ Учавствовал в поддержке проприетарной библиотеки компонентов под Angular</sup>
+<sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://github.com/taiga-family/editor) на основе компонентов Taiga UI</sup><br>
+<sup>☑ Занимался созданием и поддержкой [пакета](https://www.npmjs.com/package/@taiga-ui/design-tokens?activeTab=code) дизайн токенов для веб-платформы</sup><br>
+<sup>☑ Погружался в создание опенсорсного UI Kit(а), где занимался:</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Поддержкой юнит тестов на karma, jest и e2e на cypress, playwright</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Улучшением и доработкой документации на официальном портале [Taiga-UI](https://taiga-ui.dev/)</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Оптимизацией FrontOps-процессов, улучшениями [Github CI/CD](https://github.com/taiga-family/actions)</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Переписыванием на RTL части компонентов</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Разработкой eslint/prettier/stylelint [плагинов](https://github.com/taiga-family/toolkit) для повышения DX</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Созданием новых и небольших компонентов, но 90% времени занимался [исправлением](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode) багов</sup><br>
+<sup>☑ В свободное время вносил изменения в опенсорс проекты: [Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+), [Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+), [stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+)</sup>
 
-**Middle angular-разработчик** <sup>13-грейд</sup><br> 
+**Middle angular-разработчик**<br> 
 <sup><b>Ноябрь 2018 - 2021, процессинговый департамент</b></sup> <br>
 <code title="zoom"><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/zoom-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab-icon.svg" align="center" /></code>
@@ -99,7 +91,7 @@
 
 ### Cinimex <a href="https://cinimex.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
-**Middle angular-разработчик** <br>
+**Junior+ angular-разработчик** <br>
 <sup><b>Ноябрь 2017 - Ноябрь 2018</b></sup> <br>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/apple.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/safari.svg" align="center" /></code>
@@ -226,35 +218,23 @@
 ### <img src="https://raw.githubusercontent.com/splincode/splincode/main/assets/guy.png" height="84px" align="right"> Факты обо мне
 
 》⛩️ Следую пути<br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Внутри обрел себя, поэтому</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ни о чем не забочусь вовне</sup><br>
-》🧘‍♂️ Less is more<br> 
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Полезен своей бесполезностью, где моя</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;главная польза — не мешать миру работать</sup><br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Внутри ищу опору, а снаружи</sub><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;стараюсь жить проще и спокойнее</sup><br>
 》🏺 Родился в <mark>XX веке</mark> н.э.<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Свидетель и продукт уникальной эпохи, где</sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;кассеты, форумы и надежда еще были офлайн</sup><br>
-》👨‍💻 Стабильный «середнячок»<br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Человек, который кодит, закрывает задачи, </sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;получает среднюю зарплату и не парится</sup><br>
-》🕰️ Вечно-мидл разработчик<br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Исполнительный, но не сообразительный,</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;зато стабильный средне-полезный тиммейт</sup><br>
+》👨‍💻 Frontend-разработчик<br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Основной стек — Angular. Интересуюсь качеством кода,</sub><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;тестированием, DX и поддержкой долгоживущих frontend-продуктов</sup><br>
 》🌈 Интровертный флегматик<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Подкасты о 🪐 [космосе](https://github.com/splincode/study?tab=readme-ov-file#-%D0%BD%D0%B0%D1%83%D0%BA%D0%B0-%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F-%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0-%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5), [книги](https://github.com/splincode/books) и 🇰🇷🇨🇳 [дорамы](https://github.com/splincode/films?tab=readme-ov-file#-%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D1%80%D0%B5%D1%8F) — </sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;мой способ никуда не спешить, но везде мысленно побывать</sup><br>
-》🐒 Психологически — джун, по трудовой — хз<br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Синдром [самозванца](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D1%81%D0%B0%D0%BC%D0%BE%D0%B7%D0%B2%D0%B0%D0%BD%D1%86%D0%B0) не побежден,</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;но давно переведен в [фоновый](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D1%8B_%D0%B2%D1%8B%D1%81%D1%88%D0%B5%D0%B9_%D0%BD%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8) режим</sup><br>
+》🧩 Всегда в процессе<br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Учусь спокойнее относиться к неопределенности,</sub><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;сложным задачам и своему профессиональному росту</sup><br>
 》🌿 Счастье — не в достижении, а в бытии<br> 
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Устраивает жизнь без амбиций, саморекламы</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;и гонки за титулом "молодец года"</sup><br>
-》🤩 Достиг того, чего обычно достигают к 70<br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Плохого зрения, больных суставов</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;и память, которая любит жанр исчезновение</sup><br>
-》🤡 Истинный миллениал или сказочный ...<br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Могу выходить на работу с температурой,</sub><br>
-<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;переломами и без лишних вопросов к жизни</sup><br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Мне ближе спокойная жизнь без лишней саморекламы</sub><br>
+<sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;суеты и гонки за титулом “молодец года”</sup><br>
 》☕ Открыл для себя множество кафе<br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Когда-то коллекционировал кофейни, теперь прогулки:</sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=kMjF2Ndn&utm_source=share&utm_campaign=bookmarks) • точки на [google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/YLevUwyUPDKV3n5aA)</sup><br>
@@ -262,7 +242,8 @@
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Вечный зритель и поклонник музейных залов,</sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[театральных подмостков](https://github.com/splincode/study?tab=readme-ov-file#-%D1%82%D0%B5%D0%B0%D1%82%D1%80%D1%8B-%D0%B8-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82%D1%8B) и выставочных пространств</sup><br>
 》✈️ Мой адрес — «в пути», а мой дом — [чемодан](https://yandex.ru/maps?bookmarks%5BpublicId%5D=56Umi3nZ&utm_source=share&utm_campaign=bookmarks)<br>
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Мой дом там, где ходят мои ноги:</sub><br>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Люблю города, длинные прогулки и маршруты
+на карте:</sub><br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Точки на [яндекс карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/ya.png" height="14px">](https://yandex.ru/maps?bookmarks%5BpublicId%5D=NQTkY8-_&utm_source=share&utm_campaign=bookmarks) • точки [на google карте <img align="center" src="https://raw.githubusercontent.com/splincode/splincode/main/assets/go.webp" height="14px">](https://maps.app.goo.gl/RbQWWbmkrtyAbbab9)</sup>
 <br>
 
