@@ -37,11 +37,11 @@
 <code><img alt="" width="17px" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" align="center" /></code>
 <code><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/claude-icon.svg" align="center" /></code>
 <code><img alt="" width="35px" height="17px" src="https://cdn.svglogos.dev/logos/google-gemini.svg" /></code>
-<br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
+<br><sub><sup>🧰  стек и инструменты периода</sub></sup>
 
 <sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/)</sup><br>
 <sup>☑ Помогал с решением багов в [ng-dompurify](https://github.com/Tinkoff/ng-dompurify) и [ng-event-plugins](https://github.com/Tinkoff/ng-event-plugins)</sup><br>
-<sup>☑ Учавствовал в поддержке проприетарной библиотеки компонентов под Angular</sup>
+<sup>☑ Участвовал в поддержке проприетарной библиотеки компонентов под Angular</sup><br>
 <sup>☑ Обеспечивал техническую поддержку [WYSIWYG-редактора](https://github.com/taiga-family/editor) на основе компонентов Taiga UI</sup><br>
 <sup>☑ Занимался созданием и поддержкой [пакета](https://www.npmjs.com/package/@taiga-ui/design-tokens?activeTab=code) дизайн токенов для веб-платформы</sup><br>
 <sup>☑ Погружался в создание опенсорсного UI Kit(а), где занимался:</sup><br>
@@ -50,7 +50,8 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ Оптимизацией FrontOps-процессов, улучшениями [Github CI/CD](https://github.com/taiga-family/actions)</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Переписыванием на RTL части компонентов</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Разработкой eslint/prettier/stylelint [плагинов](https://github.com/taiga-family/toolkit) для повышения DX</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Созданием новых и небольших компонентов, но 90% времени занимался [исправлением](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode) багов</sup><br>
+<sup>&nbsp;&nbsp;&nbsp;◦ Разрабатывал небольшие компоненты и занимался [поддержкой](https://github.com/taiga-family/taiga-ui/graphs/contributors?all=1) стабильности:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[расследовал баги](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode), улучшал поведение компонентов и закрывал регрессии</sup><br>
 <sup>☑ В свободное время вносил изменения в опенсорс проекты: [Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+), [Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+), [stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+)</sup>
 
 **Middle angular-разработчик**<br> 
@@ -68,7 +69,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jest.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/cypress-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nvm.svg" align="center" /></code>
-<br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
+<br><sub><sup>🧰  стек и инструменты периода</sub></sup>
 
 <sup>☑ Попробовал себя в роли тeхлида команды из пяти frontend-разработчиков:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Релизный цикл с двухнедельными спринтами</sup><br>
@@ -115,7 +116,7 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/materializecss.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/karma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
-<br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
+<br><sub><sup>🧰  стек и инструменты периода</sub></sup>
 
 <sup>☑ Занимался проектом на аутсорсинге в ПАО Росбанк, где разрабатывали календарь для отпусков сотрудников банка</sup><br>
 <sup>☑ Также принял участие в проекте на аутсорсинге в ЗАО Газпромбанк, связанный с ипотечным кредитованием</sup><br>
@@ -152,7 +153,7 @@
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/bootstrap.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bash-icon.svg" align="center" /></code>
-<br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
+<br><sub><sup>🧰  стек и инструменты периода</sub></sup>
 
 <sup>☑ Занимался поддержкой legacy-кода в проектах на Angular.JS</sup><br>
 <sup>☑ Занимался написанием [КриптоПро ЭЦП плагина](https://github.com/splincode/cryptopro-browser-plugin) на Angular 2.0</sup><br>
@@ -183,7 +184,7 @@
 <code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Druplicon.vector.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/wordpress.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/pug.svg" align="center" /></code>
-<br><sub><sup>❔с этими инструментами я пробовал работать в этот период</sub></sup>
+<br><sub><sup>🧰  стек и инструменты периода</sub></sup>
 
 <sup>☑ Верстка страничек по photoshop-макетам</sup><br>
 <sup>☑ Поддержка плагинов на PHP для Joomla, Wordpress, Drupal на заказах с фриланс сайтов.</sup> <br>
