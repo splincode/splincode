@@ -87,7 +87,8 @@
 <sup>☑ С 2019 по 2020 выступил на нескольких митапах:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ [ngRuAir подкаст](https://m.youtube.com/watch?v=0OT8O4gj6ak) в 2019</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ [Tinkoff Angular Meetup №13](https://meetup.tbank.ru/event/angular-meetup-13/) в 2019</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ [Angular Minsk](https://www.youtube.com/watch?v=BtVHm0FJIRA&ab_channel=AngularMinsk) в 2020</sup>
+<sup>&nbsp;&nbsp;&nbsp;◦ [Angular Minsk](https://www.youtube.com/watch?v=BtVHm0FJIRA&ab_channel=AngularMinsk) в 2020</sup><br>
+<sup>☑ Тогда же начал писать внутренние абстракции для ускорения разработки: <br>таблицу с виртуальным скроллом, flexbox-директивы и вспомогательные утилиты. <br> Позже это оформилось в [Angular-RU SDK](https://angular-ru.gitbook.io/sdk/getting-started/intro)</sup><br>
 
 ### Cinimex <a href="https://cinimex.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
