@@ -265,6 +265,6 @@
 
 #### O P E N &nbsp; S O U R C E
 
-<sup>Вносил контрибьюты в следующие проекты:</sup>
+<sup>*В свободное время вносил изменения в опенсорс проекты</sup>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=splincode&repo=Angular-RU/angular-ru-interview-questions&description_lines_count=1)](https://github.com/Angular-RU/angular-ru-interview-questions)
