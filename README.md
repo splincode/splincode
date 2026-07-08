@@ -262,3 +262,9 @@
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇦🇲 Ереван</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇺🇸 Лос-Анджелес • Хоторн • Анахайм • Лонг-Бич • Санта-Моника • Беверли-Хиллз • Инглвуд • Чикаго • Нью-Йорк</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇨🇳 Пекин • Сиань • Линьту́н • Шанхай • Чжуцзяцзяо • Гуанчжоу</sup> <br>
+
+#### O P E N &nbsp; S O U R C E
+
+<sup>Вносил контрибьюты в следующие проекты:</sup>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=splincode&repo=Angular-RU/angular-ru-interview-questions&description_lines_count=1)](https://github.com/Angular-RU/angular-ru-interview-questions)
