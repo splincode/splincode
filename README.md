@@ -136,7 +136,7 @@
 (Сколково)</sup>
 
 
-### AVK-Communications <a href="http://www.atlant-inform.ru/" target="_blank"><code>⤯</code></a> · Full-time
+### AVK-Communications <a href="https://www.avkcom.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
 **Junior angular-разработчик** <br> 
 <sup><b>Июнь 2016 - Ноябрь 2017</b></sup> <br>
