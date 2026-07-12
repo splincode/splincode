@@ -15,6 +15,12 @@
 <a target="_blank" href="https://github.com/splincode/codework"><img src="https://img.shields.io/badge/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%BA%D0%B8-%E2%9A%A1-red" /></a>
 <a target="_blank" href="https://github.com/splincode/films"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BA%D0%B8%D0%BD%D0%BE-%F0%9F%8D%BF-violet" /></a>
 
+#### O P E N &nbsp; S O U R C E
+
+<sup>Проекты, в которые вносил контрибьюты: <br> [Taiga UI](https://github.com/taiga-family/taiga-ui/pulls?q=is%3Apr+author%3Asplincode+) и [toolkit](https://github.com/taiga-family/toolkit/pulls?q=is%3Apr+author%3Asplincode+), [Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+), [NGXS](https://github.com/ngxs/store/pulls?q=is%3Apr+is%3Aclosed+author%3Asplincode), [Angular-RU](https://github.com/angular-ru), [Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+), [stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+)</sup>
+
+#### О П Ы Т &nbsp; Р А Б О Т Ы
+
 ### T(inkoff)-Bank <a href="https://github.com/Tinkoff" target="_blank"><code>⤯</code></a> · Full-time
 
 **Middle+ angular-разработчик**<br> 
@@ -36,7 +42,6 @@
 <code><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/claude-icon.svg" align="center" /></code>
 <code><img alt="" width="35px" height="17px" src="https://cdn.svglogos.dev/logos/google-gemini.svg" /></code>
 
-
 <sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/)</sup><br>
 <sup>☑ Помогал с решением багов в [ng-dompurify](https://github.com/Tinkoff/ng-dompurify) и [ng-event-plugins](https://github.com/Tinkoff/ng-event-plugins)</sup><br>
 <sup>☑ Участвовал в поддержке проприетарной библиотеки компонентов под Angular</sup><br>
@@ -50,7 +55,6 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ Разработкой eslint/prettier/stylelint [плагинов](https://github.com/taiga-family/toolkit) для повышения DX</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Разрабатывал небольшие компоненты и занимался [поддержкой](https://github.com/taiga-family/taiga-ui/graphs/contributors?all=1) стабильности:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[расследовал баги](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode), улучшал поведение компонентов и закрывал регрессии</sup><br>
-<sup>☑ В свободное время вносил изменения в опенсорс проекты: [Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+), [Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+), [stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+)</sup>
 
 **Middle angular-разработчик**<br> 
 <sup><b>Ноябрь 2018 - Июль 2021, процессинговый департамент</b></sup> <br>
@@ -69,7 +73,6 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nvm.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/notion-icon.svg" align="center" /></code>
 
-
 <sup>☑ Попробовал себя в роли тeхлида команды из пяти frontend-разработчиков:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Релизный цикл с двухнедельными спринтами</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Аналитика производительности команды</sup><br>
@@ -81,7 +84,7 @@
 <sup>☑ С 2018 по 2020 год принимал активное участие в разработке NGXS:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Занимался [багфиксами и оптимизацией](https://github.com/ngxs/store/pulls?q=is%3Apr+is%3Aclosed+author%3Asplincode) работы NGXS</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Вел публикации в [официальном блоге NGXS](https://medium.com/ngxs) на Medium</sup><br>
-<sup>&nbsp;&nbsp;&nbsp;◦ Организатор NGXS Labs community на [Github](https://github.com/ngxs-labs) и [Medium](https://medium.com/ngxs-stories)</sup>
+<sup>&nbsp;&nbsp;&nbsp;◦ Организатор NGXS Labs community на [Github](https://github.com/ngxs-labs) и [Medium](https://medium.com/ngxs-stories)</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Реализовал [NGXS HMR Plugin](https://github.com/ngxs/store/tree/master/packages/hmr-plugin)</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Реализовал [NGXS CLI](https://www.ngxs.io/plugins/cli)</sup><br>
 <sup>☑ С 2019 по 2020 выступил на нескольких митапах:</sup><br>
@@ -117,7 +120,6 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/karma.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
 
-
 <sup>☑ Занимался проектом на аутсорсинге в ПАО Росбанк, где разрабатывали календарь для отпусков сотрудников банка</sup><br>
 <sup>☑ Также принял участие в проекте на аутсорсинге в ЗАО Газпромбанк, связанный с ипотечным кредитованием</sup><br>
 <sup>☑ Инициировал и привлекал стажеров в компанию из университета МГТУ Станкин</sup><br>
@@ -134,7 +136,6 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ Выступил на
 [FrontendConf](https://www.youtube.com/watch?v=7646rW8qdcQ&ab_channel=FrontendChannel) в Москве
 (Сколково)</sup>
-
 
 ### AVK-Communications <a href="https://www.avkcom.ru/" target="_blank"><code>⤯</code></a> · Full-time
 
@@ -153,7 +154,6 @@
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/bootstrap.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bash-icon.svg" align="center" /></code>
-
 
 <sup>☑ Занимался поддержкой legacy-кода в проектах на Angular.JS</sup><br>
 <sup>☑ Занимался написанием [КриптоПро ЭЦП плагина](https://github.com/splincode/cryptopro-browser-plugin) на Angular 2.0</sup><br>
@@ -184,7 +184,6 @@
 <code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Druplicon.vector.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/wordpress.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/pug.svg" align="center" /></code>
-
 
 <sup>☑ Верстка страничек по photoshop-макетам</sup><br>
 <sup>☑ Поддержка плагинов на PHP для Joomla, Wordpress, Drupal на заказах с фриланс сайтов.</sup> <br>
@@ -263,8 +262,4 @@
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇺🇸 Лос-Анджелес • Хоторн • Анахайм • Лонг-Бич • Санта-Моника • Беверли-Хиллз • Инглвуд • Чикаго • Нью-Йорк</sup> <br>
 <sup>&nbsp;&nbsp;&nbsp;&nbsp;🇨🇳 Пекин • Сиань • Линьту́н • Шанхай • Чжуцзяцзяо • Гуанчжоу</sup> <br>
 
-#### O P E N &nbsp; S O U R C E
 
-<sup>В свободное время вносил изменения в опенсорс проекты:</sup>
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=splincode&repo=Angular-RU/angular-ru-interview-questions&description_lines_count=1)](https://github.com/Angular-RU/angular-ru-interview-questions)
