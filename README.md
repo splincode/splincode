@@ -24,6 +24,12 @@
 ### T(inkoff)-Bank <a href="https://github.com/Tinkoff" target="_blank"><code>⤯</code></a> · Full-time
 
 **Middle+ angular-разработчик**<br> 
+<sup><b>Июль 2026 - now, HR-департамент</b></sup><br>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/astro-icon.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Foulg8wwyfkkn5ea3du0y.jpg" align="center" /></code>
+
+**Middle+ angular-разработчик**<br> 
 <sup><b>Август 2021 - Июнь 2026, департамент базовых технологий</b></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></code>
