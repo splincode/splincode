@@ -29,6 +29,8 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/aggrid.svg" align="center" /></code>
 
+<sup>☑ Поддержка проекта на внутреннем решении компании Eva<br>&nbsp;&nbsp;&nbsp;&nbsp;для написания автоматизированных E2E тестов </sup><br>
+
 **Middle+ angular-разработчик**<br> 
 <sup><b>Август 2021 - Июнь 2026, департамент базовых технологий</b></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
