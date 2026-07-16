@@ -1,14 +1,11 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="400"
-    height="400"
-    viewBox="0 0 400 400"
+    viewBox="58 40 284 320"
     role="img"
     aria-labelledby="ag-grid-logo-title"
 >
     <title id="ag-grid-logo-title">AG Grid logo</title>
 
-    <!-- Rounded hexagon -->
     <path
         fill="#E51B23"
         d="
@@ -31,7 +28,6 @@
         "
     />
 
-    <!-- AG monogram -->
     <g
         fill="none"
         stroke="#FFFFFF"
@@ -39,7 +35,6 @@
         stroke-linecap="butt"
         stroke-linejoin="round"
     >
-        <!-- Letter a -->
         <path
             d="
                 M96 155
@@ -53,7 +48,6 @@
             "
         />
 
-        <!-- Letter g -->
         <path
             d="
                 M231 155
@@ -69,7 +63,6 @@
             "
         />
 
-        <!-- G tail -->
         <path
             d="
                 M302 194
@@ -79,7 +72,6 @@
             "
         />
 
-        <!-- Central horizontal line -->
         <path d="M58 194 H342" />
     </g>
 </svg>
