@@ -27,7 +27,7 @@
 <sup><b>Июль 2026 - now, HR-департамент</b></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/astro-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ag-grid.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/aggrid.svg" align="center" /></code>
 
 **Middle+ angular-разработчик**<br> 
 <sup><b>Август 2021 - Июнь 2026, департамент базовых технологий</b></sup><br>
