@@ -1,0 +1,85 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="400"
+    height="400"
+    viewBox="0 0 400 400"
+    role="img"
+    aria-labelledby="ag-grid-logo-title"
+>
+    <title id="ag-grid-logo-title">AG Grid logo</title>
+
+    <!-- Rounded hexagon -->
+    <path
+        fill="#E51B23"
+        d="
+            M200 40
+            C208 40 216 42 224 47
+            L326 108
+            C336 114 342 124 342 136
+            V264
+            C342 276 336 286 326 292
+            L224 353
+            C216 358 208 360 200 360
+            C192 360 184 358 176 353
+            L74 292
+            C64 286 58 276 58 264
+            V136
+            C58 124 64 114 74 108
+            L176 47
+            C184 42 192 40 200 40
+            Z
+        "
+    />
+
+    <!-- AG monogram -->
+    <g
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="22"
+        stroke-linecap="butt"
+        stroke-linejoin="round"
+    >
+        <!-- Letter a -->
+        <path
+            d="
+                M96 155
+                H166
+                C181 155 190 164 190 179
+                V244
+                H133
+                C117 244 108 235 108 219
+                V194
+                H190
+            "
+        />
+
+        <!-- Letter g -->
+        <path
+            d="
+                M231 155
+                H279
+                C294 155 302 164 302 179
+                V244
+                C302 259 294 268 279 268
+                H231
+                C216 268 208 259 208 244
+                V179
+                C208 164 216 155 231 155
+                Z
+            "
+        />
+
+        <!-- G tail -->
+        <path
+            d="
+                M302 194
+                V276
+                C302 292 293 300 277 300
+                H228
+            "
+        />
+
+        <!-- Central horizontal line -->
+        <path d="M58 194 H342" />
+    </g>
+</svg>
