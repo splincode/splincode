@@ -17,7 +17,17 @@
 
 #### O P E N &nbsp; S O U R C E
 
-<sup>Проекты, в которые вносил контрибьюты: <br> [Taiga UI](https://github.com/taiga-family/taiga-ui/pulls?q=is%3Apr+author%3Asplincode+) и [toolkit](https://github.com/taiga-family/toolkit/pulls?q=is%3Apr+author%3Asplincode+), [Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+), [NGXS](https://github.com/ngxs/store/pulls?q=is%3Apr+is%3Aclosed+author%3Asplincode), [Angular-RU](https://github.com/angular-ru), [Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+), [stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+)</sup>
+<sup>Проекты, в которые вносил контрибьюты: <br> 
+[Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+)
+• [NGXS](https://github.com/ngxs/store/pulls?q=is%3Apr+is%3Aclosed+author%3Asplincode)
+• [NGXS Labs](https://github.com/ngxs-labs)
+• [Angular-RU](https://github.com/angular-ru)
+• [Taiga UI](https://github.com/taiga-family/taiga-ui/pulls?q=is%3Apr+author%3Asplincode+) и [toolkit](https://github.com/taiga-family/toolkit/pulls?q=is%3Apr+author%3Asplincode+)
+• [Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+)
+• [Taiga Labs](https://github.com/taiga-family-labs)
+• [Stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+)
+• [Prettier](https://github.com/prettier/prettier/pulls?q=is%3Apr+author%3Asplincode+)
+</sup>
 
 #### О П Ы Т &nbsp; Р А Б О Т Ы
 
