@@ -116,6 +116,7 @@
 **Junior+ angular-разработчик** <br>
 <sup><b>Ноябрь 2017 - Ноябрь 2018</b></sup> <br>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/apple.svg" align="center" /></code>
+<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/homebrew.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/safari.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jenkins.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bitbucket.svg" align="center" /></code>
