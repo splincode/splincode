@@ -39,7 +39,9 @@
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/aggrid.svg" align="center" /></code>
 
-<sup>☑ Поддержка проекта на внутреннем решении компании Eva<br>&nbsp;&nbsp;&nbsp;&nbsp;для написания автоматизированных E2E тестов </sup><br>
+<sup>☑ Реализовал сервис онбордингов для Taiga UI</sup><br>
+<sup>☑ Проводил миграции кодовой базы на Angular 22 и TypeScript 6</sup><br>
+<sup>☑ Писал E2E тесты на внутреннем решении компании Eva</sup><br>
 
 **Middle+ angular-разработчик**<br> 
 <sup><b>Август 2021 - Июнь 2026, департамент базовых технологий</b></sup><br>
