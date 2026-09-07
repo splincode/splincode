@@ -19,6 +19,7 @@
 
 <sup>Проекты, в которые вносил контрибьюты: <br> 
 [Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+)
+• [Angular ESLint](https://github.com/angular-eslint/angular-eslint/pulls?q=is%3Apr+author%3Asplincode+)
 • [NGXS](https://github.com/ngxs/store/pulls?q=is%3Apr+is%3Aclosed+author%3Asplincode)
 • [NGXS Labs](https://github.com/ngxs-labs)
 • [Angular-RU](https://github.com/angular-ru)
