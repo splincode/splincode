@@ -35,7 +35,7 @@
 
 ### T(inkoff)-Bank <a href="https://github.com/Tinkoff" target="_blank"><code>⤯</code></a> · Full-time
 
-**Middle+ angular-разработчик**<br> 
+**Middle+ angular-разработчик** <code>грейд 14</code><br> 
 <sup><b>Июль 2026 - now, HR-департамент</b></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/astro-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
@@ -45,7 +45,7 @@
 <sup>☑ Проводил миграции кодовой базы на Angular 22 и TypeScript 6</sup><br>
 <sup>☑ Писал E2E тесты на внутреннем решении компании Eva</sup><br>
 
-**Middle+ angular-разработчик**<br> 
+**Middle+ angular-разработчик** <code>грейд 13</code><br> 
 <sup><b>Август 2021 - Июнь 2026, департамент базовых технологий</b></sup><br>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></code>
@@ -78,7 +78,7 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ Разрабатывал небольшие компоненты и занимался [поддержкой](https://github.com/taiga-family/taiga-ui/graphs/contributors?all=1) стабильности:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[расследовал баги](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode), улучшал поведение компонентов и закрывал регрессии</sup><br>
 
-**Middle angular-разработчик**<br> 
+**Middle angular-разработчик** <code>грейд 12</code><br> 
 <sup><b>Ноябрь 2018 - Июль 2021, процессинговый департамент</b></sup> <br>
 <code title="zoom"><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/zoom-icon.svg" align="center" /></code>
 <code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab-icon.svg" align="center" /></code>
