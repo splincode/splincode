@@ -17,17 +17,18 @@
 
 #### O P E N &nbsp; S O U R C E
 
-<sup>Проекты, в которые вносил контрибьюты: <br> 
-[Angular](https://github.com/angular/angular/pulls?q=is%3Apr+author%3Asplincode+)
-• [Angular ESLint](https://github.com/angular-eslint/angular-eslint/pulls?q=is%3Apr+author%3Asplincode+)
-• [NGXS](https://github.com/ngxs/store/pulls?q=is%3Apr+is%3Aclosed+author%3Asplincode)
-• [NGXS Labs](https://github.com/ngxs-labs)
-• [Angular-RU](https://github.com/angular-ru)
-• [Taiga UI](https://github.com/taiga-family/taiga-ui/pulls?q=is%3Apr+author%3Asplincode+) и [toolkit](https://github.com/taiga-family/toolkit/pulls?q=is%3Apr+author%3Asplincode+)<br>
-[Maskito](https://github.com/taiga-family/maskito/pulls?q=is%3Apr+author%3Asplincode+)
-• [Taiga Labs](https://github.com/taiga-family-labs)
-• [Stylelint](https://github.com/stylelint/stylelint/pulls?q=is%3Apr+author%3Asplincode+)
-• [Prettier](https://github.com/prettier/prettier/pulls?q=is%3Apr+author%3Asplincode+)
+<sup>
+Проекты, в которые вносил контрибьюты:<br>
+🅰️ <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Aangular">Angular</a>
+• 🧹 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Aangular-eslint">Angular ESLint</a>
+• 📦 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Angxs">NGXS</a>
+• 🧪 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Angxs-labs">NGXS Labs</a>
+• 🇷🇺 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3AAngular-RU">Angular-RU</a><br>
+🌲 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Ataiga-family">Taiga Family</a>
+• 🧪 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Ataiga-family-labs">Taiga Family Labs</a>
+• 🎨 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Astylelint">Stylelint</a>
+• ✨ <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Aprettier">Prettier</a>
+• 🧠 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3AJetBrains">JetBrains</a>
 </sup>
 
 #### О П Ы Т &nbsp; Р А Б О Т Ы
