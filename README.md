@@ -5,20 +5,11 @@
 Всем привет, меня зовут Максим Иванов! <br> Работаю в команде одного из проектов
 <a href="https://en.wikipedia.org/wiki/T-Bank" target="_blank">желтого банка</a>. 
 <br />
-<code>Be kind; everyone is on their own journey</code>
-<br /><br />
-<a target="_blank" href="https://github.com/splincode/articles"><img src="https://img.shields.io/badge/%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8-48-yellowgreen" /></a>
-<a target="_blank" href="https://github.com/splincode/books"><img src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-56-yellow" /></a>
-<a target="_blank" href="https://github.com/splincode/meetups"><img src="https://img.shields.io/badge/%D0%92%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%BC%D0%B8%D1%82%D0%B0%D0%BF%D0%B0%D1%85-14-blue" /></a>
-<br />
-<a target="_blank" href="https://github.com/splincode/study"><img src="https://img.shields.io/badge/%D0%98%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%F0%9F%8C%8E_TIL-orange" /></a>
-<a target="_blank" href="https://github.com/splincode/codework"><img src="https://img.shields.io/badge/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%BA%D0%B8-%E2%9A%A1-red" /></a>
-<a target="_blank" href="https://github.com/splincode/films"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BA%D0%B8%D0%BD%D0%BE-%F0%9F%8D%BF-violet" /></a>
+<kbd>Be kind; everyone is on their own journey</kbd>
 
-#### O P E N &nbsp; S O U R C E
+#### ВКЛАД(ы) В OPEN SOURCE
 
 <sup>
-Проекты, в которые вносил контрибьюты:<br>
 🅰️ <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Aangular">Angular</a>
 • 🧹 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Aangular-eslint">Angular ESLint</a>
 • 📦 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Angxs">NGXS</a>
@@ -30,39 +21,45 @@
 • ✨ <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Aprettier">Prettier</a>
 • 🧠 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3AJetBrains">JetBrains</a>
 </sup>
+<br><br>
 
-#### О П Ы Т &nbsp; Р А Б О Т Ы
 
-### T(inkoff)-Bank <a href="https://github.com/Tinkoff" target="_blank"><code>⤯</code></a> · Full-time
+<a target="_blank" href="https://github.com/splincode/articles"><img src="https://img.shields.io/badge/%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8-48-yellowgreen" /></a>
+<a target="_blank" href="https://github.com/splincode/books"><img src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-56-yellow" /></a>
+<a target="_blank" href="https://github.com/splincode/meetups"><img src="https://img.shields.io/badge/%D0%92%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%BC%D0%B8%D1%82%D0%B0%D0%BF%D0%B0%D1%85-14-blue" /></a>
+<br />
+<a target="_blank" href="https://github.com/splincode/study"><img src="https://img.shields.io/badge/%D0%98%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%F0%9F%8C%8E_TIL-orange" /></a>
+<a target="_blank" href="https://github.com/splincode/codework"><img src="https://img.shields.io/badge/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%BA%D0%B8-%E2%9A%A1-red" /></a>
+<a target="_blank" href="https://github.com/splincode/films"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BA%D0%B8%D0%BD%D0%BE-%F0%9F%8D%BF-violet" /></a>
 
-**Middle+ angular-разработчик** <code>грейд 14</code><br> 
-<sup><b>Июль 2026 - now, HR-департамент</b></sup><br>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/astro-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/aggrid.svg" align="center" /></code>
+**ООО «ТЦР»**<br> 
+<sup><b>Июль 2026 - now</b> · Angular JS разработчик · HR-департамент · Middle+ · грейд 14</sup><br>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/astro-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/aggrid.svg" align="center" /></kbd>
+<kbd><img alt="" width="17px" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" align="center" /></kbd>
+<kbd><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/claude-icon.svg" align="center" /></kbd>
 
 <sup>☑ Реализовал сервис онбордингов для Taiga UI</sup><br>
 <sup>☑ Проводил миграции кодовой базы на Angular 22 и TypeScript 6</sup><br>
 <sup>☑ Писал E2E тесты на внутреннем решении компании Eva, а также помогал с переездом на Playwright</sup><br>
 
-**Middle+ angular-разработчик** <code>грейд 13</code><br> 
-<sup><b>Август 2021 - Июнь 2026, департамент базовых технологий</b></sup><br>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/renovatebot.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nx.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/less.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docusaurus.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/esbuild.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/vitest.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/deepseek-color.png" align="center" /></code>
-<code><img alt="" width="17px" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" align="center" /></code>
-<code><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/claude-icon.svg" align="center" /></code>
-<code><img alt="" width="35px" height="17px" src="https://cdn.svglogos.dev/logos/google-gemini.svg" /></code>
+**АО «ТБанк»**<br> 
+<sup><b>Август 2021 - Июнь 2026</b> · Angular JS разработчик · департамент базовых технологий · Middle+ · грейд 13</sup><br>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/renovatebot.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nx.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/less.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/playwright.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docusaurus.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/esbuild.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/vitest.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/deepseek-color.png" align="center" /></kbd>
+<kbd><img alt="" width="35px" height="17px" src="https://cdn.svglogos.dev/logos/google-gemini.svg" /></kbd>
 
 <sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/)</sup><br>
 <sup>☑ Помогал с решением багов в [ng-dompurify](https://github.com/Tinkoff/ng-dompurify) и [ng-event-plugins](https://github.com/Tinkoff/ng-event-plugins)</sup><br>
@@ -78,22 +75,22 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ Разрабатывал небольшие компоненты и занимался [поддержкой](https://github.com/taiga-family/taiga-ui/graphs/contributors?all=1) стабильности:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[расследовал баги](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode), улучшал поведение компонентов и закрывал регрессии</sup><br>
 
-**Middle angular-разработчик** <code>грейд 12</code><br> 
-<sup><b>Ноябрь 2018 - Июль 2021, процессинговый департамент</b></sup> <br>
-<code title="zoom"><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/zoom-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/insomnia.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sass.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://miro.medium.com/v2/resize:fit:1200/1*3fvaU00o2cIET9xckNkIWw.png" align="center" /></code>
-<code><img alt="" width="17" height="17px" src="https://v9.material.angular.io/assets/img/angular-material-logo.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/lerna.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://user-images.githubusercontent.com/1283734/83267345-6c14e180-a207-11ea-95fb-eebcf1b1c3b3.png" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jest.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/cypress-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nvm.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/notion-icon.svg" align="center" /></code>
+**АО «Тинькофф Банк»**<br> 
+<sup><b>Ноябрь 2018 - Июль 2021</b> · Angular JS разработчик · процессинговый департамент · Middle · грейд 12</sup><br>
+<kbd title="zoom"><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/zoom-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/insomnia.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sass.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://miro.medium.com/v2/resize:fit:1200/1*3fvaU00o2cIET9xckNkIWw.png" align="center" /></kbd>
+<kbd><img alt="" width="17" height="17px" src="https://v9.material.angular.io/assets/img/angular-material-logo.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/lerna.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://user-images.githubusercontent.com/1283734/83267345-6c14e180-a207-11ea-95fb-eebcf1b1c3b3.png" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jest.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/cypress-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/nvm.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/notion-icon.svg" align="center" /></kbd>
 
 <sup>☑ Попробовал себя в роли тeхлида команды из пяти frontend-разработчиков:</sup><br>
 <sup>&nbsp;&nbsp;&nbsp;◦ Релизный цикл с двухнедельными спринтами</sup><br>
@@ -115,33 +112,31 @@
 <sup>&nbsp;&nbsp;&nbsp;◦ [Angular Minsk](https://www.youtube.com/watch?v=BtVHm0FJIRA&ab_channel=AngularMinsk) в 2020</sup><br>
 <sup>☑ Тогда же начал писать внутренние абстракции для ускорения разработки: <br>таблицу с виртуальным скроллом, flexbox-директивы и вспомогательные утилиты. <br> Позже это оформилось в [Angular-RU SDK](https://angular-ru.gitbook.io/sdk/getting-started/intro)</sup><br>
 
-### Cinimex <a href="https://cinimex.ru/" target="_blank"><code>⤯</code></a> · Full-time
-
-**Junior+ angular-разработчик** <br>
-<sup><b>Ноябрь 2017 - Ноябрь 2018</b></sup> <br>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/apple.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/homebrew.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/safari.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jenkins.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bitbucket.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jira.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/confluence.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/swagger.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/postman-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nightwatch.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/prettier.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?fit=300%2C300&ssl=1" align="center" /></code>
-<code><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/reactivex.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/grunt.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gulp.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webpack.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/stylus.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/materializecss.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/karma.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></code>
+**АО «Синимекс-Информатика»** <br>
+<sup><b>Ноябрь 2017 - Ноябрь 2018</b> · Angular JS разработчик · Junior+</sup><br>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/apple.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/homebrew.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/safari.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jenkins.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bitbucket.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jira.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/confluence.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/swagger.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/postman-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nightwatch.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/prettier.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docker-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png?fit=300%2C300&ssl=1" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://v6.angular.io/assets/images/logos/angular/shield-large.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/reactivex.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/grunt.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gulp.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webpack.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/stylus.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/materializecss.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/karma.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/protractor.svg" align="center" /></kbd>
 
 <sup>☑ Занимался проектом на аутсорсинге в ПАО Росбанк, где разрабатывали календарь для отпусков сотрудников банка</sup><br>
 <sup>☑ Также принял участие в проекте на аутсорсинге в ЗАО Газпромбанк, связанный с ипотечным кредитованием</sup><br>
@@ -160,53 +155,49 @@
 [FrontendConf](https://www.youtube.com/watch?v=7646rW8qdcQ&ab_channel=FrontendChannel) в Москве
 (Сколково)</sup>
 
-### AVK-Communications <a href="https://www.avkcom.ru/" target="_blank"><code>⤯</code></a> · Full-time
-
-**Junior angular-разработчик** <br> 
-<sup><b>Июнь 2016 - Ноябрь 2017</b></sup> <br>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/ubuntu.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/chrome.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/firefox.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/teamcity.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.worldvectorlogo.com/logos/upsource-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/youtrack.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nginx.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nodejs-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/bootstrap.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bash-icon.svg" align="center" /></code>
+**ЗАО «АВК-Коммьюникейшнз»** <br> 
+<sup><b>Июнь 2016 - Ноябрь 2017</b> · Angular JS разработчик · Junior</sup> <br>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/ubuntu.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/chrome.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/firefox.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/webstorm.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/teamcity.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.worldvectorlogo.com/logos/upsource-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/youtrack.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nginx.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/nodejs-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/bootstrap.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://angularjs.org/img/ng-logo.png" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/bash-icon.svg" align="center" /></kbd>
 
 <sup>☑ Занимался поддержкой legacy-кода в проектах на Angular.JS</sup><br>
 <sup>☑ Занимался написанием [КриптоПро ЭЦП плагина](https://github.com/splincode/cryptopro-browser-plugin) на Angular 2.0</sup><br>
 <sup>☑ Принимал участие в проектах на аутсорсинге ПАО Вымпелкома (Билайн), <br>где разрабатывали виджеты для их собственного BPMN движка под Web UI.</sup>
 
-### Freelance <a href="https://freelance.ru/" target="_blank"><code>⤯</code></a> · Part-time
-
-**Веб-мастер (верстальщик, php-handyman)** <br> 
-<sup><b>Май 2012 - Август 2015</b></sup> <br>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/microsoft-windows-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/skype.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/opera.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cygwin_logo.svg/1920px-Cygwin_logo.svg.png" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png" align="center" /></code>
-<code title="Dreamweaver"><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-dreamweaver.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/html-5.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/css.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jquery.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/mootools.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/php.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/mysql.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/apache.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/joomla.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Druplicon.vector.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/wordpress.svg" align="center" /></code>
-<code><img alt="" height="17px" src="https://cdn.svgporn.com/logos/pug.svg" align="center" /></code>
+**Freelance** <br> 
+<sup><b>Май 2012 - Август 2015</b> · Веб-мастер · Part-time · PHP · HTML-верстальщик)</sup> <br>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/microsoft-windows-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/skype.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/opera.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cygwin_logo.svg/1920px-Cygwin_logo.svg.png" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png" align="center" /></kbd>
+<kbd title="Dreamweaver"><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-dreamweaver.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/html-5.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/css.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/javascript.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/jquery.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/mootools.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/php.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/mysql.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/apache.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/joomla.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Druplicon.vector.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/wordpress.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/pug.svg" align="center" /></kbd>
 
 <sup>☑ Верстка страничек по photoshop-макетам</sup><br>
 <sup>☑ Поддержка плагинов на PHP для Joomla, Wordpress, Drupal на заказах с фриланс сайтов.</sup> <br>
