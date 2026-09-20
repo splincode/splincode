@@ -37,6 +37,7 @@
 <kbd><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/astro-icon.svg" align="center" /></kbd>
 <kbd><img alt="" width="17px" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></kbd>
 <kbd><img alt="" width="17px" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/aggrid.svg" align="center" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/vitest.svg" align="center" /></kbd>
 <kbd><img alt="" width="17px" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" align="center" /></kbd>
 <kbd><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/claude-icon.svg" align="center" /></kbd>
 
@@ -56,7 +57,6 @@
 <kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></kbd>
 <kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/docusaurus.svg" align="center" /></kbd>
 <kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/esbuild.svg" align="center" /></kbd>
-<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/vitest.svg" align="center" /></kbd>
 <kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" align="center" /></kbd>
 <kbd><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/deepseek-color.png" align="center" /></kbd>
 <kbd><img alt="" width="35px" height="17px" src="https://cdn.svglogos.dev/logos/google-gemini.svg" /></kbd>
