@@ -33,7 +33,7 @@
 <a target="_blank" href="https://github.com/splincode/films"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BA%D0%B8%D0%BD%D0%BE-%F0%9F%8D%BF-violet" /></a>
 
 **ООО «ТЦР»**<br> 
-<sup><b>Июль 2026 - now</b> · Angular JS разработчик · HR-департамент · Middle+ · грейд 14</sup><br>
+<sup><b>Июль 2026 - now</b> · Angular JS разработчик · HR-департамент · Middle+ · грейд 15</sup><br>
 <kbd><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/astro-icon.svg" align="center" /></kbd>
 <kbd><img alt="" width="17px" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></kbd>
 <kbd><img alt="" width="17px" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/aggrid.svg" align="center" /></kbd>
@@ -46,7 +46,7 @@
 <sup>☑ Писал E2E тесты на внутреннем решении компании Eva, а также помогал с переездом на Playwright</sup><br>
 
 **АО «ТБанк»**<br> 
-<sup><b>Август 2021 - Июнь 2026</b> · Angular JS разработчик · департамент базовых технологий · Middle+ · грейд 13</sup><br>
+<sup><b>Август 2021 - Июнь 2026</b> · Angular JS разработчик · департамент базовых технологий · Middle+ · грейд 14</sup><br>
 <kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/github-icon.svg" align="center" /></kbd>
 <kbd><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/ios.png" align="center" /></kbd>
 <kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/figma.svg" align="center" /></kbd>
@@ -76,7 +76,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[расследовал баги](https://github.com/taiga-family/taiga-ui/issues?q=assignee%3Asplincode), улучшал поведение компонентов и закрывал регрессии</sup><br>
 
 **АО «Тинькофф Банк»**<br> 
-<sup><b>Ноябрь 2018 - Июль 2021</b> · Angular JS разработчик · процессинговый департамент · Middle · грейд 12</sup><br>
+<sup><b>Ноябрь 2018 - Июль 2021</b> · Angular JS разработчик · процессинговый департамент · Middle · грейд 14</sup><br>
 <kbd title="zoom"><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/zoom-icon.svg" align="center" /></kbd>
 <kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/gitlab-icon.svg" align="center" /></kbd>
 <kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/insomnia.svg" align="center" /></kbd>
