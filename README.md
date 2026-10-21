@@ -61,7 +61,7 @@
 <kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/esbuild.svg" align="center" /></kbd>
 <kbd><img alt="" height="17px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" align="center" /></kbd>
 <kbd><img alt="" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/deepseek-color.png" align="center" /></kbd>
-<kbd><img alt="" width="35px" height="17px" src="https://cdn.svglogos.dev/logos/google-gemini.svg" /></kbd>
+<kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/google-gemini-icon.svg" /></kbd>
 
 <sup>☑ Принимал участие в запуске проекта [дизайн-гайдлайнов Т-Банка](https://design.tbank.ru/)</sup><br>
 <sup>☑ Помогал с решением багов в [ng-dompurify](https://github.com/Tinkoff/ng-dompurify) и [ng-event-plugins](https://github.com/Tinkoff/ng-event-plugins)</sup><br>
