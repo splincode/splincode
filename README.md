@@ -43,9 +43,13 @@
 <kbd><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/storybook-icon.svg" align="center" /></kbd>
 <kbd><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/sentry-icon.svg" align="center" /></kbd>
 
-<sup>☑ Реализовал сервис онбордингов для Taiga UI</sup><br>
+<sup>☑ Развивал архитектуру корпоративной HR-платформы на Angular</sup><br>
+<sup>☑ Рефакторил бизнес-логику, управление состоянием и ролевую модель доступа</sup><br>
+<sup>☑ Дорабатывал сложные таблицы на AG Grid</sup><br>
 <sup>☑ Проводил миграции кодовой базы на Angular 22 и TypeScript 6</sup><br>
-<sup>☑ Писал E2E тесты на внутреннем решении компании Eva, а также помогал с переездом на Playwright</sup><br>
+<sup>☑ Переводил unit-тесты с Karma на Vitest, E2E — с Eva на Playwright</sup><br>
+<sup>☑ Автоматизировал AI Code Review в GitLab CI</sup><br>
+<sup>☑ Реализовал сервис онбордингов для Taiga UI</sup><br>
 
 **АО «ТБанк»**<br> 
 <sup><b>Август 2021 - Июнь 2026</b> · Angular JS разработчик · департамент базовых технологий · Middle+ · грейд 14</sup><br>
