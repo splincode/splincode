@@ -40,6 +40,8 @@
 <kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/vitest.svg" align="center" /></kbd>
 <kbd><img alt="" width="17px" height="17px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" align="center" /></kbd>
 <kbd><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/claude-icon.svg" align="center" /></kbd>
+<kbd><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/storybook-icon.svg" align="center" /></kbd>
+<kbd><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/sentry-icon.svg" align="center" /></kbd>
 
 <sup>☑ Реализовал сервис онбордингов для Taiga UI</sup><br>
 <sup>☑ Проводил миграции кодовой базы на Angular 22 и TypeScript 6</sup><br>
