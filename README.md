@@ -16,13 +16,13 @@
 • 🧪 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Angxs-labs">NGXS Labs</a>
 • 🇷🇺 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3AAngular-RU">Angular-RU</a><br>
 🌲 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Ataiga-family">Taiga Family</a>
+• 🚀 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Asplincode-taiga-labs">Taiga Labs</a>
 • 🎨 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Astylelint">Stylelint</a>
 • ✨ <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Aprettier">Prettier</a>
 • 🧠 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3AJetBrains">JetBrains</a><br>
 🏦 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3ATinkoff">Tinkoff Open Source</a>
 • 🧪 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20repo%3Ajestjs%2Fjest">Jest</a>
 • 📦 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20repo%3Ang-packagr%2Fng-packagr">ng-packagr</a><br>
-🚀 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Asplincode-taiga-labs">Taiga Labs</a>
 </sup>
 <br><br>
 
