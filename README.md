@@ -10,20 +10,19 @@
 #### ВКЛАД(ы) В OPEN SOURCE
 
 <sup>
-🅰️ <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Aangular">Angular</a>
-• 🧹 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Aangular-eslint">Angular ESLint</a>
-• 📦 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Angxs">NGXS</a>
-• 🧪 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Angxs-labs">NGXS Labs</a>
-• 🇷🇺 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3AAngular-RU">Angular-RU</a><br>
-🌲 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Ataiga-family">Taiga Family</a>
-• 🎨 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Astylelint">Stylelint</a>
-• ✨ <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Aprettier">Prettier</a>
-• 🧠 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3AJetBrains">JetBrains</a><br>
-🏦 <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asplincode+org%3ATinkoff">Tinkoff Open Source</a>
-• 🧪 <a href="https://github.com/jestjs/jest/pull/11645">Jest</a>
-• 📦 <a href="https://github.com/ng-packagr/ng-packagr/pull/3480">ng-packagr</a><br>
-🚀 <a href="https://github.com/splincode-taiga-labs">Splincode Taiga Labs</a>
-• 🛠️ <a href="https://github.com/Tinkoff/angular-open-source-starter/pulls?q=is%3Apr+is%3Amerged+author%3Asplincode">Angular OSS Starter</a>
+🅰️ <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Aangular">Angular</a>
+• 🧹 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Aangular-eslint">Angular ESLint</a>
+• 📦 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Angxs">NGXS</a>
+• 🧪 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Angxs-labs">NGXS Labs</a>
+• 🇷🇺 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3AAngular-RU">Angular-RU</a><br>
+🌲 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Ataiga-family">Taiga Family</a>
+• 🎨 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Astylelint">Stylelint</a>
+• ✨ <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Aprettier">Prettier</a>
+• 🧠 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3AJetBrains">JetBrains</a><br>
+🏦 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3ATinkoff">Tinkoff Open Source</a>
+• 🧪 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20repo%3Ajestjs%2Fjest">Jest</a>
+• 📦 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20repo%3Ang-packagr%2Fng-packagr">ng-packagr</a><br>
+🚀 <a href="https://github.com/issues/search?q=is%3Apr%20author%3Asplincode%20org%3Asplincode-taiga-labs">Taiga Labs</a>
 </sup>
 <br><br>
 
