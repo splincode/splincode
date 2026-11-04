@@ -16,7 +16,6 @@
 • 🧪 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Angxs-labs">NGXS Labs</a>
 • 🇷🇺 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3AAngular-RU">Angular-RU</a><br>
 🌲 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Ataiga-family">Taiga Family</a>
-• 🧪 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Ataiga-family-labs">Taiga Family Labs</a>
 • 🎨 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Astylelint">Stylelint</a>
 • ✨ <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Aprettier">Prettier</a>
 • 🧠 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3AJetBrains">JetBrains</a><br>
