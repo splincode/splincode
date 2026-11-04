@@ -19,7 +19,12 @@
 • 🧪 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Ataiga-family-labs">Taiga Family Labs</a>
 • 🎨 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Astylelint">Stylelint</a>
 • ✨ <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3Aprettier">Prettier</a>
-• 🧠 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3AJetBrains">JetBrains</a>
+• 🧠 <a href="https://github.com/issues?q=is%3Apr+author%3Asplincode+org%3AJetBrains">JetBrains</a><br>
+🏦 <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Asplincode+org%3ATinkoff">Tinkoff Open Source</a>
+• 🧪 <a href="https://github.com/jestjs/jest/pull/11645">Jest</a>
+• 📦 <a href="https://github.com/ng-packagr/ng-packagr/pull/3480">ng-packagr</a><br>
+🚀 <a href="https://github.com/splincode-taiga-labs">Splincode Taiga Labs</a>
+• 🛠️ <a href="https://github.com/Tinkoff/angular-open-source-starter/pulls?q=is%3Apr+is%3Amerged+author%3Asplincode">Angular OSS Starter</a>
 </sup>
 <br><br>
 
