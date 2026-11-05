@@ -185,7 +185,7 @@
 <sup>☑ Принимал участие в проектах на аутсорсинге ПАО Вымпелкома (Билайн), <br>где разрабатывали виджеты для их собственного BPMN движка под Web UI.</sup>
 
 **Freelance** <br> 
-<sup><b>Май 2012 - Август 2015</b> · Веб-мастер · Part-time · PHP · HTML-верстальщик)</sup> <br>
+<sup><b>Май 2012 - Август 2015</b> · Веб-мастер · Part-time · PHP · HTML-верстальщик</sup> <br>
 <kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/microsoft-windows-icon.svg" align="center" /></kbd>
 <kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/skype.svg" align="center" /></kbd>
 <kbd><img alt="" height="17px" src="https://cdn.svglogos.dev/logos/opera.svg" align="center" /></kbd>
