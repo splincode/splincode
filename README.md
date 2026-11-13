@@ -36,7 +36,7 @@
 <a target="_blank" href="https://github.com/splincode/films"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BA%D0%B8%D0%BD%D0%BE-%F0%9F%8D%BF-violet" /></a>
 
 **ООО «ТЦР»**<br> 
-<sup><b>Июль 2026 - now</b> · Angular JS разработчик · HR-департамент · Middle+ · грейд 15</sup><br>
+<sup><b>Июль 2026 - now</b> · Angular JS разработчик · HR-департамент · Middle+ · грейд 14</sup><br>
 <kbd><img alt="" width="17px" height="17px" src="https://cdn.svglogos.dev/logos/astro-icon.svg" align="center" /></kbd>
 <kbd><img alt="" width="17px" height="17px" src="https://cdn.svgporn.com/logos/angular-icon.svg" align="center" /></kbd>
 <kbd><img alt="" width="17px" height="17px" src="https://raw.githubusercontent.com/splincode/splincode/refs/heads/main/assets/aggrid.svg" align="center" /></kbd>
